@@ -1,0 +1,14 @@
+{
+  "name": "defaultgamemode",
+  "description": "Set default gamemode",
+  "arguments": [
+    {
+      "type": "id",
+      "value": [
+        "gamemode"
+      ],
+      "label": "Default gamemode"
+    }
+  ],
+  "mod": "minecraft"
+}

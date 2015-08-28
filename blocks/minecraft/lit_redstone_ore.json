@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "lit_redstone_ore",
+  "name": "Glowing Redstone Ore",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Glowing Redstone Ore": 0
+    }
+  }
+}

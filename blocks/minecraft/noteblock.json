@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "noteblock",
+  "name": "Note Block",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Note Block": 0
+    }
+  }
+}

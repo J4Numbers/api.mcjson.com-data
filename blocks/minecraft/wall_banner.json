@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "wall_banner",
+  "name": "Wall-mounted Banner",
+  "technical": false,
+  "introduced_at": "1.8.0",
+  "changed_at": "1.8.0",
+  "meta": {
+    "meta": {
+      "Wall-mounted Banner": 0
+    }
+  }
+}

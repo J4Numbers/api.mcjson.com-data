@@ -1,0 +1,11 @@
+{
+  "name": "op",
+  "description": "Grants operator status from a player.",
+  "arguments": [
+    {
+      "type": "string",
+      "label": "player"
+    }
+  ],
+  "mod": "minecraft"
+}

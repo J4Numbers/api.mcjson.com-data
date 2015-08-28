@@ -1,0 +1,14 @@
+{
+  "name": "difficulty",
+  "description": "Set difficulty",
+  "arguments": [
+    {
+      "type": "id",
+      "value": [
+        "difficulty"
+      ],
+      "label": "Difficulty"
+    }
+  ],
+  "mod": "minecraft"
+}

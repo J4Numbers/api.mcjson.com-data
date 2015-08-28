@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "rabbit_foot",
+  "name": "Rabbit's Foot",
+  "technical": false,
+  "introduced_at": "1.8.1",
+  "changed_at": "1.8.0",
+  "meta": {
+    "meta": {
+      "Rabbit's Foot": 0
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "repeating_command_block",
+  "name": "Repeating Command Block",
+  "technical": false,
+  "introduced_at": "1.9.0-15w34a",
+  "changed_at": "1.9.0-15w34a",
+  "meta": {
+    "meta": {
+      "Repeating Command Block": 0
+    }
+  }
+}

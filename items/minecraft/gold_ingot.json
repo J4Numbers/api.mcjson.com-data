@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "gold_ingot",
+  "name": "Gold Ingot",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Gold Ingot": 0
+    }
+  }
+}

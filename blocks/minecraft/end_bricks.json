@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "end_bricks",
+  "name": "End Stone Bricks",
+  "technical": false,
+  "introduced_at": "1.9.0-15w31a",
+  "changed_at": "1.9.0-15w31a",
+  "meta": {
+    "meta": {
+      "End Stone Bricks": 0
+    }
+  }
+}

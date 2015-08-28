@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "glass_bottle",
+  "name": "Glass Bottle",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Glass Bottle": 0
+    }
+  }
+}

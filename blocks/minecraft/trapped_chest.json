@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "trapped_chest",
+  "name": "Trapped Chest",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.5.0",
+  "meta": {
+    "meta": {
+      "Trapped Chest": 0
+    }
+  }
+}

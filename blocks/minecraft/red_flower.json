@@ -1,0 +1,21 @@
+{
+  "mod": "minecraft",
+  "id": "red_flower",
+  "name": "Poppy",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.7.0",
+  "meta": {
+    "meta": {
+      "Poppy": 0,
+      "Blue Orchid": 1,
+      "Allium": 2,
+      "Azure Bluet": 3,
+      "Red Tulip": 4,
+      "Orange Tulip": 5,
+      "White Tulip": 6,
+      "Pink Tulip": 7,
+      "Oxeye Daisy": 8
+    }
+  }
+}

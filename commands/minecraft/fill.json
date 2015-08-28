@@ -1,0 +1,61 @@
+{
+  "name": "fill",
+  "description": "Fills all or parts of a region with a specific block.",
+  "arguments": [
+    {
+      "type": "x",
+      "label": "x1"
+    },
+    {
+      "type": "y",
+      "label": "y1"
+    },
+    {
+      "type": "z",
+      "label": "z1"
+    },
+    {
+      "type": "x",
+      "label": "x2"
+    },
+    {
+      "type": "y",
+      "label": "y2"
+    },
+    {
+      "type": "z",
+      "label": "z2"
+    },
+    {
+      "type": "id",
+      "value": [
+        "block"
+      ],
+      "label": "tileName"
+    },
+    {
+      "type": "number",
+      "optional": true,
+      "label": "data"
+    },
+    {
+      "type": "literal",
+      "optional": true,
+      "value": [
+        "destroy",
+        "hollow",
+        "keep",
+        "outline",
+        "replace"
+      ],
+      "label": "oldBlockHandling"
+    },
+    {
+      "type": "datatag",
+      "optional": true,
+      "value": "tileentity",
+      "label": "dataTag"
+    }
+  ],
+  "mod": "minecraft"
+}

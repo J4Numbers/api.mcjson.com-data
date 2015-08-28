@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "golden_boots",
+  "name": "Golden Boots",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Golden Boots": 0
+    }
+  }
+}

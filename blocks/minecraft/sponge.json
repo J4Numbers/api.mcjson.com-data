@@ -1,0 +1,14 @@
+{
+  "mod": "minecraft",
+  "id": "sponge",
+  "name": "Sponge",
+  "changed_at": "1.8.0",
+  "technical": false,
+  "introduced_at": "1.8.3",
+  "meta": {
+    "meta": {
+      "Sponge": 0,
+      "Wet Sponge": 1
+    }
+  }
+}

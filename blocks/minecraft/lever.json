@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "lever",
+  "name": "Lever",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Lever": 0
+    }
+  }
+}

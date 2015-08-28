@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "iron_trapdoor",
+  "name": "Iron Trapdoor",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.8.0",
+  "meta": {
+    "meta": {
+      "Iron Trapdoor": 0
+    }
+  }
+}

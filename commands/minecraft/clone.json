@@ -1,0 +1,68 @@
+{
+  "name": "clone",
+  "description": "Clones blocks from one region to another",
+  "arguments": [
+    {
+      "type": "x",
+      "label": "x1"
+    },
+    {
+      "type": "y",
+      "label": "y1"
+    },
+    {
+      "type": "z",
+      "label": "z1"
+    },
+    {
+      "type": "x",
+      "label": "x2"
+    },
+    {
+      "type": "y",
+      "label": "y2"
+    },
+    {
+      "type": "z",
+      "label": "z2"
+    },
+    {
+      "type": "x"
+    },
+    {
+      "type": "y"
+    },
+    {
+      "type": "z"
+    },
+    {
+      "type": "literal",
+      "optional": true,
+      "value": [
+        "filtered",
+        "masked",
+        "replace"
+      ],
+      "label": "maskMode"
+    },
+    {
+      "type": "literal",
+      "optional": true,
+      "value": [
+        "force",
+        "move",
+        "normal"
+      ],
+      "label": "cloneMode"
+    },
+    {
+      "type": "id",
+      "optional": true,
+      "value": [
+        "block"
+      ],
+      "label": "tileName"
+    }
+  ],
+  "mod": "minecraft"
+}

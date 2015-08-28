@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "enchanting_table",
+  "name": "Enchantment Table",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Enchantment Table": 0
+    }
+  }
+}

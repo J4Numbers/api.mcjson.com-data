@@ -1,0 +1,78 @@
+{
+  "name": "replaceitem",
+  "description": "Replaces items in the inventories of blocks (chest, furnaces, etc.) or entities (players or mobs) with the given item(s).",
+  "arguments": [
+    {
+      "type": "subcommand",
+      "subcommands": [
+        {
+          "subArgument": {
+            "type": "literal",
+            "value": [
+              "block"
+            ],
+            "label": "block"
+          },
+          "arguments": [
+            {
+              "type": "x"
+            },
+            {
+              "type": "y"
+            },
+            {
+              "type": "z"
+            }
+          ]
+        },
+        {
+          "subArgument": {
+            "type": "literal",
+            "value": [
+              "entity"
+            ],
+            "label": "entity"
+          },
+          "arguments": [
+            {
+              "type": "target",
+              "value": "entity",
+              "label": "selector"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "id",
+      "value": [
+        "slots"
+      ],
+      "label": "slot"
+    },
+    {
+      "type": "id",
+      "value": [
+        "item"
+      ],
+      "label": "item"
+    },
+    {
+      "type": "number",
+      "optional": true,
+      "label": "amount"
+    },
+    {
+      "type": "number",
+      "optional": true,
+      "label": "data"
+    },
+    {
+      "type": "datatag",
+      "optional": true,
+      "value": "itemtag",
+      "label": "dataTag"
+    }
+  ],
+  "mod": "minecraft"
+}

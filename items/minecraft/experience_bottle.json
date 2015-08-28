@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "experience_bottle",
+  "name": "Bottle o' Enchanting",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.2.1",
+  "meta": {
+    "meta": {
+      "Bottle o' Enchanting": 0
+    }
+  }
+}

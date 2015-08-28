@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "detector_rail",
+  "name": "Detector Rail",
+  "technical": false,
+  "introduced_at": "1.5.0",
+  "changed_at": "1.5.0",
+  "meta": {
+    "meta": {
+      "Detector Rail": 0
+    }
+  }
+}

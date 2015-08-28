@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "crafting_table",
+  "name": "Crafting Table",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Crafting Table": 0
+    }
+  }
+}

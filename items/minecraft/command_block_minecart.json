@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "command_block_minecart",
+  "name": "Minecart with Command Block",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Minecart with Command Block": 0
+    }
+  }
+}

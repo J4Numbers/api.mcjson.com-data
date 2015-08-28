@@ -1,0 +1,11 @@
+{
+  "name": "setidletimeout",
+  "description": "Sets the time before idle players are kicked from the server.",
+  "arguments": [
+    {
+      "type": "number",
+      "label": "Minutes until kick"
+    }
+  ],
+  "mod": "minecraft"
+}

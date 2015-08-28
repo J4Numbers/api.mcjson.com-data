@@ -1,0 +1,11 @@
+{
+  "name": "say",
+  "description": "say a message",
+  "arguments": [
+    {
+      "type": "varstring",
+      "label": "message"
+    }
+  ],
+  "mod": "minecraft"
+}

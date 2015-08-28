@@ -1,0 +1,28 @@
+{
+  "mod": "minecraft",
+  "id": "stained_glass",
+  "name": "Stained Glass",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.7.0",
+  "meta": {
+    "meta": {
+      "White Stained Glass": 0,
+      "Orange Stained Glass": 1,
+      "Magenta Stained Glass": 2,
+      "Light Blue Stained Glass": 3,
+      "Yellow Stained Glass": 4,
+      "Lime Stained Glass": 5,
+      "Pink Stained Glass": 6,
+      "Gray Stained Glass": 7,
+      "Light Gray Stained Glass": 8,
+      "Cyan Stained Glass": 9,
+      "Purple Stained Glass": 10,
+      "Blue Stained Glass": 11,
+      "Brown Stained Glass": 12,
+      "Green Stained Glass": 13,
+      "Red Stained Glass": 14,
+      "Black Stained Glass": 15
+    }
+  }
+}

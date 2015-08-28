@@ -1,0 +1,17 @@
+{
+  "name": "entitydata",
+  "description": "Modifies the data tag of an entity.",
+  "arguments": [
+    {
+      "type": "target",
+      "value": "entity",
+      "label": "Entity"
+    },
+    {
+      "type": "datatag",
+      "value": "entity",
+      "label": "dataTag"
+    }
+  ],
+  "mod": "minecraft"
+}

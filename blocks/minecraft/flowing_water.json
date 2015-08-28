@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "flowing_water",
+  "name": "Flowing Water",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Flowing Water": 0
+    }
+  }
+}

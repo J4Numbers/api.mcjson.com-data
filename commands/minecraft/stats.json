@@ -1,0 +1,165 @@
+{
+  "name": "stats",
+  "description": "Manages the updating of scoreboard objectives with the results of other commands.",
+  "arguments": [
+    {
+      "type": "subcommand",
+      "subcommands": [
+        {
+          "subArgument": {
+            "type": "literal",
+            "value": [
+              "block"
+            ],
+            "label": "block"
+          },
+          "arguments": [
+            {
+              "type": "x"
+            },
+            {
+              "type": "y"
+            },
+            {
+              "type": "z"
+            },
+            {
+              "type": "subcommand",
+              "subcommands": [
+                {
+                  "subArgument": {
+                    "type": "literal",
+                    "value": [
+                      "clear"
+                    ],
+                    "label": "clear"
+                  },
+                  "arguments": [
+                    {
+                      "type": "literal",
+                      "value": [
+                        "Blocks",
+                        "Entities",
+                        "Items",
+                        "Query",
+                        "Success"
+                      ],
+                      "label": "Stat"
+                    }
+                  ]
+                },
+                {
+                  "subArgument": {
+                    "type": "literal",
+                    "value": [
+                      "set"
+                    ],
+                    "label": "set"
+                  },
+                  "arguments": [
+                    {
+                      "type": "literal",
+                      "value": [
+                        "Blocks",
+                        "Entities",
+                        "Items",
+                        "Query",
+                        "Success"
+                      ],
+                      "label": "Stat"
+                    },
+                    {
+                      "type": "target",
+                      "value": "entity",
+                      "label": "selector"
+                    },
+                    {
+                      "type": "string",
+                      "optional": "true",
+                      "label": "Objective"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subArgument": {
+            "type": "literal",
+            "value": [
+              "entity"
+            ],
+            "label": "entity"
+          },
+          "arguments": [
+            {
+              "type": "target",
+              "value": "entity",
+              "label": "selector"
+            },
+            {
+              "type": "subcommand",
+              "subcommands": [
+                {
+                  "subArgument": {
+                    "type": "literal",
+                    "value": [
+                      "clear"
+                    ],
+                    "label": "clear"
+                  },
+                  "arguments": [
+                    {
+                      "type": "literal",
+                      "value": [
+                        "Blocks",
+                        "Entities",
+                        "Items",
+                        "Query",
+                        "Success"
+                      ],
+                      "label": "Stat"
+                    }
+                  ]
+                },
+                {
+                  "subArgument": {
+                    "type": "literal",
+                    "value": [
+                      "set"
+                    ],
+                    "label": "set"
+                  },
+                  "arguments": [
+                    {
+                      "type": "literal",
+                      "value": [
+                        "Blocks",
+                        "Entities",
+                        "Items",
+                        "Query",
+                        "Success"
+                      ],
+                      "label": "Stat"
+                    },
+                    {
+                      "type": "target",
+                      "value": "entity",
+                      "label": "selector"
+                    },
+                    {
+                      "type": "string",
+                      "label": "Objective"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "mod": "minecraft"
+}

@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "bone",
+  "name": "Bone",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Bone": 0
+    }
+  }
+}

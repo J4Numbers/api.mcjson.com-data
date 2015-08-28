@@ -1,0 +1,19 @@
+{
+  "name": "setworldspawn",
+  "description": "Sets world spawn",
+  "arguments": [
+    {
+      "type": "x",
+      "optional": true
+    },
+    {
+      "type": "y",
+      "optional": true
+    },
+    {
+      "type": "z",
+      "optional": true
+    }
+  ],
+  "mod": "minecraft"
+}

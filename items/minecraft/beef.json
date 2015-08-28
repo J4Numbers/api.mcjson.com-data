@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "beef",
+  "name": "Raw Beef",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Raw Beef": 0
+    }
+  }
+}

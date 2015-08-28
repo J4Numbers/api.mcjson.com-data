@@ -1,0 +1,18 @@
+{
+  "mod": "minecraft",
+  "id": "planks",
+  "name": "Wood Plank",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Oak Wood Plank": 0,
+      "Spruce Wood Plank": 1,
+      "Birch Wood Plank": 2,
+      "Jungle Wood Plank": 3,
+      "Acacia Wood Plank": 4,
+      "Dark Oak Wood Plank": 5
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "leather_chestplate",
+  "name": "Leather Tunic",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Leather Tunic": 0
+    }
+  }
+}

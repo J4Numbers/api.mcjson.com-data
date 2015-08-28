@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "chainmail_chestplate",
+  "name": "Chainmail Chestplate",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Chainmail Chestplate": 0
+    }
+  }
+}

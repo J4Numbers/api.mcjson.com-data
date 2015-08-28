@@ -1,0 +1,34 @@
+{
+  "name": "spreadplayers",
+  "description": "Teleports entities (players, mobs, items, etc.) to random surface locations within an area.",
+  "arguments": [
+    {
+      "type": "x"
+    },
+    {
+      "type": "z"
+    },
+    {
+      "type": "number",
+      "label": "SpreadDistance"
+    },
+    {
+      "type": "number",
+      "label": "MaxRange"
+    },
+    {
+      "type": "literal",
+      "value": [
+        "true",
+        "false"
+      ],
+      "label": "RespectTeams"
+    },
+    {
+      "type": "target",
+      "value": "player",
+      "label": "Player"
+    }
+  ],
+  "mod": "minecraft"
+}

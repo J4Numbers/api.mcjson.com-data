@@ -1,0 +1,43 @@
+{
+  "name": "playsound",
+  "description": "Fills all or parts of a region with a specific block.",
+  "arguments": [
+    {
+      "type": "id",
+      "value": [
+        "sound"
+      ],
+      "label": "particle"
+    },
+    {
+      "type": "target",
+      "value": "player",
+      "label": "Player"
+    },
+    {
+      "type": "x",
+      "optional": true
+    },
+    {
+      "type": "y",
+      "optional": true
+    },
+    {
+      "type": "z",
+      "optional": true
+    },
+    {
+      "type": "number",
+      "label": "volume"
+    },
+    {
+      "type": "number",
+      "label": "pitch"
+    },
+    {
+      "type": "number",
+      "label": "minVolume"
+    }
+  ],
+  "mod": "minecraft"
+}

@@ -1,0 +1,39 @@
+{
+  "mod": "minecraft",
+  "id": "spawn_egg",
+  "name": "Spawn",
+  "technical": false,
+  "introduced_at": "1.1.0",
+  "changed_at": "1.8.0",
+  "meta": {
+    "meta": {
+      "Spawn Creeper": 50,
+      "Spawn Skeleton": 51,
+      "Spawn Spider": 52,
+      "Spawn Zombie": 54,
+      "Spawn Slime": 55,
+      "Spawn Ghast": 56,
+      "Spawn Pigman": 57,
+      "Spawn Enderman": 58,
+      "Spawn Cave Spider": 59,
+      "Spawn Silverfish": 60,
+      "Spawn Blaze": 61,
+      "Spawn Magma Cube": 62,
+      "Spawn Bat": 65,
+      "Spawn Witch": 66,
+      "Spawn Endermite": 67,
+      "Spawn Guardian": 68,
+      "Spawn Pig": 90,
+      "Spawn Sheep": 91,
+      "Spawn Cow": 92,
+      "Spawn Chicken": 93,
+      "Spawn Squid": 94,
+      "Spawn Wolf": 95,
+      "Spawn Mooshroom": 96,
+      "Spawn Ocelot": 98,
+      "Spawn Horse": 100,
+      "Spawn Rabbit": 101,
+      "Spawn Villager": 120
+    }
+  }
+}

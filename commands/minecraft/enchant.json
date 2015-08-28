@@ -1,0 +1,24 @@
+{
+  "name": "enchant",
+  "description": "Adds an enchantment to a player's selected item, subject to the same restrictions as an anvil.",
+  "arguments": [
+    {
+      "type": "target",
+      "value": "player",
+      "label": "Player"
+    },
+    {
+      "type": "id",
+      "value": [
+        "enchantments"
+      ],
+      "label": "effect"
+    },
+    {
+      "type": "number",
+      "optional": true,
+      "label": "level"
+    }
+  ],
+  "mod": "minecraft"
+}

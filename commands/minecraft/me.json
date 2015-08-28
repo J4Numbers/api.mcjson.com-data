@@ -1,0 +1,11 @@
+{
+  "name": "me",
+  "description": "Displays a message about yourself.",
+  "arguments": [
+    {
+      "type": "varstring",
+      "label": "action"
+    }
+  ],
+  "mod": "minecraft"
+}

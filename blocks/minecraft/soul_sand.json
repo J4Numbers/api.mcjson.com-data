@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "soul_sand",
+  "name": "Soul Sand",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Soul Sand": 0
+    }
+  }
+}

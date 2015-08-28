@@ -1,0 +1,71 @@
+{
+  "name": "execute",
+  "description": "Executes a command with a different user and position, with delegated permissions.",
+  "arguments": [
+    {
+      "type": "target",
+      "value": "entity",
+      "label": "Entity"
+    },
+    {
+      "type": "x"
+    },
+    {
+      "type": "y"
+    },
+    {
+      "type": "z"
+    },
+    {
+      "type": "subcommand",
+      "subcommands": [
+        {
+          "subArgument": {
+            "type": "varstring",
+            "label": "command"
+          },
+          "arguments": []
+        },
+        {
+          "subArgument": {
+            "type": "literal",
+            "value": [
+              "detect"
+            ],
+            "label": "detect"
+          },
+          "arguments": [
+            {
+              "type": "x",
+              "label": "x2"
+            },
+            {
+              "type": "y",
+              "label": "y2"
+            },
+            {
+              "type": "z",
+              "label": "z2"
+            },
+            {
+              "type": "id",
+              "value": [
+                "block"
+              ],
+              "label": "block"
+            },
+            {
+              "type": "number",
+              "label": "data"
+            },
+            {
+              "type": "varstring",
+              "label": "command"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "mod": "minecraft"
+}

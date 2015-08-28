@@ -1,0 +1,17 @@
+{
+  "mod": "minecraft",
+  "id": "skull",
+  "name": "Mob Head",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Mob Head (Skeleton)": 0,
+      "Mob Head (Wither Skeleton)": 1,
+      "Mob Head (Zombie)": 2,
+      "Mob Head (Human)": 3,
+      "Mob Head (Creeper)": 4
+    }
+  }
+}

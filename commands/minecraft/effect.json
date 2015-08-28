@@ -1,0 +1,53 @@
+{
+  "name": "effect",
+  "description": "The effect command manages status effects on players and other entities.",
+  "arguments": [
+    {
+      "type": "target",
+      "value": "entity",
+      "label": "Player"
+    },
+    {
+      "type": "subcommand",
+      "subcommands": [
+        {
+          "subArgument": {
+            "type": "literal",
+            "value": [
+              "clear"
+            ],
+            "label": "clear"
+          },
+          "arguments": []
+        },
+        {
+          "subArgument": {
+            "type": "id",
+            "value": [
+              "potioneffects"
+            ],
+            "label": "effect"
+          },
+          "arguments": [
+            {
+              "type": "number",
+              "optional": true,
+              "label": "seconds"
+            },
+            {
+              "type": "number",
+              "optional": true,
+              "label": "amplifier"
+            },
+            {
+              "type": "boolean",
+              "optional": true,
+              "label": "hideParticles"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "mod": "minecraft"
+}

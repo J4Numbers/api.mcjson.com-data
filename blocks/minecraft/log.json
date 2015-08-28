@@ -1,0 +1,22 @@
+{
+  "mod": "minecraft",
+  "id": "log",
+  "name": "Wood",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.2.2",
+  "meta": {
+    "meta": {
+      "Oak Wood": 0,
+      "Spruce Wood": 1,
+      "Birch Wood": 2,
+      "Jungle Wood": 3
+    },
+    "direction":{
+      "up/down":0,
+      "east/west":4,
+      "north/south":8,
+      "bark":12
+    }
+  }
+}

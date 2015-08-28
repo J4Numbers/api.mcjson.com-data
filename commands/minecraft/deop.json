@@ -1,0 +1,11 @@
+{
+  "name": "deop",
+  "description": "Revoke operator status from a player.",
+  "arguments": [
+    {
+      "type": "string",
+      "label": "player"
+    }
+  ],
+  "mod": "minecraft"
+}

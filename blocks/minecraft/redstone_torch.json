@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "redstone_torch",
+  "name": "Redstone Torch (on)",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Redstone Torch (on)": 0
+    }
+  }
+}

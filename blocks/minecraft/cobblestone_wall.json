@@ -1,0 +1,14 @@
+{
+  "mod": "minecraft",
+  "id": "cobblestone_wall",
+  "name": "Cobblestone Wall",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Cobblestone Wall": 0,
+      "Mossy Cobblestone Wall": 1
+    }
+  }
+}

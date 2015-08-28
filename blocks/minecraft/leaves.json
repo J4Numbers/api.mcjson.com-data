@@ -1,0 +1,16 @@
+{
+  "mod": "minecraft",
+  "id": "leaves",
+  "name": "Leaves",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.2.1",
+  "meta": {
+    "meta": {
+      "Oak Leaves": 0,
+      "Spruce Leaves": 1,
+      "Birch Leaves": 2,
+      "Jungle Leaves": 3
+    }
+  }
+}

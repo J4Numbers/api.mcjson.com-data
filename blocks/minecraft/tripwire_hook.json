@@ -1,0 +1,14 @@
+{
+  "mod": "minecraft",
+  "id": "tripwire_hook",
+  "name": "Tripwire",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Tripwire Hook": 0,
+      "Tripwire": 0
+    }
+  }
+}

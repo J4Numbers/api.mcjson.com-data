@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "record_mall",
+  "name": "Mall Disc",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Mall Disc": 0
+    }
+  }
+}

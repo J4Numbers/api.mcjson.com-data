@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "spider_eye",
+  "name": "Spider Eye",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Spider Eye": 0
+    }
+  }
+}

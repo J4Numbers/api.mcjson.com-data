@@ -1,0 +1,20 @@
+{
+  "name": "gamemode",
+  "description": "Set gamemode",
+  "arguments": [
+    {
+      "type": "id",
+      "value": [
+        "gamemode"
+      ],
+      "label": "gamemode"
+    },
+    {
+      "type": "target",
+      "optional": true,
+      "value": "player",
+      "label": "Player"
+    }
+  ],
+  "mod": "minecraft"
+}

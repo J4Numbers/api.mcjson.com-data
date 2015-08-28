@@ -1,0 +1,28 @@
+{
+  "mod": "minecraft",
+  "id": "wool",
+  "name": "Wool",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "White Wool": 0,
+      "Orange Wool": 1,
+      "Magenta Wool": 2,
+      "Light Blue Wool": 3,
+      "Yellow Wool": 4,
+      "Lime Wool": 5,
+      "Pink Wool": 6,
+      "Gray Wool": 7,
+      "Light Gray Wool": 8,
+      "Cyan Wool": 9,
+      "Purple Wool": 10,
+      "Blue Wool": 11,
+      "Brown Wool": 12,
+      "Green Wool": 13,
+      "Red Wool": 14,
+      "Black Wool": 15
+    }
+  }
+}

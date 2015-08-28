@@ -1,0 +1,22 @@
+{
+  "name": "scoreboard",
+  "description": "Scoreboard commands",
+  "arguments": [
+    {
+      "type": "subcommand",
+      "subcommands": [
+        {
+          "subArgument": {
+            "type": "literal",
+            "value": [
+              "objectives"
+            ],
+            "label": "objectives"
+          },
+          "arguments": []
+        }
+      ]
+    }
+  ],
+  "mod": "minecraft"
+}

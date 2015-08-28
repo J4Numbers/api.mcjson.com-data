@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "acacia_door",
+  "name": "Acacia Door Block",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Acacia Door Block": 0
+    }
+  }
+}

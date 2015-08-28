@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "redstone_wire",
+  "name": "Redstone Wire",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Redstone Wire": 0
+    }
+  }
+}

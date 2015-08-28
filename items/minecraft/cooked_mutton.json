@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "cooked_mutton",
+  "name": "Cooked Mutton",
+  "technical": false,
+  "introduced_at": "1.8.0",
+  "changed_at": "1.8.0",
+  "meta": {
+    "meta": {
+      "Cooked Mutton": 0
+    }
+  }
+}

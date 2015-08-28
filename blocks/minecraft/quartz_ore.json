@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "quartz_ore",
+  "name": "Nether Quartz Ore",
+  "technical": false,
+  "introduced_at": "1.5.2",
+  "changed_at": "1.5.0",
+  "meta": {
+    "meta": {
+      "Nether Quartz Ore": 0
+    }
+  }
+}

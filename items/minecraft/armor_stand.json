@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "armor_stand",
+  "name": "Armor Stand",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Armor Stand": 0
+    }
+  }
+}

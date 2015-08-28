@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "fireworks",
+  "name": "Firework Rocket",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Firework Rocket": 0
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "oak_stairs",
+  "name": "Oak Wood Stairs",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Oak Wood Stairs": 0
+    }
+  }
+}

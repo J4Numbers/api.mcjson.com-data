@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "end_portal_frame",
+  "name": "End Portal Frame",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "End Portal Frame": 0
+    }
+  }
+}

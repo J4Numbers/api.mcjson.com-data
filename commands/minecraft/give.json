@@ -1,0 +1,35 @@
+{
+  "name": "give",
+  "description": "Gives an item to a player.",
+  "arguments": [
+    {
+      "type": "target",
+      "value": "player",
+      "label": "Player"
+    },
+    {
+      "type": "id",
+      "value": [
+        "item"
+      ],
+      "label": "item"
+    },
+    {
+      "type": "number",
+      "optional": true,
+      "label": "amount"
+    },
+    {
+      "type": "number",
+      "optional": true,
+      "label": "data"
+    },
+    {
+      "type": "datatag",
+      "optional": true,
+      "value": "itemtag",
+      "label": "dataTag"
+    }
+  ],
+  "mod": "minecraft"
+}

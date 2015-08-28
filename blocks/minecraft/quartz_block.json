@@ -1,0 +1,15 @@
+{
+  "mod": "minecraft",
+  "id": "quartz_block",
+  "name": "Quartz Block",
+  "technical": false,
+  "introduced_at": "1.5.0",
+  "changed_at": "1.5.0",
+  "meta": {
+    "meta": {
+      "Quartz Block": 0,
+      "Chiseled Quartz Block": 1,
+      "Pillar Quartz Block": 2
+    }
+  }
+}

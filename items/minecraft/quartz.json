@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "quartz",
+  "name": "Nether Quartz",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Nether Quartz": 0
+    }
+  }
+}

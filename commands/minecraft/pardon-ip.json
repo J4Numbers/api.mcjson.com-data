@@ -1,0 +1,11 @@
+{
+  "name": "pardon-ip",
+  "description": "Removes a ip from the banlist.",
+  "arguments": [
+    {
+      "type": "string",
+      "label": "address"
+    }
+  ],
+  "mod": "minecraft"
+}

@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "lapis_block",
+  "name": "Lapis Lazuli Block",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Lapis Lazuli Block": 0
+    }
+  }
+}

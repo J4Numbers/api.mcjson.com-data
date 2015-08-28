@@ -1,0 +1,12 @@
+{
+  "name": "help",
+  "description": "Show help",
+  "arguments": [
+    {
+      "type": "string",
+      "optional": true,
+      "label": "page|command name"
+    }
+  ],
+  "mod": "minecraft"
+}

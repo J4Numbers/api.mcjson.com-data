@@ -1,0 +1,8 @@
+{
+    "mod":"minecraft",
+    "id":"planks",
+    "meta": { "meta": "Oak Wood Plank" },
+    "recipes":[
+    {"qty":4,"layout":[]}
+    ]
+}

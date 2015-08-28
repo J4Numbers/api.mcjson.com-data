@@ -1,0 +1,18 @@
+{
+  "mod": "minecraft",
+  "id": "double_plant",
+  "name": "Sunflower",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.7.0",
+  "meta": {
+    "meta": {
+      "Sunflower": 0,
+      "Lilac": 1,
+      "Double Tallgrass": 2,
+      "Large Fern": 3,
+      "Rose Bush": 4,
+      "Peony": 5
+    }
+  }
+}

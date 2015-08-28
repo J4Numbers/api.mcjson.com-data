@@ -1,0 +1,12 @@
+{
+  "name": "kill",
+  "description": "Kills entities (players, mobs, items, etc.).",
+  "arguments": [
+    {
+      "type": "target",
+      "value": "entity",
+      "label": "Player"
+    }
+  ],
+  "mod": "minecraft"
+}

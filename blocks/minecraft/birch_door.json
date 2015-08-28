@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "birch_door",
+  "name": "Birch Door Block",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Birch Door Block": 0
+    }
+  }
+}

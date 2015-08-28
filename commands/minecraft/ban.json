@@ -1,0 +1,16 @@
+{
+  "name": "ban",
+  "description": "Adds the player to the banlist",
+  "arguments": [
+    {
+      "type": "string",
+      "label": "player"
+    },
+    {
+      "type": "string",
+      "optional": true,
+      "label": "reason"
+    }
+  ],
+  "mod": "minecraft"
+}

@@ -1,0 +1,28 @@
+{
+  "mod": "minecraft",
+  "id": "stained_glass_pane",
+  "name": "Stained Glass Pane",
+  "technical": false,
+  "introduced_at": "1.7.9",
+  "changed_at": "1.7.0",
+  "meta": {
+    "meta": {
+      "White Stained Glass Pane": 0,
+      "Orange Stained Glass Pane": 1,
+      "Magenta Stained Glass Pane": 2,
+      "Light Blue Stained Glass Pane": 3,
+      "Yellow Stained Glass Pane": 4,
+      "Lime Stained Glass Pane": 5,
+      "Pink Stained Glass Pane": 6,
+      "Gray Stained Glass Pane": 7,
+      "Light Gray Stained Glass Pane": 8,
+      "Cyan Stained Glass Pane": 9,
+      "Purple Stained Glass Pane": 10,
+      "Blue Stained Glass Pane": 11,
+      "Brown Stained Glass Pane": 12,
+      "Green Stained Glass Pane": 13,
+      "Red Stained Glass Pane": 14,
+      "Black Stained Glass Pane": 15
+    }
+  }
+}

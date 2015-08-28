@@ -1,0 +1,29 @@
+{
+  "name": "achievement",
+  "description": "Gives or takes an achievement or increments/decrements a statistic",
+  "arguments": [
+    {
+      "type": "literal",
+      "value": [
+        "give",
+        "take"
+      ],
+      "label": "action"
+    },
+    {
+      "type": "id",
+      "value": [
+        "achievements",
+        "statistic"
+      ],
+      "label": "Achievement/statistic"
+    },
+    {
+      "type": "target",
+      "value": "player",
+      "optional": true,
+      "label": "Player"
+    }
+  ],
+  "mod": "minecraft"
+}

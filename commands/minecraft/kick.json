@@ -1,0 +1,16 @@
+{
+  "name": "kick",
+  "description": "Kicks a player",
+  "arguments": [
+    {
+      "type": "string",
+      "label": "player"
+    },
+    {
+      "type": "string",
+      "optional": true,
+      "label": "reason"
+    }
+  ],
+  "mod": "minecraft"
+}

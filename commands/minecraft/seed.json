@@ -1,0 +1,6 @@
+{
+  "name": "seed",
+  "description": "Display the seed",
+  "arguments": [],
+  "mod": "minecraft"
+}

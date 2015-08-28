@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "rabbit_hide",
+  "name": "Rabbit Hide",
+  "technical": false,
+  "introduced_at": "1.8.0",
+  "changed_at": "1.8.0",
+  "meta": {
+    "meta": {
+      "Rabbit Hide": 0
+    }
+  }
+}

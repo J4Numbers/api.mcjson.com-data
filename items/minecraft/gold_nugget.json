@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "gold_nugget",
+  "name": "Gold Nugget",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Gold Nugget": 0
+    }
+  }
+}

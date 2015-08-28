@@ -1,0 +1,6 @@
+{
+  "name": "publish",
+  "description": "Make available on LAN",
+  "arguments": [],
+  "mod": "minecraft"
+}

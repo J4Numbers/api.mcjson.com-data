@@ -1,0 +1,6 @@
+{
+  "name": "save-all",
+  "description": "Force server save",
+  "arguments": [],
+  "mod": "minecraft"
+}

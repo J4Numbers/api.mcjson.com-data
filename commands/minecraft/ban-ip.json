@@ -1,0 +1,16 @@
+{
+  "name": "ban-ip",
+  "description": "Adds the player|ip to the banlist",
+  "arguments": [
+    {
+      "type": "string",
+      "label": "address|player"
+    },
+    {
+      "type": "string",
+      "optional": true,
+      "label": "reason"
+    }
+  ],
+  "mod": "minecraft"
+}

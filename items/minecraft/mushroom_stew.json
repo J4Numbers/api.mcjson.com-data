@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "mushroom_stew",
+  "name": "Mushroom Stew",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Mushroom Stew": 0
+    }
+  }
+}

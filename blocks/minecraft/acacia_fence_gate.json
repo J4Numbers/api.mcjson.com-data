@@ -1,0 +1,9 @@
+{
+  "url": "/v1/blocks/minecraft/acacia_fence_gate.json",
+  "id": "acacia_fence_gate",
+  "mod": "minecraft",
+  "name": "Acacia Fence Gate",
+  "introduced_at": "1.8.0",
+  "changed_at": "1.8.0",
+  "meta": {}
+}

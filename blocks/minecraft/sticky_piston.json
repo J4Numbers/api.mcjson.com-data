@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "sticky_piston",
+  "name": "Sticky Piston",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Sticky Piston": 0
+    }
+  }
+}

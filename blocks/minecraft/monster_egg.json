@@ -1,0 +1,18 @@
+{
+  "mod": "minecraft",
+  "id": "monster_egg",
+  "name": "Monster Egg",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Stone Monster Egg": 0,
+      "Cobblestone Monster Egg": 1,
+      "Stone Brick Monster Egg": 2,
+      "Mossy Stone Brick Monster Egg": 3,
+      "Cracked Stone Brick Monster Egg": 4,
+      "Chiseled Stone Brick Monster Egg": 5
+    }
+  }
+}

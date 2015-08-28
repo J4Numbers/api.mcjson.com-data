@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "netherrack",
+  "name": "Netherrack",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Netherrack": 0
+    }
+  }
+}

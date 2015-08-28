@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "carrots",
+  "name": "Carrots",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Carrots": 0
+    }
+  }
+}

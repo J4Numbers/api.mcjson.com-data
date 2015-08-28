@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "waterlily",
+  "name": "Lily Pad",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Lily Pad": 0
+    }
+  }
+}

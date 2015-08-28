@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "leather_leggings",
+  "name": "Leather Pants",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Leather Pants": 0
+    }
+  }
+}

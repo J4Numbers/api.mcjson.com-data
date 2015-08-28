@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "blaze_rod",
+  "name": "Blaze Rod",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Blaze Rod": 0
+    }
+  }
+}

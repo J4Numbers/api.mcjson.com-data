@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "redstone_lamp",
+  "name": "Redstone Lamp (inactive)",
+  "technical": false,
+  "introduced_at": "1.2.1",
+  "changed_at": "1.2.1",
+  "meta": {
+    "meta": {
+      "Redstone Lamp (inactive)": 0
+    }
+  }
+}

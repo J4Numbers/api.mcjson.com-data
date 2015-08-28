@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "iron_horse_armor",
+  "name": "Iron Horse Armor",
+  "technical": false,
+  "introduced_at": "1.6.4",
+  "changed_at": "1.6.0",
+  "meta": {
+    "meta": {
+      "Iron Horse Armor": 0
+    }
+  }
+}

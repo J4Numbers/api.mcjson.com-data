@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "slime_ball",
+  "name": "Slimeball",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Slimeball": 0
+    }
+  }
+}

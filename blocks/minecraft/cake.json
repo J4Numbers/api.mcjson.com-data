@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "cake",
+  "name": "Cake Block",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Cake Block": 0
+    }
+  }
+}

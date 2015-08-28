@@ -1,0 +1,19 @@
+{
+  "name": "gamerule",
+  "description": "Get/Set gamerule",
+  "arguments": [
+    {
+      "type": "id",
+      "value": [
+        "gamerule"
+      ],
+      "label": "rule name"
+    },
+    {
+      "type": "string",
+      "optional": true,
+      "label": "value"
+    }
+  ],
+  "mod": "minecraft"
+}

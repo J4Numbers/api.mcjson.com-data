@@ -1,0 +1,18 @@
+{
+  "mod": "minecraft",
+  "id": "wooden_slab",
+  "name": "Wood Slab",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.7.9",
+  "meta": {
+    "meta": {
+      "Oak Wood Slab": 0,
+      "Spruce Wood Slab": 1,
+      "Birch Wood Slab": 2,
+      "Jungle Wood Slab": 3,
+      "Acacia Wood Slab": 4,
+      "Dark Oak Wood Slab": 5
+    }
+  }
+}

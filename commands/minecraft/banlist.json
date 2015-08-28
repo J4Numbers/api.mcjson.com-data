@@ -1,0 +1,15 @@
+{
+  "name": "banlist",
+  "description": "Displays banlist",
+  "arguments": [
+    {
+      "type": "literal",
+      "value": [
+        "ip",
+        "players"
+      ],
+      "label": "list"
+    }
+  ],
+  "mod": "minecraft"
+}

@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "brown_mushroom",
+  "name": "Brown Mushroom",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Brown Mushroom": 0
+    }
+  }
+}

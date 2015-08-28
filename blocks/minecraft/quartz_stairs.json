@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "quartz_stairs",
+  "name": "Quartz Stairs",
+  "technical": false,
+  "introduced_at": "1.5.0",
+  "changed_at": "1.5.0",
+  "meta": {
+    "meta": {
+      "Quartz Stairs": 0
+    }
+  }
+}

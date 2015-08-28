@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "cooked_rabbit",
+  "name": "Cooked Rabbit",
+  "technical": false,
+  "introduced_at": "1.8.0",
+  "changed_at": "1.8.1",
+  "meta": {
+    "meta": {
+      "Cooked Rabbit": 0
+    }
+  }
+}

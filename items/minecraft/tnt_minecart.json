@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "tnt_minecart",
+  "name": "Minecart with TNT",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Minecart with TNT": 0
+    }
+  }
+}

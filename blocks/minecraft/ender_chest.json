@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "ender_chest",
+  "name": "Ender Chest",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Ender Chest": 0
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "clear",
+  "description": "Clear items from a player inventory",
+  "arguments": [
+    {
+      "type": "target",
+      "optional": true,
+      "value": "player",
+      "label": "Player"
+    },
+    {
+      "type": "id",
+      "optional": true,
+      "value": [
+        "item"
+      ],
+      "label": "item"
+    },
+    {
+      "type": "number",
+      "optional": true,
+      "label": "data"
+    },
+    {
+      "type": "number",
+      "optional": true,
+      "label": "maxCount"
+    },
+    {
+      "type": "datatag",
+      "optional": true,
+      "value": "tileentity",
+      "label": "dataTag"
+    }
+  ],
+  "mod": "minecraft"
+}

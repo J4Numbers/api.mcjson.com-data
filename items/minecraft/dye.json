@@ -1,0 +1,28 @@
+{
+  "mod": "minecraft",
+  "id": "dye",
+  "name": "Ink Sack",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Ink Sack": 0,
+      "Rose Red": 1,
+      "Cactus Green": 2,
+      "Coco Beans": 3,
+      "Lapis Lazuli": 4,
+      "Purple Dye": 5,
+      "Cyan Dye": 6,
+      "Light Gray Dye": 7,
+      "Gray Dye": 8,
+      "Pink Dye": 9,
+      "Lime Dye": 10,
+      "Dandelion Yellow": 11,
+      "Light Blue Dye": 12,
+      "Magenta Dye": 13,
+      "Orange Dye": 14,
+      "Bone Meal": 15
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pardon",
+  "description": "Removes a player from the banlist.",
+  "arguments": [
+    {
+      "type": "string",
+      "label": "player"
+    }
+  ],
+  "mod": "minecraft"
+}

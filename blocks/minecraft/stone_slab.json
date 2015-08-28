@@ -1,0 +1,20 @@
+{
+  "mod": "minecraft",
+  "id": "stone_slab",
+  "name": "Slab",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Stone Slab": 0,
+      "Sandstone Slab": 1,
+      "Wooden Slab": 2,
+      "Cobblestone Slab": 3,
+      "Brick Slab": 4,
+      "Stone Brick Slab": 5,
+      "Nether Brick Slab": 6,
+      "Quartz Slab": 7
+    }
+  }
+}

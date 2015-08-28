@@ -1,0 +1,20 @@
+{
+  "mod": "minecraft",
+  "id": "double_stone_slab",
+  "name": "Double Slab",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Double Stone Slab": 0,
+      "Double Sandstone Slab": 1,
+      "Double Wooden Slab": 2,
+      "Double Cobblestone Slab": 3,
+      "Double Brick Slab": 4,
+      "Double Stone Brick Slab": 5,
+      "Double Nether Brick Slab": 6,
+      "Double Quartz Slab": 7
+    }
+  }
+}

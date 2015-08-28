@@ -1,0 +1,15 @@
+{
+  "mod": "minecraft",
+  "id": "tallgrass",
+  "name": "Dead Shrub",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": {
+    "meta": {
+      "Dead Shrub": 0,
+      "Grass": 1,
+      "Fern": 2
+    }
+  }
+}

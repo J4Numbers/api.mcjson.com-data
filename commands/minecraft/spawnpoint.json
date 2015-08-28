@@ -1,0 +1,25 @@
+{
+  "name": "spawnpoint",
+  "description": "Sets spawn of a player",
+  "arguments": [
+    {
+      "type": "target",
+      "optional": true,
+      "value": "player",
+      "label": "Player"
+    },
+    {
+      "type": "x",
+      "optional": true
+    },
+    {
+      "type": "y",
+      "optional": true
+    },
+    {
+      "type": "z",
+      "optional": true
+    }
+  ],
+  "mod": "minecraft"
+}

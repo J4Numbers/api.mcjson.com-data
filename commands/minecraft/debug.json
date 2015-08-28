@@ -1,0 +1,16 @@
+{
+  "name": "debug",
+  "description": "Start/Stop debugging session",
+  "arguments": [
+    {
+      "type": "literal",
+      "optional": true,
+      "value": [
+        "start",
+        "stop"
+      ],
+      "label": "maskMode"
+    }
+  ],
+  "mod": "minecraft"
+}

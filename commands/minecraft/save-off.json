@@ -1,0 +1,6 @@
+{
+  "name": "save-off",
+  "description": "Disable automatic saves",
+  "arguments": [],
+  "mod": "minecraft"
+}

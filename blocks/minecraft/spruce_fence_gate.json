@@ -1,0 +1,13 @@
+{
+  "mod": "minecraft",
+  "id": "spruce_fence_gate",
+  "name": "Spruce Fence Gate",
+  "technical": false,
+  "introduced_at": "1.8.0",
+  "changed_at": "1.8.0",
+  "meta": {
+    "meta": {
+      "Spruce Fence Gate": 0
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "particle",
+  "description": "Fills all or parts of a region with a specific block.",
+  "arguments": [
+    {
+      "type": "id",
+      "value": [
+        "particle"
+      ],
+      "label": "particle"
+    },
+    {
+      "type": "x"
+    },
+    {
+      "type": "y"
+    },
+    {
+      "type": "z"
+    },
+    {
+      "type": "number",
+      "label": "xd"
+    },
+    {
+      "type": "number",
+      "label": "yd"
+    },
+    {
+      "type": "number",
+      "label": "zd"
+    },
+    {
+      "type": "number",
+      "label": "speed"
+    },
+    {
+      "type": "number",
+      "optional": true,
+      "label": "count"
+    },
+    {
+      "type": "literal",
+      "optional": true,
+      "value": [
+        "force"
+      ],
+      "label": "count"
+    }
+  ],
+  "mod": "minecraft"
+}
