@@ -5,9 +5,5 @@
   "technical": false,
   "introduced_at": "1.9.0-15w33c",
   "changed_at": "1.9.0-15w33c",
-  "meta": {
-    "meta": {
-      "Shield": 0
-    }
-  }
+  "meta": {}
 }

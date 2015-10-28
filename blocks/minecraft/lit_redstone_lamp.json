@@ -5,9 +5,5 @@
   "technical": false,
   "introduced_at": "1.0.0",
   "changed_at": "1.2.1",
-  "meta": {
-    "meta": {
-      "Redstone Lamp (active)": 0
-    }
-  }
+  "meta": {}
 }

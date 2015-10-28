@@ -5,9 +5,5 @@
   "introduced_at": "1.8.0",
   "technical": false,
   "changed_at": "1.8.0",
-  "meta": {
-    "meta": {
-      "Slime Block": 0
-    }
-  }
+  "meta": {}
 }

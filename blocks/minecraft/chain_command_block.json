@@ -5,9 +5,5 @@
   "technical": false,
   "introduced_at": "1.9.0-15w34a",
   "changed_at": "1.9.0-15w34a",
-  "meta": {
-    "meta": {
-      "Chain Command Block": 0
-    }
-  }
+  "meta": {}
 }
