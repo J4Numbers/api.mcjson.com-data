@@ -6,9 +6,15 @@
   "introduced_at": "1.0.0",
   "changed_at": "1.0.0",
   "meta": {
-    "meta": {
+    "variant": {
       "Acacia Wood": 0,
       "Dark Oak Wood": 1
+    },
+    "direction":{
+      "y":0,
+      "x":4,
+      "z":8,
+      "bark":12
     }
   }
 }

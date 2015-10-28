@@ -6,7 +6,7 @@
   "introduced_at": "1.0.0",
   "changed_at": "1.7.0",
   "meta": {
-    "meta": {
+    "variant": {
       "Raw Fish": 0,
       "Raw Salmon": 1,
       "Clownfish": 2,

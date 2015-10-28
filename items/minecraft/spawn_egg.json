@@ -6,7 +6,7 @@
   "introduced_at": "1.1.0",
   "changed_at": "1.8.0",
   "meta": {
-    "meta": {
+    "entity": {
       "Spawn Creeper": 50,
       "Spawn Skeleton": 51,
       "Spawn Spider": 52,

@@ -6,7 +6,7 @@
   "introduced_at": "1.6.0",
   "changed_at": "1.6.0",
   "meta": {
-    "meta": {
+    "color": {
       "White Carpet": 0,
       "Orange Carpet": 1,
       "Magenta Carpet": 2,

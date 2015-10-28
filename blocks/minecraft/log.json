@@ -6,7 +6,7 @@
   "introduced_at": "1.0.0",
   "changed_at": "1.2.2",
   "meta": {
-    "meta": {
+    "variant": {
       "Oak Wood": 0,
       "Spruce Wood": 1,
       "Birch Wood": 2,

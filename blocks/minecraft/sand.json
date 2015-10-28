@@ -6,7 +6,7 @@
   "introduced_at": "1.0.0",
   "changed_at": "1.7.0",
   "meta": {
-    "meta": {
+    "variant": {
       "Sand": 0,
       "Red Sand": 1
     }

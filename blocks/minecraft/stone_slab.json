@@ -6,7 +6,7 @@
   "introduced_at": "1.0.0",
   "changed_at": "1.0.0",
   "meta": {
-    "meta": {
+    "variant": {
       "Stone Slab": 0,
       "Sandstone Slab": 1,
       "Wooden Slab": 2,
