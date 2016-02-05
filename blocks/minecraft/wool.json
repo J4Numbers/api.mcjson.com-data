@@ -7,22 +7,22 @@
   "changed_at": "1.0.0",
   "meta": {
     "color": {
-      "White Wool": 0,
-      "Orange Wool": 1,
-      "Magenta Wool": 2,
-      "Light Blue Wool": 3,
-      "Yellow Wool": 4,
-      "Lime Wool": 5,
-      "Pink Wool": 6,
-      "Gray Wool": 7,
-      "Light Gray Wool": 8,
-      "Cyan Wool": 9,
-      "Purple Wool": 10,
-      "Blue Wool": 11,
-      "Brown Wool": 12,
-      "Green Wool": 13,
-      "Red Wool": 14,
-      "Black Wool": 15
+      "White": 0,
+      "Orange": 1,
+      "Magenta": 2,
+      "Light Blue": 3,
+      "Yellow": 4,
+      "Lime": 5,
+      "Pink": 6,
+      "Gray": 7,
+      "Light Gray": 8,
+      "Cyan": 9,
+      "Purple": 10,
+      "Blue": 11,
+      "Brown": 12,
+      "Green": 13,
+      "Red": 14,
+      "Black": 15
     }
   }
 }
