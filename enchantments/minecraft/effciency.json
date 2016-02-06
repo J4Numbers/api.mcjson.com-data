@@ -1,5 +1,7 @@
 {
   "id": "effciency",
   "name": "Effciency",
-  "mod": "minecraft"
+  "mod": "minecraft",
+  "max_levels": 5,
+  "introduced_at": "1.0.0"
 }
