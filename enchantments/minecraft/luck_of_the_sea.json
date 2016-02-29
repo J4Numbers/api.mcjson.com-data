@@ -1,5 +1,8 @@
 {
+  "introduced_at": "1.8.0",
+  "changed_at": "1.8.0",
   "id": "luck_of_the_sea",
   "name": "luck of the sea",
-  "mod": "minecraft"
+  "mod": "minecraft",
+  "level": "3"
 }
