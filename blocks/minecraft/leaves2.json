@@ -6,7 +6,7 @@
   "introduced_at": "1.0.0",
   "changed_at": "1.7.0",
   "meta": [ {
-            "key":"variant",
+            "key":"type",
             "values": [
                 {"value" : "Acacia", "mask": 0},
                 {"value" : "Dark oak", "mask": 1}
