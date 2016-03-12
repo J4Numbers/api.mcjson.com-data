@@ -5,14 +5,17 @@
   "technical": false,
   "introduced_at": "1.0.0",
   "changed_at": "1.0.0",
-  "meta": {
-    "variant": {
-      "Stone Monster Egg": 0,
-      "Cobblestone Monster Egg": 1,
-      "Stone Brick Monster Egg": 2,
-      "Mossy Stone Brick Monster Egg": 3,
-      "Cracked Stone Brick Monster Egg": 4,
-      "Chiseled Stone Brick Monster Egg": 5
-    }
-  }
+  "meta": [
+        {
+            "key":"variant",
+            "values": [
+                {"value" : "Stone", "mask": 0},
+                {"value" : "Cobblestone", "mask": 1},
+                {"value" : "Stone Brick", "mask": 2},
+                {"value" : "Mossy stone", "mask": 3},
+                {"value" : "Cracked stone", "mask": 4},
+                {"value" : "Chiseled stone", "mask": 5}
+            ]
+        }
+    ]
 }

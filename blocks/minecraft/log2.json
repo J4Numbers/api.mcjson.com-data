@@ -5,16 +5,22 @@
   "technical": false,
   "introduced_at": "1.0.0",
   "changed_at": "1.0.0",
-  "meta": {
-    "variant": {
-      "Acacia Wood": 0,
-      "Dark Oak Wood": 1
-    },
-    "direction":{
-      "y":0,
-      "x":4,
-      "z":8,
-      "bark":12
-    }
-  }
+  "meta": [
+        {
+            "key":"variant",
+            "values": [
+                {"value" : "Acacia", "mask": 0},
+                {"value" : "Dark oak", "mask": 1}
+            ]
+        },
+        {
+            "key":"direction",
+            "values": [
+                {"value" : "y", "mask": 0},
+                {"value" : "x", "mask": 4},
+                {"value" : "z", "mask": 8},
+                {"value" : "bark", "mask": 12}
+            ]
+        }
+    ]
 }

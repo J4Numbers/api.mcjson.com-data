@@ -5,17 +5,20 @@
   "technical": false,
   "introduced_at": "1.0.0",
   "changed_at": "1.7.0",
-  "meta": {
-    "variant": {
-      "Poppy": 0,
-      "Blue Orchid": 1,
-      "Allium": 2,
-      "Azure Bluet": 3,
-      "Red Tulip": 4,
-      "Orange Tulip": 5,
-      "White Tulip": 6,
-      "Pink Tulip": 7,
-      "Oxeye Daisy": 8
-    }
-  }
+  "meta": [
+        {
+            "key":"variant",
+            "values": [
+                {"value" : "Poppy", "mask": 0},
+                {"value" : "Blue Orchid", "mask": 1},
+                {"value" : "Allium", "mask": 2},
+                {"value" : "Azure Bluet", "mask": 3},
+                {"value" : "Red Tulip", "mask": 4},
+                {"value" : "Orange Tulip", "mask": 5},
+                {"value" : "White Tulip", "mask": 6},
+                {"value" : "Pink Tulip", "mask": 7},
+                {"value" : "Oxeye Daisy", "mask": 8}
+            ]
+        }
+    ]
 }

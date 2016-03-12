@@ -5,11 +5,14 @@
   "technical": false,
   "introduced_at": "1.9.0-15w31a",
   "changed_at": "1.9.0-15w31a",
-  "meta": {
-    "axis": {
-      "x": 0,
-      "y": 1,
-      "z": 2
-    }
-  }
+  "meta": [
+        {
+            "key":"axis",
+            "values": [
+                {"value" : "x", "mask": 0},
+                {"value" : "y", "mask": 1},
+                {"value" : "z", "mask": 2}
+            ]
+        }
+    ]
 }

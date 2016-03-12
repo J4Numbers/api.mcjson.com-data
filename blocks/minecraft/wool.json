@@ -1,28 +1,31 @@
 {
-  "mod": "minecraft",
-  "id": "wool",
-  "name": "Wool",
-  "technical": false,
-  "introduced_at": "1.0.0",
-  "changed_at": "1.0.0",
-  "meta": {
-    "color": {
-      "White": 0,
-      "Orange": 1,
-      "Magenta": 2,
-      "Light Blue": 3,
-      "Yellow": 4,
-      "Lime": 5,
-      "Pink": 6,
-      "Gray": 7,
-      "Light Gray": 8,
-      "Cyan": 9,
-      "Purple": 10,
-      "Blue": 11,
-      "Brown": 12,
-      "Green": 13,
-      "Red": 14,
-      "Black": 15
-    }
-  }
+    "mod": "minecraft",
+    "id": "wool",
+    "name": "Wool",
+    "technical": false,
+    "introduced_at": "1.0.0",
+    "changed_at": "1.0.0",
+    "meta": [
+        {
+            "key":"color",
+            "values": [
+                {"value" : "White", "mask": 0},
+                {"value" : "Orange", "mask": 1},
+                {"value" : "Magenta", "mask": 2},
+                {"value" : "Light Blue", "mask": 3},
+                {"value" : "Yellow", "mask": 4},
+                {"value" : "Lime", "mask": 5},
+                {"value" : "Pink", "mask": 6},
+                {"value" : "Gray", "mask": 7},
+                {"value" : "Light Gray", "mask": 8},
+                {"value" : "Cyan", "mask": 9},
+                {"value" : "Purple", "mask": 10},
+                {"value" : "Blue", "mask": 11},
+                {"value" : "Brown", "mask": 12},
+                {"value" : "Green", "mask": 13},
+                {"value" : "Red", "mask": 14},
+                {"value" : "Black", "mask": 15}
+            ]
+        }
+    ]
 }

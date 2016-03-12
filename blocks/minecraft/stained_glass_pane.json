@@ -5,24 +5,27 @@
   "technical": false,
   "introduced_at": "1.7.9",
   "changed_at": "1.7.0",
-  "meta": {
-    "color": {
-      "White Stained Glass Pane": 0,
-      "Orange Stained Glass Pane": 1,
-      "Magenta Stained Glass Pane": 2,
-      "Light Blue Stained Glass Pane": 3,
-      "Yellow Stained Glass Pane": 4,
-      "Lime Stained Glass Pane": 5,
-      "Pink Stained Glass Pane": 6,
-      "Gray Stained Glass Pane": 7,
-      "Light Gray Stained Glass Pane": 8,
-      "Cyan Stained Glass Pane": 9,
-      "Purple Stained Glass Pane": 10,
-      "Blue Stained Glass Pane": 11,
-      "Brown Stained Glass Pane": 12,
-      "Green Stained Glass Pane": 13,
-      "Red Stained Glass Pane": 14,
-      "Black Stained Glass Pane": 15
-    }
-  }
+  "meta": [
+        {
+            "key":"color",
+            "values": [
+                {"value" : "White", "mask": 0},
+                {"value" : "Orange", "mask": 1},
+                {"value" : "Magenta", "mask": 2},
+                {"value" : "Light Blue", "mask": 3},
+                {"value" : "Yellow", "mask": 4},
+                {"value" : "Lime", "mask": 5},
+                {"value" : "Pink", "mask": 6},
+                {"value" : "Gray", "mask": 7},
+                {"value" : "Light Gray", "mask": 8},
+                {"value" : "Cyan", "mask": 9},
+                {"value" : "Purple", "mask": 10},
+                {"value" : "Blue", "mask": 11},
+                {"value" : "Brown", "mask": 12},
+                {"value" : "Green", "mask": 13},
+                {"value" : "Red", "mask": 14},
+                {"value" : "Black", "mask": 15}
+            ]
+        }
+    ]
 }

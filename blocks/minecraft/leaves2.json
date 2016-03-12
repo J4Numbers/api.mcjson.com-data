@@ -5,10 +5,11 @@
   "technical": false,
   "introduced_at": "1.0.0",
   "changed_at": "1.7.0",
-  "meta": {
-    "type": {
-      "Acacia Leaves": 0,
-      "Dark Oak Leaves": 1
-    }
-  }
+  "meta": [ {
+            "key":"variant",
+            "values": [
+                {"value" : "Acacia", "mask": 0},
+                {"value" : "Dark oak", "mask": 1}
+            ]
+        }]
 }

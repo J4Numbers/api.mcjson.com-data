@@ -5,11 +5,14 @@
   "introduced_at": "1.8.0",
   "technical": false,
   "changed_at": "1.8.0",
-  "meta": {
-    "variant": {
-      "Prismarine": 0,
-      "Prismarine Bricks": 1,
-      "Dark Prismarine": 2
-    }
-  }
+  "meta": [
+        {
+            "key":"variant",
+            "values": [
+                {"value" : "Prismarine", "mask": 0},
+                {"value" : "Bricks", "mask": 1},
+                {"value" : "Prismarine", "mask": 2}
+            ]
+        }
+    ]
 }

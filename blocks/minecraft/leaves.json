@@ -5,12 +5,15 @@
   "technical": false,
   "introduced_at": "1.0.0",
   "changed_at": "1.2.1",
-  "meta": {
-    "type": {
-      "Oak Leaves": 0,
-      "Spruce Leaves": 1,
-      "Birch Leaves": 2,
-      "Jungle Leaves": 3
-    }
-  }
+  "meta": [
+        {
+            "key":"variant",
+            "values": [
+                {"value" : "Oak", "mask": 0},
+                {"value" : "Spruce", "mask": 1},
+                {"value" : "Birch", "mask": 2},
+                {"value" : "Jungle", "mask": 3}
+            ]
+        }
+  ]
 }

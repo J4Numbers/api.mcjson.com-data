@@ -5,14 +5,18 @@
   "technical": false,
   "introduced_at": "1.0.0",
   "changed_at": "1.9.0-15w31a",
-  "meta": {
-    "variant": {
-      "Skeleton": 0,
-      "Wither Skeleton": 1,
-      "Zombie": 2,
-      "Head": 3,
-      "Creeper": 4,
-      "Dragon": 5
-    }
-  }
+  "meta": [
+        {
+            "key":"variant",
+            "values": [
+                {"value" : "Skeleton", "mask": 0},
+                {"value" : "Wither Skeleton", "mask": 1},
+                {"value" : "Zombie", "mask": 2},
+                {"value" : "Head", "mask": 3},
+                {"value" : "Creeper", "mask": 4},
+                {"value" : "Dragon", "mask": 5}
+            ]
+        }
+    ]
+   
 }

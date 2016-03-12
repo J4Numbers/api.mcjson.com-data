@@ -5,10 +5,13 @@
   "technical": false,
   "introduced_at": "1.0.0",
   "changed_at": "1.7.0",
-  "meta": {
-    "variant": {
-      "Sand": 0,
-      "Red Sand": 1
-    }
-  }
+  "meta": [
+        {
+            "key":"color",
+            "values": [
+                {"value" : "", "mask": 0},
+                {"value" : "Red", "mask": 1}
+            ]
+        }
+    ]
 }

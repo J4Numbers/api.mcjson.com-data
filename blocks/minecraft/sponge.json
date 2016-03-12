@@ -5,10 +5,13 @@
   "changed_at": "1.8.0",
   "technical": false,
   "introduced_at": "1.8.3",
-  "meta": {
-    "wet": {
-      "false": 0,
-      "true": 1
-    }
-  }
+  "meta": [
+        {
+            "key":"wet",
+            "values": [
+                {"value" : "false", "mask": 0},
+                {"value" : "true", "mask": 1}
+            ]
+        }
+    ]
 }
