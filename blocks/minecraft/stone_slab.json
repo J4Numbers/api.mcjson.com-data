@@ -5,16 +5,43 @@
   "technical": false,
   "introduced_at": "1.0.0",
   "changed_at": "1.0.0",
-  "meta": {
-    "variant": {
-      "Stone Slab": 0,
-      "Sandstone Slab": 1,
-      "Wooden Slab": 2,
-      "Cobblestone Slab": 3,
-      "Brick Slab": 4,
-      "Stone Brick Slab": 5,
-      "Nether Brick Slab": 6,
-      "Quartz Slab": 7
+  "meta": [
+    {
+      "key": "variant",
+      "values": [
+        {
+          "value": "Stone Slab",
+          "mask": 0
+        },
+        {
+          "value": "Sandstone Slab",
+          "mask": 1
+        },
+        {
+          "value": "Wooden Slab",
+          "mask": 2
+        },
+        {
+          "value": "Cobblestone Slab",
+          "mask": 3
+        },
+        {
+          "value": "Brick Slab",
+          "mask": 4
+        },
+        {
+          "value": "Stone Brick Slab",
+          "mask": 5
+        },
+        {
+          "value": "Nether Brick Slab",
+          "mask": 6
+        },
+        {
+          "value": "Quartz Slab",
+          "mask": 7
+        }
+      ]
     }
-  }
+  ]
 }

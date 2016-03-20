@@ -5,11 +5,23 @@
   "technical": false,
   "introduced_at": "1.0.0",
   "changed_at": "1.0.0",
-  "meta": {
-    "variant": {
-      "Dead Shrub": 0,
-      "Grass": 1,
-      "Fern": 2
+  "meta": [
+    {
+      "key": "variant",
+      "values": [
+        {
+          "value": "Dead Shrub",
+          "mask": 0
+        },
+        {
+          "value": "Grass",
+          "mask": 1
+        },
+        {
+          "value": "Fern",
+          "mask": 2
+        }
+      ]
     }
-  }
+  ]
 }

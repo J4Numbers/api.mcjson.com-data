@@ -5,10 +5,19 @@
   "technical": false,
   "introduced_at": "1.0.0",
   "changed_at": "1.0.0",
-  "meta": {
-    "variant": {
-      "Tripwire Hook": 0,
-      "Tripwire": 0
+  "meta": [
+    {
+      "key": "variant",
+      "values": [
+        {
+          "value": "Tripwire Hook",
+          "mask": 0
+        },
+        {
+          "value": "Tripwire",
+          "mask": 0
+        }
+      ]
     }
-  }
+  ]
 }
