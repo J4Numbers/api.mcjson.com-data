@@ -5,35 +5,119 @@
   "technical": false,
   "introduced_at": "1.1.0",
   "changed_at": "1.8.0",
-  "meta": {
-    "entity": {
-      "Spawn Creeper": 50,
-      "Spawn Skeleton": 51,
-      "Spawn Spider": 52,
-      "Spawn Zombie": 54,
-      "Spawn Slime": 55,
-      "Spawn Ghast": 56,
-      "Spawn Pigman": 57,
-      "Spawn Enderman": 58,
-      "Spawn Cave Spider": 59,
-      "Spawn Silverfish": 60,
-      "Spawn Blaze": 61,
-      "Spawn Magma Cube": 62,
-      "Spawn Bat": 65,
-      "Spawn Witch": 66,
-      "Spawn Endermite": 67,
-      "Spawn Guardian": 68,
-      "Spawn Pig": 90,
-      "Spawn Sheep": 91,
-      "Spawn Cow": 92,
-      "Spawn Chicken": 93,
-      "Spawn Squid": 94,
-      "Spawn Wolf": 95,
-      "Spawn Mooshroom": 96,
-      "Spawn Ocelot": 98,
-      "Spawn Horse": 100,
-      "Spawn Rabbit": 101,
-      "Spawn Villager": 120
+  "meta": [
+    {
+      "key": "entity",
+      "values": [
+        {
+          "value": "Spawn Creeper",
+          "mask": 50
+        },
+        {
+          "value": "Spawn Skeleton",
+          "mask": 51
+        },
+        {
+          "value": "Spawn Spider",
+          "mask": 52
+        },
+        {
+          "value": "Spawn Zombie",
+          "mask": 54
+        },
+        {
+          "value": "Spawn Slime",
+          "mask": 55
+        },
+        {
+          "value": "Spawn Ghast",
+          "mask": 56
+        },
+        {
+          "value": "Spawn Pigman",
+          "mask": 57
+        },
+        {
+          "value": "Spawn Enderman",
+          "mask": 58
+        },
+        {
+          "value": "Spawn Cave Spider",
+          "mask": 59
+        },
+        {
+          "value": "Spawn Silverfish",
+          "mask": 60
+        },
+        {
+          "value": "Spawn Blaze",
+          "mask": 61
+        },
+        {
+          "value": "Spawn Magma Cube",
+          "mask": 62
+        },
+        {
+          "value": "Spawn Bat",
+          "mask": 65
+        },
+        {
+          "value": "Spawn Witch",
+          "mask": 66
+        },
+        {
+          "value": "Spawn Endermite",
+          "mask": 67
+        },
+        {
+          "value": "Spawn Guardian",
+          "mask": 68
+        },
+        {
+          "value": "Spawn Pig",
+          "mask": 90
+        },
+        {
+          "value": "Spawn Sheep",
+          "mask": 91
+        },
+        {
+          "value": "Spawn Cow",
+          "mask": 92
+        },
+        {
+          "value": "Spawn Chicken",
+          "mask": 93
+        },
+        {
+          "value": "Spawn Squid",
+          "mask": 94
+        },
+        {
+          "value": "Spawn Wolf",
+          "mask": 95
+        },
+        {
+          "value": "Spawn Mooshroom",
+          "mask": 96
+        },
+        {
+          "value": "Spawn Ocelot",
+          "mask": 98
+        },
+        {
+          "value": "Spawn Horse",
+          "mask": 100
+        },
+        {
+          "value": "Spawn Rabbit",
+          "mask": 101
+        },
+        {
+          "value": "Spawn Villager",
+          "mask": 120
+        }
+      ]
     }
-  }
+  ]
 }

@@ -5,10 +5,19 @@
   "technical": false,
   "introduced_at": "1.0.0",
   "changed_at": "1.0.0",
-  "meta": {
-    "type": {
-      "Golden Apple": 0,
-      "Enchanted Golden Apple": 1
+  "meta": [
+    {
+      "key": "type",
+      "values": [
+        {
+          "value": "Golden Apple",
+          "mask": 0
+        },
+        {
+          "value": "Enchanted Golden Apple",
+          "mask": 1
+        }
+      ]
     }
-  }
+  ]
 }

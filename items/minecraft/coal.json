@@ -5,10 +5,19 @@
   "technical": false,
   "introduced_at": "1.0.0",
   "changed_at": "1.0.0",
-  "meta": {
-    "type": {
-      "Coal": 0,
-      "Charcoal": 1
+  "meta": [
+    {
+      "key": "type",
+      "values": [
+        {
+          "value": "Coal",
+          "mask": 0
+        },
+        {
+          "value": "Charcoal",
+          "mask": 1
+        }
+      ]
     }
-  }
+  ]
 }

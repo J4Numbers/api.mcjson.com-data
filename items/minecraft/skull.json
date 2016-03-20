@@ -5,13 +5,31 @@
   "technical": false,
   "introduced_at": "1.0.0",
   "changed_at": "1.0.0",
-  "meta": {
-    "mob": {
-      "Mob Head (Skeleton)": 0,
-      "Mob Head (Wither Skeleton)": 1,
-      "Mob Head (Zombie)": 2,
-      "Mob Head (Human)": 3,
-      "Mob Head (Creeper)": 4
+  "meta": [
+    {
+      "key": "mob",
+      "values": [
+        {
+          "value": "Mob Head (Skeleton)",
+          "mask": 0
+        },
+        {
+          "value": "Mob Head (Wither Skeleton)",
+          "mask": 1
+        },
+        {
+          "value": "Mob Head (Zombie)",
+          "mask": 2
+        },
+        {
+          "value": "Mob Head (Human)",
+          "mask": 3
+        },
+        {
+          "value": "Mob Head (Creeper)",
+          "mask": 4
+        }
+      ]
     }
-  }
+  ]
 }

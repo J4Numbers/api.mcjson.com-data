@@ -5,24 +5,75 @@
   "technical": false,
   "introduced_at": "1.0.0",
   "changed_at": "1.0.0",
-  "meta": {
-    "type": {
-      "Ink Sack": 0,
-      "Rose Red": 1,
-      "Cactus Green": 2,
-      "Coco Beans": 3,
-      "Lapis Lazuli": 4,
-      "Purple Dye": 5,
-      "Cyan Dye": 6,
-      "Light Gray Dye": 7,
-      "Gray Dye": 8,
-      "Pink Dye": 9,
-      "Lime Dye": 10,
-      "Dandelion Yellow": 11,
-      "Light Blue Dye": 12,
-      "Magenta Dye": 13,
-      "Orange Dye": 14,
-      "Bone Meal": 15
+  "meta": [
+    {
+      "key": "type",
+      "values": [
+        {
+          "value": "Ink Sack",
+          "mask": 0
+        },
+        {
+          "value": "Rose Red",
+          "mask": 1
+        },
+        {
+          "value": "Cactus Green",
+          "mask": 2
+        },
+        {
+          "value": "Coco Beans",
+          "mask": 3
+        },
+        {
+          "value": "Lapis Lazuli",
+          "mask": 4
+        },
+        {
+          "value": "Purple Dye",
+          "mask": 5
+        },
+        {
+          "value": "Cyan Dye",
+          "mask": 6
+        },
+        {
+          "value": "Light Gray Dye",
+          "mask": 7
+        },
+        {
+          "value": "Gray Dye",
+          "mask": 8
+        },
+        {
+          "value": "Pink Dye",
+          "mask": 9
+        },
+        {
+          "value": "Lime Dye",
+          "mask": 10
+        },
+        {
+          "value": "Dandelion Yellow",
+          "mask": 11
+        },
+        {
+          "value": "Light Blue Dye",
+          "mask": 12
+        },
+        {
+          "value": "Magenta Dye",
+          "mask": 13
+        },
+        {
+          "value": "Orange Dye",
+          "mask": 14
+        },
+        {
+          "value": "Bone Meal",
+          "mask": 15
+        }
+      ]
     }
-  }
+  ]
 }

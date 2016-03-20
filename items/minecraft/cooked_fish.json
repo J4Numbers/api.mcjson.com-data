@@ -5,10 +5,19 @@
   "technical": false,
   "introduced_at": "1.0.0",
   "changed_at": "1.7.0",
-  "meta": {
-    "type": {
-      "Cooked Fish": 0,
-      "Cooked Salmon": 1
+  "meta": [
+    {
+      "key": "type",
+      "values": [
+        {
+          "value": "Cooked Fish",
+          "mask": 0
+        },
+        {
+          "value": "Cooked Salmon",
+          "mask": 1
+        }
+      ]
     }
-  }
+  ]
 }
