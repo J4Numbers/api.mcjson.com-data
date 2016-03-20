@@ -4,6 +4,5 @@
   "name": "Free-standing Banner",
   "technical": false,
   "introduced_at": "1.8.0",
-  "changed_at": "1.8.0",
-  "meta": {}
+  "changed_at": "1.8.0"
 }

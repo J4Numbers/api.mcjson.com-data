@@ -1,28 +1,31 @@
 {
-  "mod": "minecraft",
-  "id": "carpet",
-  "name": "Carpet",
-  "technical": false,
-  "introduced_at": "1.6.0",
-  "changed_at": "1.6.0",
-  "meta": {
-    "color": {
-      "White Carpet": 0,
-      "Orange Carpet": 1,
-      "Magenta Carpet": 2,
-      "Light Blue Carpet": 3,
-      "Yellow Carpet": 4,
-      "Lime Carpet": 5,
-      "Pink Carpet": 6,
-      "Gray Carpet": 7,
-      "Light Gray Carpet": 8,
-      "Cyan Carpet": 9,
-      "Purple Carpet": 10,
-      "Blue Carpet": 11,
-      "Brown Carpet": 12,
-      "Green Carpet": 13,
-      "Red Carpet": 14,
-      "Black Carpet": 15
-    }
-  }
+    "mod": "minecraft",
+    "id": "carpet",
+    "name": "Carpet",
+    "technical": false,
+    "introduced_at": "1.6.0",
+    "changed_at": "1.6.0",
+    "meta": [
+        {
+           "key": "color",
+           "values":[
+                {"value" : "White Carpet", "mask": 0},
+                {"value" : "Orange Carpet", "mask": 1},
+                {"value" : "Magenta Carpet", "mask": 2},
+                {"value" : "Light Blue Carpet", "mask": 3},
+                {"value" : "Yellow Carpet", "mask": 4},
+                {"value" : "Lime Carpet", "mask": 5},
+                {"value" : "Pink Carpet", "mask": 6},
+                {"value" : "Gray Carpet", "mask": 7},
+                {"value" : "Light Gray Carpet", "mask": 8},
+                {"value" : "Cyan Carpet", "mask": 9},
+                {"value" : "Purple Carpet", "mask": 10},
+                {"value" : "Blue Carpet", "mask": 11},
+                {"value" : "Brown Carpet", "mask": 12},
+                {"value" : "Green Carpet", "mask": 13},
+                {"value" : "Red Carpet", "mask": 14},
+                {"value" : "Black Carpet", "mask": 15}
+           ]
+        }
+    ]
 }
