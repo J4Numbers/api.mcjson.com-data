@@ -1,5 +1,8 @@
 {
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
   "id": "fortune",
   "name": "Fortune",
-  "mod": "minecraft"
+  "mod": "minecraft",
+  "level": "3"
 }

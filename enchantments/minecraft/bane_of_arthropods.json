@@ -1,9 +1,8 @@
 {
   "introduced_at": "1.0.0",
   "changed_at": "1.0.0",
-  "id": "effciency",
-  "name": "Effciency",
+  "id": "bane_of_arthropods",
+  "name": "Bane of Arthropods",
   "mod": "minecraft",
-  "max_levels": 5,
   "level": "5"
 }
