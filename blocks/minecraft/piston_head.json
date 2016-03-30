@@ -2,7 +2,7 @@
   "mod": "minecraft",
   "id": "piston_head",
   "name": "Piston Head",
-  "technical": false,
+  "technical": true,
   "introduced_at": "1.0.0",
   "changed_at": "1.0.0"
 }
