@@ -6,21 +6,40 @@
   "introduced_at": "1.0.0",
   "changed_at": "1.0.0",
   "meta": [
+    {
+      "key": "variant",
+      "values": [
         {
-            "key":"variant",
-            "values": [
-                {"value" : "Acacia", "mask": 0},
-                {"value" : "Dark oak", "mask": 1}
-            ]
+          "value": "Acacia",
+          "mask": 0
         },
         {
-            "key":"direction",
-            "values": [
-                {"value" : "y", "mask": 0},
-                {"value" : "x", "mask": 4},
-                {"value" : "z", "mask": 8},
-                {"value" : "bark", "mask": 12}
-            ]
+          "value": "Dark oak",
+          "mask": 1
         }
-    ]
+      ]
+    },
+    {
+      "key": "direction",
+      "values": [
+        {
+          "value": "y",
+          "mask": 0
+        },
+        {
+          "value": "x",
+          "mask": 4
+        },
+        {
+          "value": "z",
+          "mask": 8
+        },
+        {
+          "value": "bark",
+          "mask": 12
+        }
+      ],
+      "technical": true
+    }
+  ]
 }

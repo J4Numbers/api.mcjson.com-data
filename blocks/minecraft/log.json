@@ -6,23 +6,48 @@
   "introduced_at": "1.0.0",
   "changed_at": "1.2.2",
   "meta": [
+    {
+      "key": "variant",
+      "values": [
         {
-            "key":"variant",
-            "values": [
-                {"value" : "Oak", "mask": 0},
-                {"value" : "Spruce", "mask": 1},
-                {"value" : "Birch", "mask": 2},
-                {"value" : "Jungle", "mask": 3}
-            ]
+          "value": "Oak",
+          "mask": 0
         },
         {
-            "key":"direction",
-            "values": [
-                {"value" : "y", "mask": 0},
-                {"value" : "x", "mask": 4},
-                {"value" : "z", "mask": 8},
-                {"value" : "bark", "mask": 12}
-            ]
+          "value": "Spruce",
+          "mask": 1
+        },
+        {
+          "value": "Birch",
+          "mask": 2
+        },
+        {
+          "value": "Jungle",
+          "mask": 3
         }
-    ]
+      ]
+    },
+    {
+      "key": "direction",
+      "values": [
+        {
+          "value": "y",
+          "mask": 0
+        },
+        {
+          "value": "x",
+          "mask": 4
+        },
+        {
+          "value": "z",
+          "mask": 8
+        },
+        {
+          "value": "bark",
+          "mask": 12
+        }
+      ],
+      "technical": true
+    }
+  ]
 }
