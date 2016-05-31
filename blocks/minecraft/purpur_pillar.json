@@ -6,13 +6,23 @@
   "introduced_at": "1.9.0-15w31a",
   "changed_at": "1.9.0-15w31a",
   "meta": [
+    {
+      "key": "axis",
+      "values": [
         {
-            "key":"axis",
-            "values": [
-                {"value" : "x", "mask": 0},
-                {"value" : "y", "mask": 1},
-                {"value" : "z", "mask": 2}
-            ]
+          "value": "x",
+          "mask": 0
+        },
+        {
+          "value": "y",
+          "mask": 1
+        },
+        {
+          "value": "z",
+          "mask": 2
         }
-    ]
+      ],
+      "technical": true
+    }
+  ]
 }

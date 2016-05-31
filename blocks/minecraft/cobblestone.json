@@ -2,7 +2,7 @@
   "mod": "minecraft",
   "id": "cobblestone",
   "name": "Cobblestone",
-  "technical": true,
+  "technical": false,
   "introduced_at": "1.0.0",
   "changed_at": "1.0.0"
 }
