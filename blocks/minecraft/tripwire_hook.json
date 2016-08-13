@@ -7,17 +7,55 @@
   "changed_at": "1.0.0",
   "meta": [
     {
-      "key": "variant",
+      "key": "facing",
+      "technical":true,
       "values": [
         {
-          "value": "Tripwire Hook",
+          "value": "south",
           "mask": 0
         },
         {
-          "value": "Tripwire",
+          "value": "west",
+          "mask": 1
+        },
+        {
+          "value": "north",
+          "mask": 2
+        },
+        {
+          "value": "east",
+          "mask": 3
+        },
+      ]
+    },
+    {
+      "key": "attached",
+      "technical":true,
+      "values": [
+        {
+          "value": "false",
           "mask": 0
+        },
+        {
+          "value": "true",
+          "mask": 4
+        }
+      ]
+    },
+    {
+      "key": "powered",
+      "technical":true,
+      "values": [
+        {
+          "value": "false",
+          "mask": 0
+        },
+        {
+          "value": "true",
+          "mask": 8
         }
       ]
     }
+
   ]
 }
