@@ -1,8 +1,9 @@
 {
+  "num_id": 51,
   "introduced_at": "1.0.0",
   "changed_at": "1.0.0",
   "id": "infinity",
   "name": "Infinity",
   "mod": "minecraft",
-  "level": "1"
+  "level": 1
 }

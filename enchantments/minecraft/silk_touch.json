@@ -1,8 +1,9 @@
 {
+  "num_id": 33,
   "introduced_at": "1.0.0",
   "changed_at": "1.0.0",
   "id": "silk_touch",
   "name": "Silk Touch",
   "mod": "minecraft",
-  "level": "3"
+  "level": 1
 }

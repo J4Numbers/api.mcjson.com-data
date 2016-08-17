@@ -1,7 +1,9 @@
 {
+  "num_id": 62,
   "introduced_at": "1.8.0",
   "changed_at": "1.8.0",
   "id": "lure",
   "name": "Lure",
-  "mod": "minecraft"
+  "mod": "minecraft",
+  "level": 3
 }

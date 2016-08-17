@@ -1,9 +1,9 @@
 {
-  "num_id": 34,
+  "num_id":8,
   "introduced_at": "1.0.0",
   "changed_at": "1.0.0",
-  "id": "unbreaking",
-  "name": "Unbreaking",
+  "id": "depth_strider",
+  "name": "Depth Strider",
   "mod": "minecraft",
   "level": 3
 }

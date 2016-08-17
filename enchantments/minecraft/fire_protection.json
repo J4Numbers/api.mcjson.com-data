@@ -1,8 +1,9 @@
 {
+  "num_id":1,
   "introduced_at": "1.0.0",
   "changed_at": "1.0.0",
   "id": "fire_protection",
   "name": "Fire Protection",
   "mod": "minecraft",
-  "level": "4"
+  "level": 4
 }

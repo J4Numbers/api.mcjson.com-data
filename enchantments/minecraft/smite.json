@@ -1,8 +1,9 @@
 {
+  "num_id": 17,
   "introduced_at": "1.0.0",
   "changed_at": "1.0.0",
   "id": "smite",
   "name": "Smite",
   "mod": "minecraft",
-  "level": "5"
+  "level": 5
 }

@@ -1,8 +1,9 @@
 {
+  "num_id":3,
   "introduced_at": "1.0.0",
   "changed_at": "1.0.0",
   "id": "blast_protection",
   "name": "Blast Protection",
   "mod": "minecraft",
-  "level": "4"
+  "level": 4
 }

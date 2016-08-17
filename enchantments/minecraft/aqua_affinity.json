@@ -1,8 +1,9 @@
 {
+  "num_id":6,
   "introduced_at": "1.0.0",
   "changed_at": "1.0.0",
   "id": "aqua_affinity",
   "name": "Aqua affinity",
   "mod": "minecraft",
-  "level": "1"
+  "level": 1
 }
