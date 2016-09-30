@@ -1,0 +1,8 @@
+{
+  "mod": "minecraft",
+  "id": "bone_block",
+  "name": "Bone Block",
+  "technical": false,
+  "introduced_at": "1.10.0",
+  "changed_at": "1.10.0"
+}
