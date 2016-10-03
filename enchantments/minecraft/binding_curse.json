@@ -1,7 +1,7 @@
 {
-  "num_id": 33,
-  "introduced_at": "1.0.0",
-  "changed_at": "1.0.0",
+  "num_id": 19,
+  "introduced_at": "1.11.0-16w39a",
+  "changed_at": "1.11.0-16w39a",
   "id": "binding_curse",
   "name": "Curse of Binding",
   "mod": "minecraft",
