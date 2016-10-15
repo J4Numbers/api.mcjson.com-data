@@ -2,17 +2,33 @@
   "mod": "minecraft",
   "id": "quartz_block",
   "name": "Quartz Block",
-  "technical": false,
   "introduced_at": "1.5.0",
   "changed_at": "1.5.0",
   "meta": [
+    {
+      "key": "variant",
+      "values": [
         {
-            "key":"variant",
-            "values": [
-                {"value" : "", "mask": 0},
-                {"value" : "Chiseled", "mask": 1},
-                {"value" : "Pillar", "mask": 2}
-            ]
+          "value": "default",
+          "mask": 0
+        },
+        {
+          "value": "chiseled",
+          "mask": 1
+        },
+        {
+          "value": "lines_y",
+          "mask": 2
+        },
+        {
+          "value": "lines_z",
+          "mask": 3
+        },
+        {
+          "value": "lines_x",
+          "mask": 4
         }
+      ]
+    }
   ]
 }
