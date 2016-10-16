@@ -19,5 +19,8 @@
       ],
       "technical": false
     }
-  ]
+  ],
+  "flags": {
+    "physics": true
+  }
 }

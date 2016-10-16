@@ -37,6 +37,9 @@
     }
   ],
   "flags": {
-    "inventory_slots": 27
+    "inventory_slots": 27,
+    "editors": [
+      "SHULKER_BOX"
+    ]
   }
 }

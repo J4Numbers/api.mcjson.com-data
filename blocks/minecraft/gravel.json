@@ -2,7 +2,9 @@
   "mod": "minecraft",
   "id": "gravel",
   "name": "Gravel",
-  "technical": false,
   "introduced_at": "1.0.0",
-  "changed_at": "1.0.0"
+  "changed_at": "1.0.0",
+  "flags": {
+    "physics": true
+  }
 }
