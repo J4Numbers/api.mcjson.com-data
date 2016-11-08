@@ -1,9 +1,9 @@
 {
   "num_id": 21,
-  "introduced_at": "1.0.0",
-  "changed_at": "1.0.0",
+  "level": 3,
+  "mod": "minecraft",
   "id": "looting",
   "name": "Looting",
-  "mod": "minecraft",
-  "level": 3
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0"
 }
