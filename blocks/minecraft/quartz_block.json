@@ -22,10 +22,12 @@
         },
         {
           "value": "lines_z",
+          "technical": true,
           "mask": 3
         },
         {
           "value": "lines_x",
+          "technical": true,
           "mask": 4
         }
       ]
