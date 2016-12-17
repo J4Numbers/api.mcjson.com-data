@@ -1,0 +1,8 @@
+{
+  "mod": "minecraft",
+  "id": "instant_health",
+  "num_id": 6,
+  "name": "Instant Health",
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0"
+}

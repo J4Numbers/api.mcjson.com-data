@@ -1,0 +1,8 @@
+{
+  "mod": "minecraft",
+  "id": "jump_boot",
+  "num_id": 8,
+  "name": "Jump Boost",
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0"
+}

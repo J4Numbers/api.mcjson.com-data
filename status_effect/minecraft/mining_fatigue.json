@@ -1,0 +1,8 @@
+{
+  "mod": "minecraft",
+  "id": "mining_fatigue",
+  "num_id": 4,
+  "name": "Mining Fatigue",
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0"
+}
