@@ -1,8 +1,12 @@
 {
+  "flags": {
+    "editors": [
+      "BOOK"
+    ]
+  },
   "mod": "minecraft",
   "id": "writable_book",
   "name": "Book and Quill",
-  "technical": false,
   "introduced_at": "1.0.0",
   "changed_at": "1.0.0"
 }
