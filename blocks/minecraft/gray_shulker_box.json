@@ -1,0 +1,8 @@
+{
+  "mod": "minecraft",
+  "id": "gray_shulker_box",
+  "name": "Gray Shulker Box",
+  "technical": false,
+  "introduced_at": "1.11.0",
+  "changed_at": "1.11.0"
+}

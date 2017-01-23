@@ -1,0 +1,8 @@
+{
+  "mod": "minecraft",
+  "id": "cyan_shulker_box",
+  "name": "Cyan Shulker Box",
+  "technical": false,
+  "introduced_at": "1.11.0",
+  "changed_at": "1.11.0"
+}

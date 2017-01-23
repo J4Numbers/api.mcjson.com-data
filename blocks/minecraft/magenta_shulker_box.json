@@ -1,0 +1,8 @@
+{
+  "mod": "minecraft",
+  "id": "magenta_shulker_box",
+  "name": "Magenta Shulker Box",
+  "technical": false,
+  "introduced_at": "1.11.0",
+  "changed_at": "1.11.0"
+}
