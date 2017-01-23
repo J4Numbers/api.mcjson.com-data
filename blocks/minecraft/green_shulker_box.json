@@ -4,5 +4,21 @@
   "name": "Green Shulker Box",
   "technical": false,
   "introduced_at": "1.11.0",
-  "changed_at": "1.11.0"
+  "changed_at": "1.11.0",
+"meta":[{"key":"facing",
+"values":[{"value":"north",
+"mask":0},
+{"value":"south",
+"mask":1},
+{"value":"east",
+"mask":2},
+{"value":"west",
+"mask":3},
+{"value":"up",
+"mask":4},
+{"value":"down",
+"mask":5}],
+"technical":true}],
+"flags":{"inventory_slots":27,
+"editors":["SHULKER_BOX"]}
 }
