@@ -1,6 +1,7 @@
 {
   "id": "1.9.3",
-  "mod": "minecraft",
+  "version": "1.9.3",
   "type": "RELEASE",
-  "released": "2016-05-10T08:33:35.000Z"
+  "released": "2016-05-10T08:33:35.000Z",
+  "mod": "minecraft"
 }

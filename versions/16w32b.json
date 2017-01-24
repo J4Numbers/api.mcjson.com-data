@@ -1,6 +1,7 @@
 {
-  "id": "1.11.0-16w32b",
-  "mod": "minecraft",
+  "id": "16w32b",
+  "version": "1.11.0-16w32b",
   "type": "SNAPSHOT",
-  "released": "2016-08-11T14:34:29.000Z"
+  "released": "2016-08-11T14:34:29.000Z",
+  "mod": "minecraft"
 }
