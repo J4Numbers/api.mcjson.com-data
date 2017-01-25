@@ -1,7 +1,7 @@
 {
-  "mod": "minecraft",
-  "id": "Llama",
+  "id": "llama",
   "name": "Llama",
+  "mod": "minecraft",
   "introduced_at": "1.11.0-16w39a",
   "changed_at": "1.11.0-16w39a"
 }

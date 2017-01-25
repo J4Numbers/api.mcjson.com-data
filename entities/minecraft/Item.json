@@ -1,5 +1,5 @@
 {
-  "id": "Item",
+  "id": "item",
   "name": "Dropped Item",
   "mod": "minecraft",
   "introduced_at": "1.0.0",
