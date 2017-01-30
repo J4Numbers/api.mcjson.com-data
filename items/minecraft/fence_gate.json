@@ -1,0 +1,11 @@
+{
+  "mod": "minecraft",
+  "id": "fence_gate",
+  "name": "Oak Fence Gate",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.8.1",
+  "flags": {
+    "isBlock": true
+  }
+}

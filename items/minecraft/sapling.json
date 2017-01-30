@@ -1,0 +1,42 @@
+{
+  "mod": "minecraft",
+  "id": "sapling",
+  "name": "Sapling",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.7.0",
+  "meta": [
+    {
+      "key": "variant",
+      "values": [
+        {
+          "value": "Oak",
+          "mask": 0
+        },
+        {
+          "value": "Spruce",
+          "mask": 1
+        },
+        {
+          "value": "Birch",
+          "mask": 2
+        },
+        {
+          "value": "Jungle",
+          "mask": 3
+        },
+        {
+          "value": "Acacia",
+          "mask": 4
+        },
+        {
+          "value": "Dark Oak",
+          "mask": 5
+        }
+      ]
+    }
+  ],
+  "flags": {
+    "isBlock": true
+  }
+}

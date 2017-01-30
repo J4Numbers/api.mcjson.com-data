@@ -1,0 +1,11 @@
+{
+  "mod": "minecraft",
+  "id": "birch_fence",
+  "name": "Birch Fence",
+  "technical": false,
+  "introduced_at": "1.4.2",
+  "changed_at": "1.8.0",
+  "flags": {
+    "isBlock": true
+  }
+}

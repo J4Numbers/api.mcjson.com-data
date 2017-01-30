@@ -1,8 +1,11 @@
 {
   "mod": "minecraft",
   "id": "jungle_door",
-  "name": "Jungle Door",
+  "name": "Jungle Door Block",
   "technical": false,
-  "introduced_at": "1.0.0",
-  "changed_at": "1.0.0"
+  "introduced_at": "1.8.0",
+  "changed_at": "1.8.0",
+  "flags": {
+    "isBlock": true
+  }
 }

@@ -1,0 +1,11 @@
+{
+  "mod": "minecraft",
+  "id": "birch_fence_gate",
+  "name": "Birch Fence Gate",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.8.0",
+  "flags": {
+    "isBlock": true
+  }
+}

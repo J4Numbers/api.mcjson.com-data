@@ -1,0 +1,11 @@
+{
+  "mod": "minecraft",
+  "id": "dispenser",
+  "name": "Dispenser",
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "flags": {
+    "inventory_slots": 9,
+    "isBlock": true
+  }
+}

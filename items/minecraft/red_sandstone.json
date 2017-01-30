@@ -1,0 +1,30 @@
+{
+  "mod": "minecraft",
+  "id": "red_sandstone",
+  "name": "Red Sandstone",
+  "introduced_at": "1.8.0",
+  "technical": false,
+  "changed_at": "1.8.0",
+  "meta": [
+    {
+      "key": "variant",
+      "values": [
+        {
+          "value": "",
+          "mask": 0
+        },
+        {
+          "value": "Smooth",
+          "mask": 1
+        },
+        {
+          "value": "Chiseled",
+          "mask": 2
+        }
+      ]
+    }
+  ],
+  "flags": {
+    "isBlock": true
+  }
+}

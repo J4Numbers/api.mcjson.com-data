@@ -1,8 +1,0 @@
-{
-  "mod": "minecraft",
-  "id": "mob_spawner",
-  "name": "Monster Spawner",
-  "technical": false,
-  "introduced_at": "1.0.0",
-  "changed_at": "1.0.0"
-}

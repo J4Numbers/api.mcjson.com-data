@@ -1,0 +1,34 @@
+{
+  "mod": "minecraft",
+  "id": "stonebrick",
+  "name": "Stone Bricks",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.2.1",
+  "meta": [
+    {
+      "key": "variant",
+      "values": [
+        {
+          "value": "Stone Bricks",
+          "mask": 0
+        },
+        {
+          "value": "Mossy Stone Bricks",
+          "mask": 1
+        },
+        {
+          "value": "Cracked Stone Bricks",
+          "mask": 2
+        },
+        {
+          "value": "Chiseled Stone Bricks",
+          "mask": 3
+        }
+      ]
+    }
+  ],
+  "flags": {
+    "isBlock": true
+  }
+}

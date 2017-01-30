@@ -1,0 +1,30 @@
+{
+  "mod": "minecraft",
+  "id": "sandstone",
+  "name": "Sandstone",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": [
+    {
+      "key": "variant",
+      "values": [
+        {
+          "value": "",
+          "mask": 0
+        },
+        {
+          "value": "Chiseled",
+          "mask": 1
+        },
+        {
+          "value": "Smooth",
+          "mask": 2
+        }
+      ]
+    }
+  ],
+  "flags": {
+    "isBlock": true
+  }
+}

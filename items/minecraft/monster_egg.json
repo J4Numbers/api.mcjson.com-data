@@ -1,0 +1,42 @@
+{
+  "mod": "minecraft",
+  "id": "monster_egg",
+  "name": "Monster Egg",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "meta": [
+    {
+      "key": "variant",
+      "values": [
+        {
+          "value": "Stone",
+          "mask": 0
+        },
+        {
+          "value": "Cobblestone",
+          "mask": 1
+        },
+        {
+          "value": "Stone Brick",
+          "mask": 2
+        },
+        {
+          "value": "Mossy stone",
+          "mask": 3
+        },
+        {
+          "value": "Cracked stone",
+          "mask": 4
+        },
+        {
+          "value": "Chiseled stone",
+          "mask": 5
+        }
+      ]
+    }
+  ],
+  "flags": {
+    "isBlock": true
+  }
+}

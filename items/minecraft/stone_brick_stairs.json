@@ -1,0 +1,11 @@
+{
+  "mod": "minecraft",
+  "id": "stone_brick_stairs",
+  "name": "Stone Brick Stairs",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "flags": {
+    "isBlock": true
+  }
+}

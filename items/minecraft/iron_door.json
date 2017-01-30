@@ -1,8 +1,11 @@
 {
   "mod": "minecraft",
   "id": "iron_door",
-  "name": "Iron Door",
+  "name": "Iron Door Block",
   "technical": false,
   "introduced_at": "1.0.0",
-  "changed_at": "1.0.0"
+  "changed_at": "1.0.0",
+  "flags": {
+    "isBlock": true
+  }
 }

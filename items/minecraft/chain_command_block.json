@@ -1,0 +1,11 @@
+{
+  "mod": "minecraft",
+  "id": "chain_command_block",
+  "name": "Chain Command Block",
+  "technical": false,
+  "introduced_at": "1.9.0-15w34a",
+  "changed_at": "1.9.0-15w34a",
+  "flags": {
+    "isBlock": true
+  }
+}

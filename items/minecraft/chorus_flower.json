@@ -1,0 +1,11 @@
+{
+  "mod": "minecraft",
+  "id": "chorus_flower",
+  "name": "Chorus Flower",
+  "technical": false,
+  "introduced_at": "1.9.0-15w31a",
+  "changed_at": "1.9.0-15w31a",
+  "flags": {
+    "isBlock": true
+  }
+}

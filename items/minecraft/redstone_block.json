@@ -1,0 +1,11 @@
+{
+  "mod": "minecraft",
+  "id": "redstone_block",
+  "name": "Redstone Block",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.5.0",
+  "flags": {
+    "isBlock": true
+  }
+}

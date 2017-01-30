@@ -1,8 +1,0 @@
-{
-  "mod": "minecraft",
-  "id": "lit_redstone_lamp",
-  "name": "Redstone Lamp (active)",
-  "technical": false,
-  "introduced_at": "1.0.0",
-  "changed_at": "1.2.1"
-}

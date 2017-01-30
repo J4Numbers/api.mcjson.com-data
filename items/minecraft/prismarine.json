@@ -1,0 +1,30 @@
+{
+  "mod": "minecraft",
+  "id": "prismarine",
+  "name": "Prismarine",
+  "introduced_at": "1.8.0",
+  "technical": false,
+  "changed_at": "1.8.0",
+  "meta": [
+    {
+      "key": "variant",
+      "values": [
+        {
+          "value": "Prismarine",
+          "mask": 0
+        },
+        {
+          "value": "Bricks",
+          "mask": 1
+        },
+        {
+          "value": "Prismarine",
+          "mask": 2
+        }
+      ]
+    }
+  ],
+  "flags": {
+    "isBlock": true
+  }
+}

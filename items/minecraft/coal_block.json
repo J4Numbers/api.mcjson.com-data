@@ -1,0 +1,11 @@
+{
+  "mod": "minecraft",
+  "id": "coal_block",
+  "name": "Block of Coal",
+  "technical": false,
+  "introduced_at": "1.6.0",
+  "changed_at": "1.6.0",
+  "flags": {
+    "isBlock": true
+  }
+}

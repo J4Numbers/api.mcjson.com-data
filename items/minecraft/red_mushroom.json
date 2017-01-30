@@ -1,0 +1,11 @@
+{
+  "mod": "minecraft",
+  "id": "red_mushroom",
+  "name": "Red Mushroom",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "flags": {
+    "isBlock": true
+  }
+}

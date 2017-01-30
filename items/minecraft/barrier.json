@@ -1,0 +1,11 @@
+{
+  "mod": "minecraft",
+  "id": "barrier",
+  "name": "Barrier",
+  "technical": false,
+  "introduced_at": "1.8.0",
+  "changed_at": "1.8.0",
+  "flags": {
+    "isBlock": true
+  }
+}

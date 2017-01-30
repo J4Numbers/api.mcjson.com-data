@@ -1,0 +1,11 @@
+{
+  "mod": "minecraft",
+  "id": "chest",
+  "name": "Chest",
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "flags": {
+    "inventory_slots": 27,
+    "isBlock": true
+  }
+}

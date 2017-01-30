@@ -1,0 +1,11 @@
+{
+  "mod": "minecraft",
+  "id": "iron_block",
+  "name": "Iron Block",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "flags": {
+    "isBlock": true
+  }
+}

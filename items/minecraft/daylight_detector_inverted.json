@@ -1,0 +1,11 @@
+{
+  "mod": "minecraft",
+  "id": "daylight_detector_inverted",
+  "name": "Inverted Daylight Sensor",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.0.0",
+  "flags": {
+    "isBlock": true
+  }
+}

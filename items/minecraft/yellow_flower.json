@@ -1,0 +1,11 @@
+{
+  "mod": "minecraft",
+  "id": "yellow_flower",
+  "name": "Dandelion",
+  "technical": false,
+  "introduced_at": "1.0.0",
+  "changed_at": "1.7.0",
+  "flags": {
+    "isBlock": true
+  }
+}
