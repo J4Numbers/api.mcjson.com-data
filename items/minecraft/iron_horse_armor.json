@@ -4,5 +4,6 @@
   "name": "Iron Horse Armor",
   "technical": false,
   "introduced_at": "1.6.4",
-  "changed_at": "1.6.0"
+  "changed_at": "1.6.0",
+  "flags": {}
 }

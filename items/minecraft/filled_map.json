@@ -3,5 +3,6 @@
   "id": "filled_map",
   "name": "Map",
   "introduced_at": "1.0.0",
-  "changed_at": "1.11.0-16w39a"
+  "changed_at": "1.11.0-16w39a",
+  "flags": {}
 }
