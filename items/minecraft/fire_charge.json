@@ -3,7 +3,7 @@
   "id": "fire_charge",
   "name": "Fire Charge",
   "technical": false,
-  "introduced_at": "1.0.0",
+  "introduced_at": "1.0",
   "changed_at": "1.2.1",
   "flags": {}
 }

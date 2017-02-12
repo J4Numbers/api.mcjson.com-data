@@ -4,7 +4,7 @@
   "name": "Birch Fence",
   "technical": false,
   "introduced_at": "1.4.2",
-  "changed_at": "1.8.0",
+  "changed_at": "1.8",
   "flags": {
     "isBlock": true
   }

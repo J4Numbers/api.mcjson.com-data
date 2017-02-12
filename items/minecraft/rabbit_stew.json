@@ -3,7 +3,7 @@
   "id": "rabbit_stew",
   "name": "Rabbit Stew",
   "technical": false,
-  "introduced_at": "1.8.0",
-  "changed_at": "1.8.0",
+  "introduced_at": "1.8",
+  "changed_at": "1.8",
   "flags": {}
 }

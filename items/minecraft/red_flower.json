@@ -3,7 +3,7 @@
   "id": "red_flower",
   "name": "Poppy",
   "technical": false,
-  "introduced_at": "1.0.0",
+  "introduced_at": "1.0",
   "changed_at": "1.7.0",
   "meta": [
     {

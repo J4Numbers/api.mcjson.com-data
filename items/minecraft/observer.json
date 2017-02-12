@@ -2,8 +2,8 @@
   "mod": "minecraft",
   "id": "observer",
   "name": "Observer",
-  "introduced_at": "1.11.0-16w39a",
-  "changed_at": "1.11.0-16w39a",
+  "introduced_at": "16w39a",
+  "changed_at": "16w39a",
   "meta": [
     {
       "key": "facing",

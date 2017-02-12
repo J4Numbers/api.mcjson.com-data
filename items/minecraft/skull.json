@@ -3,8 +3,8 @@
   "id": "skull",
   "name": "Mob Head",
   "technical": true,
-  "introduced_at": "1.0.0",
-  "changed_at": "1.9.0-15w31a",
+  "introduced_at": "1.0",
+  "changed_at": "15w31a",
   "meta": [
     {
       "key": "variant",

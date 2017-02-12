@@ -3,8 +3,8 @@
   "id": "furnace",
   "name": "Furnace",
   "technical": false,
-  "introduced_at": "1.0.0",
-  "changed_at": "1.0.0",
+  "introduced_at": "1.0",
+  "changed_at": "1.0",
   "flags": {
     "isBlock": true
   }

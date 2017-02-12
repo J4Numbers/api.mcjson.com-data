@@ -3,8 +3,8 @@
   "id": "wall_banner",
   "name": "Wall-mounted Banner",
   "technical": false,
-  "introduced_at": "1.8.0",
-  "changed_at": "1.8.0",
+  "introduced_at": "1.8",
+  "changed_at": "1.8",
   "flags": {
     "isBlock": true
   }

@@ -4,7 +4,7 @@
   "name": "Red Sandstone Stairs",
   "introduced_at": "1.8.3",
   "technical": false,
-  "changed_at": "1.8.0",
+  "changed_at": "1.8",
   "flags": {
     "isBlock": true
   }
