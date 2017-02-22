@@ -1,10 +1,22 @@
 {
-  "mod": "minecraft",
-  "id": "stonebrick",
-  "name": "Stone Bricks",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.2.1",
+  "variants": [
+    {
+      "label": "Stone Bricks",
+      "value": 0
+    },
+    {
+      "label": "Mossy Stone Bricks",
+      "value": 1
+    },
+    {
+      "label": "Cracked Stone Bricks",
+      "value": 2
+    },
+    {
+      "label": "Chiseled Stone Bricks",
+      "value": 3
+    }
+  ],
   "meta": [
     {
       "key": "variant",
@@ -25,10 +37,22 @@
           "value": "Chiseled Stone Bricks",
           "mask": 3
         }
-      ]
+      ],
+      "technical": null
     }
   ],
   "flags": {
-    "isBlock": true
-  }
+    "isBlock": true,
+    "durability": null,
+    "dyeable": null,
+    "repairable": null,
+    "enchantments": null,
+    "editors": null
+  },
+  "mod": "minecraft",
+  "id": "stonebrick",
+  "name": "Stone Bricks",
+  "introduced_at": "1.0",
+  "changed_at": "1.2.1",
+  "technical": false
 }

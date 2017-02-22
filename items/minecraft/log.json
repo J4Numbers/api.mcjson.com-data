@@ -1,10 +1,22 @@
 {
-  "mod": "minecraft",
-  "id": "log",
-  "name": "Wood",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.2.2",
+  "variants": [
+    {
+      "label": "Oak Wood",
+      "value": 0
+    },
+    {
+      "label": "Spruce Wood",
+      "value": 1
+    },
+    {
+      "label": "Birch Wood",
+      "value": 2
+    },
+    {
+      "label": "Jungle Wood",
+      "value": 3
+    }
+  ],
   "meta": [
     {
       "key": "variant",
@@ -25,7 +37,8 @@
           "value": "Jungle",
           "mask": 3
         }
-      ]
+      ],
+      "technical": null
     },
     {
       "key": "direction",
@@ -51,6 +64,17 @@
     }
   ],
   "flags": {
-    "isBlock": true
-  }
+    "isBlock": true,
+    "durability": null,
+    "dyeable": null,
+    "repairable": null,
+    "enchantments": null,
+    "editors": null
+  },
+  "mod": "minecraft",
+  "id": "log",
+  "name": "Wood",
+  "introduced_at": "1.0",
+  "changed_at": "1.2.2",
+  "technical": false
 }

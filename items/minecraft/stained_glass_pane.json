@@ -1,10 +1,70 @@
 {
-  "mod": "minecraft",
-  "id": "stained_glass_pane",
-  "name": "Stained Glass Pane",
-  "technical": false,
-  "introduced_at": "1.7.9",
-  "changed_at": "1.7.0",
+  "variants": [
+    {
+      "label": "White Stained Glass Pane",
+      "value": 0
+    },
+    {
+      "label": "Orange Stained Glass Pane",
+      "value": 1
+    },
+    {
+      "label": "Magenta Stained Glass Pane",
+      "value": 2
+    },
+    {
+      "label": "Light Blue Stained Glass Pane",
+      "value": 3
+    },
+    {
+      "label": "Yellow Stained Glass Pane",
+      "value": 4
+    },
+    {
+      "label": "Lime Stained Glass Pane",
+      "value": 5
+    },
+    {
+      "label": "Pink Stained Glass Pane",
+      "value": 6
+    },
+    {
+      "label": "Gray Stained Glass Pane",
+      "value": 7
+    },
+    {
+      "label": "Light Gray Stained Glass Pane",
+      "value": 8
+    },
+    {
+      "label": "Cyan Stained Glass Pane",
+      "value": 9
+    },
+    {
+      "label": "Purple Stained Glass Pane",
+      "value": 10
+    },
+    {
+      "label": "Blue Stained Glass Pane",
+      "value": 11
+    },
+    {
+      "label": "Brown Stained Glass Pane",
+      "value": 12
+    },
+    {
+      "label": "Green Stained Glass Pane",
+      "value": 13
+    },
+    {
+      "label": "Red Stained Glass Pane",
+      "value": 14
+    },
+    {
+      "label": "Black Stained Glass Pane",
+      "value": 15
+    }
+  ],
   "meta": [
     {
       "key": "color",
@@ -73,10 +133,22 @@
           "value": "Black",
           "mask": 15
         }
-      ]
+      ],
+      "technical": null
     }
   ],
   "flags": {
-    "isBlock": true
-  }
+    "isBlock": true,
+    "durability": null,
+    "dyeable": null,
+    "repairable": null,
+    "enchantments": null,
+    "editors": null
+  },
+  "mod": "minecraft",
+  "id": "stained_glass_pane",
+  "name": "Stained Glass Pane",
+  "introduced_at": "1.7.9",
+  "changed_at": "1.7.0",
+  "technical": false
 }

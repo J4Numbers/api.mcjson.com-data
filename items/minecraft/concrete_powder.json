@@ -1,4 +1,70 @@
 {
+  "variants": [
+    {
+      "label": "White Concrete Powder",
+      "value": 0
+    },
+    {
+      "label": "Orange Concrete Powder",
+      "value": 1
+    },
+    {
+      "label": "Magenta Concrete Powder",
+      "value": 2
+    },
+    {
+      "label": "Light Blue Concrete Powder",
+      "value": 3
+    },
+    {
+      "label": "Yellow Concrete Powder",
+      "value": 4
+    },
+    {
+      "label": "Lime Concrete Powder",
+      "value": 5
+    },
+    {
+      "label": "Pink Concrete Powder",
+      "value": 6
+    },
+    {
+      "label": "Gray Concrete Powder",
+      "value": 7
+    },
+    {
+      "label": "Light Gray Concrete Powder",
+      "value": 8
+    },
+    {
+      "label": "Cyan Concrete Powder",
+      "value": 9
+    },
+    {
+      "label": "Purple Concrete Powder",
+      "value": 10
+    },
+    {
+      "label": "Blue Concrete Powder",
+      "value": 11
+    },
+    {
+      "label": "Brown Concrete Powder",
+      "value": 12
+    },
+    {
+      "label": "Green Concrete Powder",
+      "value": 13
+    },
+    {
+      "label": "Red Concrete Powder",
+      "value": 14
+    },
+    {
+      "label": "Black Concrete Powder",
+      "value": 15
+    }
+  ],
   "meta": [
     {
       "key": "color",
@@ -67,7 +133,8 @@
           "value": "Black",
           "mask": 15
         }
-      ]
+      ],
+      "technical": null
     }
   ],
   "flags": {
@@ -82,5 +149,6 @@
   "id": "concrete_powder",
   "name": "Concrete Powder",
   "introduced_at": "17w06a",
-  "changed_at": "17w06a"
+  "changed_at": "17w06a",
+  "technical": false
 }

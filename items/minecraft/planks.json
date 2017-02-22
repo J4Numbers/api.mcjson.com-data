@@ -1,10 +1,30 @@
 {
-  "mod": "minecraft",
-  "id": "planks",
-  "name": "Wood Plank",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.0",
+  "variants": [
+    {
+      "label": "Oak Wood Planks",
+      "value": 0
+    },
+    {
+      "label": "Spruce Wood Planks",
+      "value": 1
+    },
+    {
+      "label": "Birch Wood Planks",
+      "value": 2
+    },
+    {
+      "label": "Jungle Wood Planks",
+      "value": 3
+    },
+    {
+      "label": "Acacia Wood Planks",
+      "value": 4
+    },
+    {
+      "label": "Dark oak Wood Planks",
+      "value": 5
+    }
+  ],
   "meta": [
     {
       "key": "variant",
@@ -33,10 +53,22 @@
           "value": "Dark oak",
           "mask": 5
         }
-      ]
+      ],
+      "technical": null
     }
   ],
   "flags": {
-    "isBlock": true
-  }
+    "isBlock": true,
+    "durability": null,
+    "dyeable": null,
+    "repairable": null,
+    "enchantments": null,
+    "editors": null
+  },
+  "mod": "minecraft",
+  "id": "planks",
+  "name": "Wood Planks",
+  "introduced_at": "1.0",
+  "changed_at": "1.0",
+  "technical": false
 }

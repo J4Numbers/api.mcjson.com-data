@@ -1,10 +1,70 @@
 {
-  "mod": "minecraft",
-  "id": "carpet",
-  "name": "Carpet",
-  "technical": false,
-  "introduced_at": "1.6.0",
-  "changed_at": "1.6.0",
+  "variants": [
+    {
+      "label": "White Carpet Carpet",
+      "value": 0
+    },
+    {
+      "label": "Orange Carpet Carpet",
+      "value": 1
+    },
+    {
+      "label": "Magenta Carpet Carpet",
+      "value": 2
+    },
+    {
+      "label": "Light Blue Carpet Carpet",
+      "value": 3
+    },
+    {
+      "label": "Yellow Carpet Carpet",
+      "value": 4
+    },
+    {
+      "label": "Lime Carpet Carpet",
+      "value": 5
+    },
+    {
+      "label": "Pink Carpet Carpet",
+      "value": 6
+    },
+    {
+      "label": "Gray Carpet Carpet",
+      "value": 7
+    },
+    {
+      "label": "Light Gray Carpet Carpet",
+      "value": 8
+    },
+    {
+      "label": "Cyan Carpet Carpet",
+      "value": 9
+    },
+    {
+      "label": "Purple Carpet Carpet",
+      "value": 10
+    },
+    {
+      "label": "Blue Carpet Carpet",
+      "value": 11
+    },
+    {
+      "label": "Brown Carpet Carpet",
+      "value": 12
+    },
+    {
+      "label": "Green Carpet Carpet",
+      "value": 13
+    },
+    {
+      "label": "Red Carpet Carpet",
+      "value": 14
+    },
+    {
+      "label": "Black Carpet Carpet",
+      "value": 15
+    }
+  ],
   "meta": [
     {
       "key": "color",
@@ -73,10 +133,22 @@
           "value": "Black Carpet",
           "mask": 15
         }
-      ]
+      ],
+      "technical": null
     }
   ],
   "flags": {
-    "isBlock": true
-  }
+    "isBlock": true,
+    "durability": null,
+    "dyeable": null,
+    "repairable": null,
+    "enchantments": null,
+    "editors": null
+  },
+  "mod": "minecraft",
+  "id": "carpet",
+  "name": "Carpet",
+  "introduced_at": "1.6.0",
+  "changed_at": "1.6.0",
+  "technical": false
 }

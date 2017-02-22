@@ -1,4 +1,70 @@
 {
+  "variants": [
+    {
+      "label": "White Concrete",
+      "value": 0
+    },
+    {
+      "label": "Orange Concrete",
+      "value": 1
+    },
+    {
+      "label": "Magenta Concrete",
+      "value": 2
+    },
+    {
+      "label": "Light Blue Concrete",
+      "value": 3
+    },
+    {
+      "label": "Yellow Concrete",
+      "value": 4
+    },
+    {
+      "label": "Lime Concrete",
+      "value": 5
+    },
+    {
+      "label": "Pink Concrete",
+      "value": 6
+    },
+    {
+      "label": "Gray Concrete",
+      "value": 7
+    },
+    {
+      "label": "Light Gray Concrete",
+      "value": 8
+    },
+    {
+      "label": "Cyan Concrete",
+      "value": 9
+    },
+    {
+      "label": "Purple Concrete",
+      "value": 10
+    },
+    {
+      "label": "Blue Concrete",
+      "value": 11
+    },
+    {
+      "label": "Brown Concrete",
+      "value": 12
+    },
+    {
+      "label": "Green Concrete",
+      "value": 13
+    },
+    {
+      "label": "Red Concrete",
+      "value": 14
+    },
+    {
+      "label": "Black Concrete",
+      "value": 15
+    }
+  ],
   "meta": [
     {
       "key": "color",
@@ -67,7 +133,8 @@
           "value": "Black",
           "mask": 15
         }
-      ]
+      ],
+      "technical": null
     }
   ],
   "flags": {
@@ -82,5 +149,6 @@
   "id": "concrete",
   "name": "Concrete",
   "introduced_at": "17w06a",
-  "changed_at": "17w06a"
+  "changed_at": "17w06a",
+  "technical": false
 }

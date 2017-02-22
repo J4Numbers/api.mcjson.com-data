@@ -1,10 +1,70 @@
 {
-  "mod": "minecraft",
-  "id": "dye",
-  "name": "Ink Sack",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.0",
+  "variants": [
+    {
+      "label": "Ink Sack",
+      "value": 0
+    },
+    {
+      "label": "Rose Red",
+      "value": 1
+    },
+    {
+      "label": "Cactus Green",
+      "value": 2
+    },
+    {
+      "label": "Coco Beans",
+      "value": 3
+    },
+    {
+      "label": "Lapis Lazuli",
+      "value": 4
+    },
+    {
+      "label": "Purple Dye",
+      "value": 5
+    },
+    {
+      "label": "Cyan Dye",
+      "value": 6
+    },
+    {
+      "label": "Light Gray Dye",
+      "value": 7
+    },
+    {
+      "label": "Gray Dye",
+      "value": 8
+    },
+    {
+      "label": "Pink Dye",
+      "value": 9
+    },
+    {
+      "label": "Lime Dye",
+      "value": 10
+    },
+    {
+      "label": "Dandelion Yellow",
+      "value": 11
+    },
+    {
+      "label": "Light Blue Dye",
+      "value": 12
+    },
+    {
+      "label": "Magenta Dye",
+      "value": 13
+    },
+    {
+      "label": "Orange Dye",
+      "value": 14
+    },
+    {
+      "label": "Bone Meal",
+      "value": 15
+    }
+  ],
   "meta": [
     {
       "key": "type",
@@ -73,8 +133,22 @@
           "value": "Bone Meal",
           "mask": 15
         }
-      ]
+      ],
+      "technical": null
     }
   ],
-  "flags": {}
+  "flags": {
+    "isBlock": false,
+    "durability": null,
+    "dyeable": null,
+    "repairable": null,
+    "enchantments": null,
+    "editors": null
+  },
+  "mod": "minecraft",
+  "id": "dye",
+  "name": "Ink Sack",
+  "introduced_at": "1.0",
+  "changed_at": "1.0",
+  "technical": false
 }

@@ -1,10 +1,14 @@
 {
-  "mod": "minecraft",
-  "id": "log2",
-  "name": "Wood",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.0",
+  "variants": [
+    {
+      "label": "Acacia Wood",
+      "value": 0
+    },
+    {
+      "label": "Dark oak Wood",
+      "value": 1
+    }
+  ],
   "meta": [
     {
       "key": "variant",
@@ -17,7 +21,8 @@
           "value": "Dark oak",
           "mask": 1
         }
-      ]
+      ],
+      "technical": null
     },
     {
       "key": "direction",
@@ -43,6 +48,17 @@
     }
   ],
   "flags": {
-    "isBlock": true
-  }
+    "isBlock": true,
+    "durability": null,
+    "dyeable": null,
+    "repairable": null,
+    "enchantments": null,
+    "editors": null
+  },
+  "mod": "minecraft",
+  "id": "log2",
+  "name": "Wood",
+  "introduced_at": "1.0",
+  "changed_at": "1.0",
+  "technical": false
 }
