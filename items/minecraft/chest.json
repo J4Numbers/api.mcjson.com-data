@@ -1,11 +1,19 @@
 {
+  "variants": [],
+  "meta": [],
+  "flags": {
+    "isBlock": true,
+    "durability": null,
+    "dyeable": null,
+    "repairable": null,
+    "enchantments": null,
+    "editors": null,
+    "inventory_slots": 27
+  },
   "mod": "minecraft",
   "id": "chest",
   "name": "Chest",
   "introduced_at": "1.0",
   "changed_at": "1.0",
-  "flags": {
-    "inventory_slots": 27,
-    "isBlock": true
-  }
+  "technical": false
 }
