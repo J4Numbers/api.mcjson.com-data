@@ -1,47 +1,48 @@
-{
-  "variants": [
-    {
-      "label": "Sand",
-      "value": 0
+[
+  {
+    "variants": [
+      {
+        "label": "Sand",
+        "value": 0
+      },
+      {
+        "label": "Red Sand",
+        "value": 1
+      }
+    ],
+    "meta": [
+      {
+        "key": "variant",
+        "values": [
+          {
+            "value": "sand",
+            "mask": 0
+          },
+          {
+            "value": "red_sand",
+            "mask": 1
+          }
+        ],
+        "technical": false
+      }
+    ],
+    "flags": {
+      "isBlock": true,
+      "durability": null,
+      "dyeable": null,
+      "repairable": null,
+      "enchantments": null,
+      "editors": null,
+      "physics": true,
+      "hardness": null,
+      "unpushable": null,
+      "transparent": null,
+      "inventory_slots": null
     },
-    {
-      "label": "Red Sand",
-      "value": 1
-    }
-  ],
-  "meta": [
-    {
-      "key": "variant",
-      "values": [
-        {
-          "value": "sand",
-          "mask": 0
-        },
-        {
-          "value": "red_sand",
-          "mask": 1
-        }
-      ],
-      "technical": false
-    }
-  ],
-  "flags": {
-    "isBlock": true,
-    "durability": null,
-    "dyeable": null,
-    "repairable": null,
-    "enchantments": null,
-    "editors": null,
-    "physics": true,
-    "hardness": null,
-    "unpushable": null,
-    "transparent": null,
-    "inventory_slots": null
-  },
-  "mod": "minecraft",
-  "id": "sand",
-  "name": "Sand",
-  "introduced_at": "1.0",
-  "changed_at": "1.7.0",
-  "technical": false
-}
+    "mod": "minecraft",
+    "id": "sand",
+    "name": "Sand",
+    "technical": false,
+    "version": "1.7.0"
+  }
+]

@@ -1,154 +1,155 @@
-{
-  "variants": [
-    {
-      "label": "White Stained Glass",
-      "value": 0
+[
+  {
+    "variants": [
+      {
+        "label": "White Stained Glass",
+        "value": 0
+      },
+      {
+        "label": "Orange Stained Glass",
+        "value": 1
+      },
+      {
+        "label": "Magenta Stained Glass",
+        "value": 2
+      },
+      {
+        "label": "Light Blue Stained Glass",
+        "value": 3
+      },
+      {
+        "label": "Yellow Stained Glass",
+        "value": 4
+      },
+      {
+        "label": "Lime Stained Glass",
+        "value": 5
+      },
+      {
+        "label": "Pink Stained Glass",
+        "value": 6
+      },
+      {
+        "label": "Gray Stained Glass",
+        "value": 7
+      },
+      {
+        "label": "Light Gray Stained Glass",
+        "value": 8
+      },
+      {
+        "label": "Cyan Stained Glass",
+        "value": 9
+      },
+      {
+        "label": "Purple Stained Glass",
+        "value": 10
+      },
+      {
+        "label": "Blue Stained Glass",
+        "value": 11
+      },
+      {
+        "label": "Brown Stained Glass",
+        "value": 12
+      },
+      {
+        "label": "Green Stained Glass",
+        "value": 13
+      },
+      {
+        "label": "Red Stained Glass",
+        "value": 14
+      },
+      {
+        "label": "Black Stained Glass",
+        "value": 15
+      }
+    ],
+    "meta": [
+      {
+        "key": "color",
+        "values": [
+          {
+            "value": "White",
+            "mask": 0
+          },
+          {
+            "value": "Orange",
+            "mask": 1
+          },
+          {
+            "value": "Magenta",
+            "mask": 2
+          },
+          {
+            "value": "Light Blue",
+            "mask": 3
+          },
+          {
+            "value": "Yellow",
+            "mask": 4
+          },
+          {
+            "value": "Lime",
+            "mask": 5
+          },
+          {
+            "value": "Pink",
+            "mask": 6
+          },
+          {
+            "value": "Gray",
+            "mask": 7
+          },
+          {
+            "value": "Light Gray",
+            "mask": 8
+          },
+          {
+            "value": "Cyan",
+            "mask": 9
+          },
+          {
+            "value": "Purple",
+            "mask": 10
+          },
+          {
+            "value": "Blue",
+            "mask": 11
+          },
+          {
+            "value": "Brown",
+            "mask": 12
+          },
+          {
+            "value": "Green",
+            "mask": 13
+          },
+          {
+            "value": "Red",
+            "mask": 14
+          },
+          {
+            "value": "Black",
+            "mask": 15
+          }
+        ],
+        "technical": null
+      }
+    ],
+    "flags": {
+      "isBlock": true,
+      "durability": null,
+      "dyeable": null,
+      "repairable": null,
+      "enchantments": null,
+      "editors": null
     },
-    {
-      "label": "Orange Stained Glass",
-      "value": 1
-    },
-    {
-      "label": "Magenta Stained Glass",
-      "value": 2
-    },
-    {
-      "label": "Light Blue Stained Glass",
-      "value": 3
-    },
-    {
-      "label": "Yellow Stained Glass",
-      "value": 4
-    },
-    {
-      "label": "Lime Stained Glass",
-      "value": 5
-    },
-    {
-      "label": "Pink Stained Glass",
-      "value": 6
-    },
-    {
-      "label": "Gray Stained Glass",
-      "value": 7
-    },
-    {
-      "label": "Light Gray Stained Glass",
-      "value": 8
-    },
-    {
-      "label": "Cyan Stained Glass",
-      "value": 9
-    },
-    {
-      "label": "Purple Stained Glass",
-      "value": 10
-    },
-    {
-      "label": "Blue Stained Glass",
-      "value": 11
-    },
-    {
-      "label": "Brown Stained Glass",
-      "value": 12
-    },
-    {
-      "label": "Green Stained Glass",
-      "value": 13
-    },
-    {
-      "label": "Red Stained Glass",
-      "value": 14
-    },
-    {
-      "label": "Black Stained Glass",
-      "value": 15
-    }
-  ],
-  "meta": [
-    {
-      "key": "color",
-      "values": [
-        {
-          "value": "White",
-          "mask": 0
-        },
-        {
-          "value": "Orange",
-          "mask": 1
-        },
-        {
-          "value": "Magenta",
-          "mask": 2
-        },
-        {
-          "value": "Light Blue",
-          "mask": 3
-        },
-        {
-          "value": "Yellow",
-          "mask": 4
-        },
-        {
-          "value": "Lime",
-          "mask": 5
-        },
-        {
-          "value": "Pink",
-          "mask": 6
-        },
-        {
-          "value": "Gray",
-          "mask": 7
-        },
-        {
-          "value": "Light Gray",
-          "mask": 8
-        },
-        {
-          "value": "Cyan",
-          "mask": 9
-        },
-        {
-          "value": "Purple",
-          "mask": 10
-        },
-        {
-          "value": "Blue",
-          "mask": 11
-        },
-        {
-          "value": "Brown",
-          "mask": 12
-        },
-        {
-          "value": "Green",
-          "mask": 13
-        },
-        {
-          "value": "Red",
-          "mask": 14
-        },
-        {
-          "value": "Black",
-          "mask": 15
-        }
-      ],
-      "technical": null
-    }
-  ],
-  "flags": {
-    "isBlock": true,
-    "durability": null,
-    "dyeable": null,
-    "repairable": null,
-    "enchantments": null,
-    "editors": null
-  },
-  "mod": "minecraft",
-  "id": "stained_glass",
-  "name": "Stained Glass",
-  "introduced_at": "1.0",
-  "changed_at": "1.7.0",
-  "technical": false
-}
+    "mod": "minecraft",
+    "id": "stained_glass",
+    "name": "Stained Glass",
+    "technical": false,
+    "version": "1.7.0"
+  }
+]

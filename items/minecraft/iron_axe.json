@@ -1,12 +1,13 @@
-{
-  "mod": "minecraft",
-  "id": "iron_axe",
-  "name": "Iron Axe",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.0",
-  "flags": {
-    "durability": 250
-  },
-  "meta": []
-}
+[
+  {
+    "mod": "minecraft",
+    "id": "iron_axe",
+    "name": "Iron Axe",
+    "technical": false,
+    "flags": {
+      "durability": 250
+    },
+    "meta": [],
+    "version": "1.0"
+  }
+]

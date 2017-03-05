@@ -1,9 +1,10 @@
-{
-  "mod": "minecraft",
-  "id": "repeater",
-  "name": "Redstone Repeater",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.0",
-  "flags": {}
-}
+[
+  {
+    "mod": "minecraft",
+    "id": "repeater",
+    "name": "Redstone Repeater",
+    "technical": false,
+    "flags": {},
+    "version": "1.0"
+  }
+]

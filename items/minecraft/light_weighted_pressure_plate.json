@@ -1,11 +1,12 @@
-{
-  "mod": "minecraft",
-  "id": "light_weighted_pressure_plate",
-  "name": "Weighted Pressure Plate (light)",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.5.0",
-  "flags": {
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "light_weighted_pressure_plate",
+    "name": "Weighted Pressure Plate (light)",
+    "technical": false,
+    "flags": {
+      "isBlock": true
+    },
+    "version": "1.5.0"
   }
-}
+]

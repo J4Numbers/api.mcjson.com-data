@@ -1,11 +1,32 @@
-{
-  "mod": "minecraft",
-  "id": "dispenser",
-  "name": "Dispenser",
-  "introduced_at": "1.0",
-  "changed_at": "1.0",
-  "flags": {
-    "inventory_slots": 9,
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "dispenser",
+    "name": "Dispenser",
+    "technical": false,
+    "variants": [
+      {
+        "label": "Dispenser",
+        "value": 0
+      }
+    ],
+    "meta": [],
+    "flags": {
+      "isBlock": true,
+      "durability": null,
+      "dyeable": null,
+      "repairable": null,
+      "enchantments": null,
+      "inventory": {
+        "slots": 9,
+        "type": "DISPENSER"
+      },
+      "physics": null,
+      "hardness": null,
+      "unpushable": null,
+      "transparent": null,
+      "editors": null
+    },
+    "version": "1.0"
   }
-}
+]

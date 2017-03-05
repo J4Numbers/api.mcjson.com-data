@@ -1,8 +1,9 @@
-{
-  "flags": {},
-  "mod": "minecraft",
-  "id": "totem",
-  "name": "Totem of Undying",
-  "introduced_at": "16w39a",
-  "changed_at": "16w39a"
-}
+[
+  {
+    "flags": {},
+    "mod": "minecraft",
+    "id": "totem",
+    "name": "Totem of Undying",
+    "version": "16w39a"
+  }
+]

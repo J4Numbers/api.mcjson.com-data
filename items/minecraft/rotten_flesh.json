@@ -1,9 +1,10 @@
-{
-  "mod": "minecraft",
-  "id": "rotten_flesh",
-  "name": "Rotten Flesh",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.0",
-  "flags": {}
-}
+[
+  {
+    "mod": "minecraft",
+    "id": "rotten_flesh",
+    "name": "Rotten Flesh",
+    "technical": false,
+    "flags": {},
+    "version": "1.0"
+  }
+]

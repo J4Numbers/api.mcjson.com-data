@@ -1,74 +1,75 @@
-{
-  "variants": [
-    {
-      "label": "Sunflower",
-      "value": 0
+[
+  {
+    "variants": [
+      {
+        "label": "Sunflower",
+        "value": 0
+      },
+      {
+        "label": "Lilac",
+        "value": 1
+      },
+      {
+        "label": "Double Tallgrass",
+        "value": 2
+      },
+      {
+        "label": "Large Fern",
+        "value": 3
+      },
+      {
+        "label": "Rose Bush",
+        "value": 4
+      },
+      {
+        "label": "Peony",
+        "value": 5
+      }
+    ],
+    "meta": [
+      {
+        "key": "type",
+        "values": [
+          {
+            "value": "Sunflower",
+            "mask": 0
+          },
+          {
+            "value": "Lilac",
+            "mask": 1
+          },
+          {
+            "value": "Double Tallgrass",
+            "mask": 2
+          },
+          {
+            "value": "Large Fern",
+            "mask": 3
+          },
+          {
+            "value": "Rose Bush",
+            "mask": 4
+          },
+          {
+            "value": "Peony",
+            "mask": 5
+          }
+        ],
+        "technical": null
+      }
+    ],
+    "flags": {
+      "isBlock": true,
+      "durability": null,
+      "dyeable": null,
+      "repairable": null,
+      "enchantments": null,
+      "editors": null
     },
-    {
-      "label": "Lilac",
-      "value": 1
-    },
-    {
-      "label": "Double Tallgrass",
-      "value": 2
-    },
-    {
-      "label": "Large Fern",
-      "value": 3
-    },
-    {
-      "label": "Rose Bush",
-      "value": 4
-    },
-    {
-      "label": "Peony",
-      "value": 5
-    }
-  ],
-  "meta": [
-    {
-      "key": "type",
-      "values": [
-        {
-          "value": "Sunflower",
-          "mask": 0
-        },
-        {
-          "value": "Lilac",
-          "mask": 1
-        },
-        {
-          "value": "Double Tallgrass",
-          "mask": 2
-        },
-        {
-          "value": "Large Fern",
-          "mask": 3
-        },
-        {
-          "value": "Rose Bush",
-          "mask": 4
-        },
-        {
-          "value": "Peony",
-          "mask": 5
-        }
-      ],
-      "technical": null
-    }
-  ],
-  "flags": {
-    "isBlock": true,
-    "durability": null,
-    "dyeable": null,
-    "repairable": null,
-    "enchantments": null,
-    "editors": null
-  },
-  "mod": "minecraft",
-  "id": "double_plant",
-  "name": "Sunflower",
-  "introduced_at": "1.0",
-  "changed_at": "1.7.0",
-  "technical": false
-}
+    "mod": "minecraft",
+    "id": "double_plant",
+    "name": "Sunflower",
+    "technical": false,
+    "version": "1.7.0"
+  }
+]

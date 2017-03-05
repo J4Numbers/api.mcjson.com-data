@@ -1,11 +1,12 @@
-{
-  "mod": "minecraft",
-  "id": "red_mushroom_block",
-  "name": "Red Mushroom Block",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.0",
-  "flags": {
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "red_mushroom_block",
+    "name": "Red Mushroom Block",
+    "technical": false,
+    "flags": {
+      "isBlock": true
+    },
+    "version": "1.0"
   }
-}
+]

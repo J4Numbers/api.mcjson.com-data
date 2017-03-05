@@ -1,30 +1,31 @@
-{
-  "mod": "minecraft",
-  "id": "tallgrass",
-  "name": "Dead Shrub",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.0",
-  "meta": [
-    {
-      "key": "variant",
-      "values": [
-        {
-          "value": "Dead Shrub",
-          "mask": 0
-        },
-        {
-          "value": "Grass",
-          "mask": 1
-        },
-        {
-          "value": "Fern",
-          "mask": 2
-        }
-      ]
-    }
-  ],
-  "flags": {
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "tallgrass",
+    "name": "Dead Shrub",
+    "technical": false,
+    "meta": [
+      {
+        "key": "variant",
+        "values": [
+          {
+            "value": "Dead Shrub",
+            "mask": 0
+          },
+          {
+            "value": "Grass",
+            "mask": 1
+          },
+          {
+            "value": "Fern",
+            "mask": 2
+          }
+        ]
+      }
+    ],
+    "flags": {
+      "isBlock": true
+    },
+    "version": "1.0"
   }
-}
+]

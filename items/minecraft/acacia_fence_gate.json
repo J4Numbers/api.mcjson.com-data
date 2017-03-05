@@ -1,11 +1,12 @@
-{
-  "url": "/v1/blocks/minecraft/acacia_fence_gate.json",
-  "id": "acacia_fence_gate",
-  "mod": "minecraft",
-  "name": "Acacia Fence Gate",
-  "introduced_at": "1.8",
-  "changed_at": "1.8",
-  "flags": {
-    "isBlock": true
+[
+  {
+    "url": "/v1/blocks/minecraft/acacia_fence_gate.json",
+    "id": "acacia_fence_gate",
+    "mod": "minecraft",
+    "name": "Acacia Fence Gate",
+    "flags": {
+      "isBlock": true
+    },
+    "version": "1.8"
   }
-}
+]

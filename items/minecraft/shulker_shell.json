@@ -1,8 +1,9 @@
-{
-  "flags": {},
-  "mod": "minecraft",
-  "id": "shulker_shell",
-  "name": "Shulker Shell",
-  "introduced_at": "16w39a",
-  "changed_at": "16w39a"
-}
+[
+  {
+    "flags": {},
+    "mod": "minecraft",
+    "id": "shulker_shell",
+    "name": "Shulker Shell",
+    "version": "16w39a"
+  }
+]

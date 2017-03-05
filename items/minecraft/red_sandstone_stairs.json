@@ -1,11 +1,12 @@
-{
-  "mod": "minecraft",
-  "id": "red_sandstone_stairs",
-  "name": "Red Sandstone Stairs",
-  "introduced_at": "1.8.3",
-  "technical": false,
-  "changed_at": "1.8",
-  "flags": {
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "red_sandstone_stairs",
+    "name": "Red Sandstone Stairs",
+    "technical": false,
+    "flags": {
+      "isBlock": true
+    },
+    "version": "1.8"
   }
-}
+]

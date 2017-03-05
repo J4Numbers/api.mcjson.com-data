@@ -1,11 +1,12 @@
-{
-  "mod": "minecraft",
-  "id": "hopper",
-  "name": "Hopper",
-  "introduced_at": "1.0",
-  "changed_at": "1.5.0",
-  "flags": {
-    "inventory_slots": 5,
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "hopper",
+    "name": "Hopper",
+    "flags": {
+      "inventory_slots": 5,
+      "isBlock": true
+    },
+    "version": "1.5.0"
   }
-}
+]

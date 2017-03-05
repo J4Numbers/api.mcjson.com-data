@@ -1,154 +1,155 @@
-{
-  "variants": [
-    {
-      "label": "White Concrete",
-      "value": 0
+[
+  {
+    "variants": [
+      {
+        "label": "White Concrete",
+        "value": 0
+      },
+      {
+        "label": "Orange Concrete",
+        "value": 1
+      },
+      {
+        "label": "Magenta Concrete",
+        "value": 2
+      },
+      {
+        "label": "Light Blue Concrete",
+        "value": 3
+      },
+      {
+        "label": "Yellow Concrete",
+        "value": 4
+      },
+      {
+        "label": "Lime Concrete",
+        "value": 5
+      },
+      {
+        "label": "Pink Concrete",
+        "value": 6
+      },
+      {
+        "label": "Gray Concrete",
+        "value": 7
+      },
+      {
+        "label": "Light Gray Concrete",
+        "value": 8
+      },
+      {
+        "label": "Cyan Concrete",
+        "value": 9
+      },
+      {
+        "label": "Purple Concrete",
+        "value": 10
+      },
+      {
+        "label": "Blue Concrete",
+        "value": 11
+      },
+      {
+        "label": "Brown Concrete",
+        "value": 12
+      },
+      {
+        "label": "Green Concrete",
+        "value": 13
+      },
+      {
+        "label": "Red Concrete",
+        "value": 14
+      },
+      {
+        "label": "Black Concrete",
+        "value": 15
+      }
+    ],
+    "meta": [
+      {
+        "key": "color",
+        "values": [
+          {
+            "value": "White",
+            "mask": 0
+          },
+          {
+            "value": "Orange",
+            "mask": 1
+          },
+          {
+            "value": "Magenta",
+            "mask": 2
+          },
+          {
+            "value": "Light Blue",
+            "mask": 3
+          },
+          {
+            "value": "Yellow",
+            "mask": 4
+          },
+          {
+            "value": "Lime",
+            "mask": 5
+          },
+          {
+            "value": "Pink",
+            "mask": 6
+          },
+          {
+            "value": "Gray",
+            "mask": 7
+          },
+          {
+            "value": "Light Gray",
+            "mask": 8
+          },
+          {
+            "value": "Cyan",
+            "mask": 9
+          },
+          {
+            "value": "Purple",
+            "mask": 10
+          },
+          {
+            "value": "Blue",
+            "mask": 11
+          },
+          {
+            "value": "Brown",
+            "mask": 12
+          },
+          {
+            "value": "Green",
+            "mask": 13
+          },
+          {
+            "value": "Red",
+            "mask": 14
+          },
+          {
+            "value": "Black",
+            "mask": 15
+          }
+        ],
+        "technical": null
+      }
+    ],
+    "flags": {
+      "isBlock": true,
+      "durability": null,
+      "dyeable": null,
+      "repairable": null,
+      "enchantments": null,
+      "editors": []
     },
-    {
-      "label": "Orange Concrete",
-      "value": 1
-    },
-    {
-      "label": "Magenta Concrete",
-      "value": 2
-    },
-    {
-      "label": "Light Blue Concrete",
-      "value": 3
-    },
-    {
-      "label": "Yellow Concrete",
-      "value": 4
-    },
-    {
-      "label": "Lime Concrete",
-      "value": 5
-    },
-    {
-      "label": "Pink Concrete",
-      "value": 6
-    },
-    {
-      "label": "Gray Concrete",
-      "value": 7
-    },
-    {
-      "label": "Light Gray Concrete",
-      "value": 8
-    },
-    {
-      "label": "Cyan Concrete",
-      "value": 9
-    },
-    {
-      "label": "Purple Concrete",
-      "value": 10
-    },
-    {
-      "label": "Blue Concrete",
-      "value": 11
-    },
-    {
-      "label": "Brown Concrete",
-      "value": 12
-    },
-    {
-      "label": "Green Concrete",
-      "value": 13
-    },
-    {
-      "label": "Red Concrete",
-      "value": 14
-    },
-    {
-      "label": "Black Concrete",
-      "value": 15
-    }
-  ],
-  "meta": [
-    {
-      "key": "color",
-      "values": [
-        {
-          "value": "White",
-          "mask": 0
-        },
-        {
-          "value": "Orange",
-          "mask": 1
-        },
-        {
-          "value": "Magenta",
-          "mask": 2
-        },
-        {
-          "value": "Light Blue",
-          "mask": 3
-        },
-        {
-          "value": "Yellow",
-          "mask": 4
-        },
-        {
-          "value": "Lime",
-          "mask": 5
-        },
-        {
-          "value": "Pink",
-          "mask": 6
-        },
-        {
-          "value": "Gray",
-          "mask": 7
-        },
-        {
-          "value": "Light Gray",
-          "mask": 8
-        },
-        {
-          "value": "Cyan",
-          "mask": 9
-        },
-        {
-          "value": "Purple",
-          "mask": 10
-        },
-        {
-          "value": "Blue",
-          "mask": 11
-        },
-        {
-          "value": "Brown",
-          "mask": 12
-        },
-        {
-          "value": "Green",
-          "mask": 13
-        },
-        {
-          "value": "Red",
-          "mask": 14
-        },
-        {
-          "value": "Black",
-          "mask": 15
-        }
-      ],
-      "technical": null
-    }
-  ],
-  "flags": {
-    "isBlock": true,
-    "durability": null,
-    "dyeable": null,
-    "repairable": null,
-    "enchantments": null,
-    "editors": []
-  },
-  "mod": "minecraft",
-  "id": "concrete",
-  "name": "Concrete",
-  "introduced_at": "17w06a",
-  "changed_at": "17w06a",
-  "technical": false
-}
+    "mod": "minecraft",
+    "id": "concrete",
+    "name": "Concrete",
+    "technical": false,
+    "version": "17w06a"
+  }
+]

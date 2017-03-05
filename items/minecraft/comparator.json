@@ -1,9 +1,10 @@
-{
-  "mod": "minecraft",
-  "id": "comparator",
-  "name": "Redstone Comparator",
-  "technical": false,
-  "introduced_at": "1.5.0",
-  "changed_at": "1.5.0",
-  "flags": {}
-}
+[
+  {
+    "mod": "minecraft",
+    "id": "comparator",
+    "name": "Redstone Comparator",
+    "technical": false,
+    "flags": {},
+    "version": "1.5.0"
+  }
+]

@@ -1,26 +1,27 @@
-{
-  "mod": "minecraft",
-  "id": "sponge",
-  "name": "Sponge",
-  "changed_at": "1.8",
-  "technical": false,
-  "introduced_at": "1.8.3",
-  "meta": [
-    {
-      "key": "wet",
-      "values": [
-        {
-          "value": "false",
-          "mask": 0
-        },
-        {
-          "value": "true",
-          "mask": 1
-        }
-      ]
-    }
-  ],
-  "flags": {
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "sponge",
+    "name": "Sponge",
+    "technical": false,
+    "meta": [
+      {
+        "key": "wet",
+        "values": [
+          {
+            "value": "false",
+            "mask": 0
+          },
+          {
+            "value": "true",
+            "mask": 1
+          }
+        ]
+      }
+    ],
+    "flags": {
+      "isBlock": true
+    },
+    "version": "1.8"
   }
-}
+]

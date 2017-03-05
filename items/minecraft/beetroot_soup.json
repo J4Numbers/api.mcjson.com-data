@@ -1,9 +1,10 @@
-{
-  "mod": "minecraft",
-  "id": "beetroot_soup",
-  "name": "Beetroot Soup",
-  "technical": false,
-  "introduced_at": "15w31a",
-  "changed_at": "15w31a",
-  "flags": {}
-}
+[
+  {
+    "mod": "minecraft",
+    "id": "beetroot_soup",
+    "name": "Beetroot Soup",
+    "technical": false,
+    "flags": {},
+    "version": "15w31a"
+  }
+]

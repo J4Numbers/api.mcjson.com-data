@@ -1,11 +1,12 @@
-{
-  "mod": "minecraft",
-  "id": "redstone_lamp",
-  "name": "Redstone Lamp (inactive)",
-  "technical": false,
-  "introduced_at": "1.2.1",
-  "changed_at": "1.2.1",
-  "flags": {
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "redstone_lamp",
+    "name": "Redstone Lamp (inactive)",
+    "technical": false,
+    "flags": {
+      "isBlock": true
+    },
+    "version": "1.2.1"
   }
-}
+]

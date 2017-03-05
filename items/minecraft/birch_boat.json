@@ -1,8 +1,9 @@
-{
-  "mod": "minecraft",
-  "id": "birch_boat",
-  "name": "Birch Boat",
-  "introduced_at": "1.9",
-  "changed_at": "1.9",
-  "flags": {}
-}
+[
+  {
+    "mod": "minecraft",
+    "id": "birch_boat",
+    "name": "Birch Boat",
+    "flags": {},
+    "version": "1.9"
+  }
+]

@@ -1,11 +1,12 @@
-{
-  "mod": "minecraft",
-  "id": "wooden_pressure_plate",
-  "name": "Wooden Pressure Plate",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.0",
-  "flags": {
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "wooden_pressure_plate",
+    "name": "Wooden Pressure Plate",
+    "technical": false,
+    "flags": {
+      "isBlock": true
+    },
+    "version": "1.0"
   }
-}
+]

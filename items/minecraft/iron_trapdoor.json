@@ -1,11 +1,12 @@
-{
-  "mod": "minecraft",
-  "id": "iron_trapdoor",
-  "name": "Iron Trapdoor",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.8",
-  "flags": {
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "iron_trapdoor",
+    "name": "Iron Trapdoor",
+    "technical": false,
+    "flags": {
+      "isBlock": true
+    },
+    "version": "1.8"
   }
-}
+]

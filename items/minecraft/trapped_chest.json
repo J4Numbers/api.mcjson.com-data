@@ -1,11 +1,12 @@
-{
-  "mod": "minecraft",
-  "id": "trapped_chest",
-  "name": "Trapped Chest",
-  "introduced_at": "1.0",
-  "changed_at": "1.5.0",
-  "flags": {
-    "inventory_slots": 27,
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "trapped_chest",
+    "name": "Trapped Chest",
+    "flags": {
+      "inventory_slots": 27,
+      "isBlock": true
+    },
+    "version": "1.5.0"
   }
-}
+]

@@ -1,124 +1,125 @@
-{
-  "mod": "minecraft",
-  "id": "spawn_egg",
-  "name": "Spawn",
-  "technical": false,
-  "introduced_at": "1.1",
-  "changed_at": "1.8",
-  "meta": [
-    {
-      "key": "entity",
-      "values": [
-        {
-          "value": "Spawn Creeper",
-          "mask": 50
-        },
-        {
-          "value": "Spawn Skeleton",
-          "mask": 51
-        },
-        {
-          "value": "Spawn Spider",
-          "mask": 52
-        },
-        {
-          "value": "Spawn Zombie",
-          "mask": 54
-        },
-        {
-          "value": "Spawn Slime",
-          "mask": 55
-        },
-        {
-          "value": "Spawn Ghast",
-          "mask": 56
-        },
-        {
-          "value": "Spawn Pigman",
-          "mask": 57
-        },
-        {
-          "value": "Spawn Enderman",
-          "mask": 58
-        },
-        {
-          "value": "Spawn Cave Spider",
-          "mask": 59
-        },
-        {
-          "value": "Spawn Silverfish",
-          "mask": 60
-        },
-        {
-          "value": "Spawn Blaze",
-          "mask": 61
-        },
-        {
-          "value": "Spawn Magma Cube",
-          "mask": 62
-        },
-        {
-          "value": "Spawn Bat",
-          "mask": 65
-        },
-        {
-          "value": "Spawn Witch",
-          "mask": 66
-        },
-        {
-          "value": "Spawn Endermite",
-          "mask": 67
-        },
-        {
-          "value": "Spawn Guardian",
-          "mask": 68
-        },
-        {
-          "value": "Spawn Pig",
-          "mask": 90
-        },
-        {
-          "value": "Spawn Sheep",
-          "mask": 91
-        },
-        {
-          "value": "Spawn Cow",
-          "mask": 92
-        },
-        {
-          "value": "Spawn Chicken",
-          "mask": 93
-        },
-        {
-          "value": "Spawn Squid",
-          "mask": 94
-        },
-        {
-          "value": "Spawn Wolf",
-          "mask": 95
-        },
-        {
-          "value": "Spawn Mooshroom",
-          "mask": 96
-        },
-        {
-          "value": "Spawn Ocelot",
-          "mask": 98
-        },
-        {
-          "value": "Spawn Horse",
-          "mask": 100
-        },
-        {
-          "value": "Spawn Rabbit",
-          "mask": 101
-        },
-        {
-          "value": "Spawn Villager",
-          "mask": 120
-        }
-      ]
-    }
-  ],
-  "flags": {}
-}
+[
+  {
+    "mod": "minecraft",
+    "id": "spawn_egg",
+    "name": "Spawn",
+    "technical": false,
+    "meta": [
+      {
+        "key": "entity",
+        "values": [
+          {
+            "value": "Spawn Creeper",
+            "mask": 50
+          },
+          {
+            "value": "Spawn Skeleton",
+            "mask": 51
+          },
+          {
+            "value": "Spawn Spider",
+            "mask": 52
+          },
+          {
+            "value": "Spawn Zombie",
+            "mask": 54
+          },
+          {
+            "value": "Spawn Slime",
+            "mask": 55
+          },
+          {
+            "value": "Spawn Ghast",
+            "mask": 56
+          },
+          {
+            "value": "Spawn Pigman",
+            "mask": 57
+          },
+          {
+            "value": "Spawn Enderman",
+            "mask": 58
+          },
+          {
+            "value": "Spawn Cave Spider",
+            "mask": 59
+          },
+          {
+            "value": "Spawn Silverfish",
+            "mask": 60
+          },
+          {
+            "value": "Spawn Blaze",
+            "mask": 61
+          },
+          {
+            "value": "Spawn Magma Cube",
+            "mask": 62
+          },
+          {
+            "value": "Spawn Bat",
+            "mask": 65
+          },
+          {
+            "value": "Spawn Witch",
+            "mask": 66
+          },
+          {
+            "value": "Spawn Endermite",
+            "mask": 67
+          },
+          {
+            "value": "Spawn Guardian",
+            "mask": 68
+          },
+          {
+            "value": "Spawn Pig",
+            "mask": 90
+          },
+          {
+            "value": "Spawn Sheep",
+            "mask": 91
+          },
+          {
+            "value": "Spawn Cow",
+            "mask": 92
+          },
+          {
+            "value": "Spawn Chicken",
+            "mask": 93
+          },
+          {
+            "value": "Spawn Squid",
+            "mask": 94
+          },
+          {
+            "value": "Spawn Wolf",
+            "mask": 95
+          },
+          {
+            "value": "Spawn Mooshroom",
+            "mask": 96
+          },
+          {
+            "value": "Spawn Ocelot",
+            "mask": 98
+          },
+          {
+            "value": "Spawn Horse",
+            "mask": 100
+          },
+          {
+            "value": "Spawn Rabbit",
+            "mask": 101
+          },
+          {
+            "value": "Spawn Villager",
+            "mask": 120
+          }
+        ]
+      }
+    ],
+    "flags": {},
+    "version": "1.8"
+  }
+]

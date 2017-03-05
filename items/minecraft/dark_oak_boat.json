@@ -1,8 +1,9 @@
-{
-  "mod": "minecraft",
-  "id": "dark_oak_boat",
-  "name": "Dark Oak Boat",
-  "introduced_at": "1.9",
-  "changed_at": "1.9",
-  "flags": {}
-}
+[
+  {
+    "mod": "minecraft",
+    "id": "dark_oak_boat",
+    "name": "Dark Oak Boat",
+    "flags": {},
+    "version": "1.9"
+  }
+]

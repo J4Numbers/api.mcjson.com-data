@@ -1,8 +1,9 @@
-{
-  "mod": "minecraft",
-  "id": "spectral_arrow",
-  "name": "Spectral Arrow",
-  "introduced_at": "1.9",
-  "changed_at": "1.9",
-  "flags": {}
-}
+[
+  {
+    "mod": "minecraft",
+    "id": "spectral_arrow",
+    "name": "Spectral Arrow",
+    "flags": {},
+    "version": "1.9"
+  }
+]

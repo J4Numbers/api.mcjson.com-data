@@ -1,80 +1,81 @@
-{
-  "variants": [
-    {
-      "label": "Oak Wood",
-      "value": 0
+[
+  {
+    "variants": [
+      {
+        "label": "Oak Wood",
+        "value": 0
+      },
+      {
+        "label": "Spruce Wood",
+        "value": 1
+      },
+      {
+        "label": "Birch Wood",
+        "value": 2
+      },
+      {
+        "label": "Jungle Wood",
+        "value": 3
+      }
+    ],
+    "meta": [
+      {
+        "key": "variant",
+        "values": [
+          {
+            "value": "Oak",
+            "mask": 0
+          },
+          {
+            "value": "Spruce",
+            "mask": 1
+          },
+          {
+            "value": "Birch",
+            "mask": 2
+          },
+          {
+            "value": "Jungle",
+            "mask": 3
+          }
+        ],
+        "technical": null
+      },
+      {
+        "key": "direction",
+        "values": [
+          {
+            "value": "y",
+            "mask": 0
+          },
+          {
+            "value": "x",
+            "mask": 4
+          },
+          {
+            "value": "z",
+            "mask": 8
+          },
+          {
+            "value": "bark",
+            "mask": 12
+          }
+        ],
+        "technical": true
+      }
+    ],
+    "flags": {
+      "isBlock": true,
+      "durability": null,
+      "dyeable": null,
+      "repairable": null,
+      "enchantments": null,
+      "editors": null
     },
-    {
-      "label": "Spruce Wood",
-      "value": 1
-    },
-    {
-      "label": "Birch Wood",
-      "value": 2
-    },
-    {
-      "label": "Jungle Wood",
-      "value": 3
-    }
-  ],
-  "meta": [
-    {
-      "key": "variant",
-      "values": [
-        {
-          "value": "Oak",
-          "mask": 0
-        },
-        {
-          "value": "Spruce",
-          "mask": 1
-        },
-        {
-          "value": "Birch",
-          "mask": 2
-        },
-        {
-          "value": "Jungle",
-          "mask": 3
-        }
-      ],
-      "technical": null
-    },
-    {
-      "key": "direction",
-      "values": [
-        {
-          "value": "y",
-          "mask": 0
-        },
-        {
-          "value": "x",
-          "mask": 4
-        },
-        {
-          "value": "z",
-          "mask": 8
-        },
-        {
-          "value": "bark",
-          "mask": 12
-        }
-      ],
-      "technical": true
-    }
-  ],
-  "flags": {
-    "isBlock": true,
-    "durability": null,
-    "dyeable": null,
-    "repairable": null,
-    "enchantments": null,
-    "editors": null
-  },
-  "mod": "minecraft",
-  "id": "log",
-  "name": "Wood",
-  "introduced_at": "1.0",
-  "changed_at": "1.2.2",
-  "technical": false
-}
+    "mod": "minecraft",
+    "id": "log",
+    "name": "Wood",
+    "technical": false,
+    "version": "1.2.2"
+  }
+]

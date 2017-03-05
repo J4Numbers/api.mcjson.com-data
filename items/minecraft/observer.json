@@ -1,42 +1,43 @@
-{
-  "mod": "minecraft",
-  "id": "observer",
-  "name": "Observer",
-  "introduced_at": "16w39a",
-  "changed_at": "16w39a",
-  "meta": [
-    {
-      "key": "facing",
-      "values": [
-        {
-          "value": "north",
-          "mask": 0
-        },
-        {
-          "value": "south",
-          "mask": 1
-        },
-        {
-          "value": "east",
-          "mask": 2
-        },
-        {
-          "value": "west",
-          "mask": 3
-        },
-        {
-          "value": "up",
-          "mask": 4
-        },
-        {
-          "value": "down",
-          "mask": 5
-        }
-      ],
-      "technical": true
-    }
-  ],
-  "flags": {
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "observer",
+    "name": "Observer",
+    "meta": [
+      {
+        "key": "facing",
+        "values": [
+          {
+            "value": "north",
+            "mask": 0
+          },
+          {
+            "value": "south",
+            "mask": 1
+          },
+          {
+            "value": "east",
+            "mask": 2
+          },
+          {
+            "value": "west",
+            "mask": 3
+          },
+          {
+            "value": "up",
+            "mask": 4
+          },
+          {
+            "value": "down",
+            "mask": 5
+          }
+        ],
+        "technical": true
+      }
+    ],
+    "flags": {
+      "isBlock": true
+    },
+    "version": "16w39a"
   }
-}
+]

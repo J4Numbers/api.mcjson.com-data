@@ -1,9 +1,10 @@
-{
-  "mod": "minecraft",
-  "id": "banner",
-  "name": "Banner",
-  "technical": false,
-  "introduced_at": "1.8",
-  "changed_at": "1.8",
-  "flags": {}
-}
+[
+  {
+    "mod": "minecraft",
+    "id": "banner",
+    "name": "Banner",
+    "technical": false,
+    "flags": {},
+    "version": "1.8"
+  }
+]

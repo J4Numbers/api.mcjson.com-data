@@ -1,11 +1,12 @@
-{
-  "mod": "minecraft",
-  "id": "spruce_fence_gate",
-  "name": "Spruce Fence Gate",
-  "technical": false,
-  "introduced_at": "1.8",
-  "changed_at": "1.8",
-  "flags": {
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "spruce_fence_gate",
+    "name": "Spruce Fence Gate",
+    "technical": false,
+    "flags": {
+      "isBlock": true
+    },
+    "version": "1.8"
   }
-}
+]

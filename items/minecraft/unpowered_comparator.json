@@ -1,11 +1,12 @@
-{
-  "mod": "minecraft",
-  "id": "unpowered_comparator",
-  "name": "Redstone Comparator (inactive)",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.5.0",
-  "flags": {
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "unpowered_comparator",
+    "name": "Redstone Comparator (inactive)",
+    "technical": false,
+    "flags": {
+      "isBlock": true
+    },
+    "version": "1.5.0"
   }
-}
+]

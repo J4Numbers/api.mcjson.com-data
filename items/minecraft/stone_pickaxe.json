@@ -1,11 +1,12 @@
-{
-  "mod": "minecraft",
-  "id": "stone_pickaxe",
-  "name": "Stone Pickaxe",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.0",
-  "flags": {
-    "durability": 131
+[
+  {
+    "mod": "minecraft",
+    "id": "stone_pickaxe",
+    "name": "Stone Pickaxe",
+    "technical": false,
+    "flags": {
+      "durability": 131
+    },
+    "version": "1.0"
   }
-}
+]

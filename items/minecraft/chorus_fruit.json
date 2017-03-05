@@ -1,9 +1,10 @@
-{
-  "mod": "minecraft",
-  "id": "chorus_fruit",
-  "name": "Chorus Fruit",
-  "technical": false,
-  "introduced_at": "15w31a",
-  "changed_at": "15w31a",
-  "flags": {}
-}
+[
+  {
+    "mod": "minecraft",
+    "id": "chorus_fruit",
+    "name": "Chorus Fruit",
+    "technical": false,
+    "flags": {},
+    "version": "15w31a"
+  }
+]

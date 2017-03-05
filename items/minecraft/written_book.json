@@ -1,13 +1,14 @@
-{
-  "flags": {
-    "editors": [
-      "BOOK",
-      "AUTHOR"
-    ]
-  },
-  "mod": "minecraft",
-  "id": "written_book",
-  "name": "Written Book",
-  "introduced_at": "1.0",
-  "changed_at": "1.0"
-}
+[
+  {
+    "flags": {
+      "editors": [
+        "BOOK",
+        "AUTHOR"
+      ]
+    },
+    "mod": "minecraft",
+    "id": "written_book",
+    "name": "Written Book",
+    "version": "1.0"
+  }
+]

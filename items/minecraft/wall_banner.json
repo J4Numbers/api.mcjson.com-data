@@ -1,11 +1,12 @@
-{
-  "mod": "minecraft",
-  "id": "wall_banner",
-  "name": "Wall-mounted Banner",
-  "technical": false,
-  "introduced_at": "1.8",
-  "changed_at": "1.8",
-  "flags": {
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "wall_banner",
+    "name": "Wall-mounted Banner",
+    "technical": false,
+    "flags": {
+      "isBlock": true
+    },
+    "version": "1.8"
   }
-}
+]

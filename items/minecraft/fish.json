@@ -1,32 +1,33 @@
-{
-  "mod": "minecraft",
-  "id": "fish",
-  "name": "Raw Fish",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.7.0",
-  "meta": [
-    {
-      "key": "variant",
-      "values": [
-        {
-          "value": "Raw Fish",
-          "mask": 0
-        },
-        {
-          "value": "Raw Salmon",
-          "mask": 1
-        },
-        {
-          "value": "Clownfish",
-          "mask": 2
-        },
-        {
-          "value": "Pufferfish",
-          "mask": 3
-        }
-      ]
-    }
-  ],
-  "flags": {}
-}
+[
+  {
+    "mod": "minecraft",
+    "id": "fish",
+    "name": "Raw Fish",
+    "technical": false,
+    "meta": [
+      {
+        "key": "variant",
+        "values": [
+          {
+            "value": "Raw Fish",
+            "mask": 0
+          },
+          {
+            "value": "Raw Salmon",
+            "mask": 1
+          },
+          {
+            "value": "Clownfish",
+            "mask": 2
+          },
+          {
+            "value": "Pufferfish",
+            "mask": 3
+          }
+        ]
+      }
+    ],
+    "flags": {},
+    "version": "1.7.0"
+  }
+]

@@ -1,10 +1,11 @@
-{
-  "mod": "minecraft",
-  "id": "dirt",
-  "name": "Dirt",
-  "changed_at": "1.8",
-  "introduced_at": "1.0",
-  "flags": {
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "dirt",
+    "name": "Dirt",
+    "flags": {
+      "isBlock": true
+    },
+    "version": "1.8"
   }
-}
+]

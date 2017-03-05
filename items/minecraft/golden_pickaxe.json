@@ -1,11 +1,12 @@
-{
-  "mod": "minecraft",
-  "id": "golden_pickaxe",
-  "name": "Golden Pickaxe",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.0",
-  "flags": {
-    "durability": 33
+[
+  {
+    "mod": "minecraft",
+    "id": "golden_pickaxe",
+    "name": "Golden Pickaxe",
+    "technical": false,
+    "flags": {
+      "durability": 33
+    },
+    "version": "1.0"
   }
-}
+]

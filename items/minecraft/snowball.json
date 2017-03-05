@@ -1,9 +1,10 @@
-{
-  "mod": "minecraft",
-  "id": "snowball",
-  "name": "Snowball",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.0",
-  "flags": {}
-}
+[
+  {
+    "mod": "minecraft",
+    "id": "snowball",
+    "name": "Snowball",
+    "technical": false,
+    "flags": {},
+    "version": "1.0"
+  }
+]

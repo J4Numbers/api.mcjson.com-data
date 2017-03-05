@@ -1,9 +1,10 @@
-{
-  "mod": "minecraft",
-  "id": "golden_horse_armor",
-  "name": "Golden Horse Armor",
-  "technical": false,
-  "introduced_at": "1.6.4",
-  "changed_at": "1.6.0",
-  "flags": {}
-}
+[
+  {
+    "mod": "minecraft",
+    "id": "golden_horse_armor",
+    "name": "Golden Horse Armor",
+    "technical": false,
+    "flags": {},
+    "version": "1.6.0"
+  }
+]

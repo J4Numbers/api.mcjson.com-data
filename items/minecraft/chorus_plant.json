@@ -1,11 +1,12 @@
-{
-  "mod": "minecraft",
-  "id": "chorus_plant",
-  "name": "Chorus Plant",
-  "technical": true,
-  "introduced_at": "15w31a",
-  "changed_at": "15w31a",
-  "flags": {
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "chorus_plant",
+    "name": "Chorus Plant",
+    "technical": true,
+    "flags": {
+      "isBlock": true
+    },
+    "version": "15w31a"
   }
-}
+]

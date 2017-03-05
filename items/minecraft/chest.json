@@ -1,19 +1,27 @@
-{
-  "variants": [],
-  "meta": [],
-  "flags": {
-    "isBlock": true,
-    "durability": null,
-    "dyeable": null,
-    "repairable": null,
-    "enchantments": null,
-    "editors": null,
-    "inventory_slots": 27
-  },
-  "mod": "minecraft",
-  "id": "chest",
-  "name": "Chest",
-  "introduced_at": "1.0",
-  "changed_at": "1.0",
-  "technical": false
-}
+[
+  {
+    "mod": "minecraft",
+    "id": "chest",
+    "name": "Chest",
+    "technical": false,
+    "variants": [],
+    "meta": [],
+    "flags": {
+      "isBlock": true,
+      "durability": null,
+      "dyeable": null,
+      "repairable": null,
+      "enchantments": null,
+      "inventory": {
+        "slots": 27,
+        "type": "CHEST"
+      },
+      "physics": null,
+      "hardness": null,
+      "unpushable": null,
+      "transparent": null,
+      "editors": null
+    },
+    "version": "1.0"
+  }
+]

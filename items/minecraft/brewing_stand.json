@@ -1,11 +1,12 @@
-{
-  "mod": "minecraft",
-  "id": "brewing_stand",
-  "name": "Brewing Stand",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.0",
-  "flags": {
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "brewing_stand",
+    "name": "Brewing Stand",
+    "technical": false,
+    "flags": {
+      "isBlock": true
+    },
+    "version": "1.0"
   }
-}
+]

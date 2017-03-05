@@ -1,11 +1,12 @@
-{
-  "mod": "minecraft",
-  "id": "end_rod",
-  "name": "End Rod",
-  "technical": false,
-  "introduced_at": "15w31a",
-  "changed_at": "15w31a",
-  "flags": {
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "end_rod",
+    "name": "End Rod",
+    "technical": false,
+    "flags": {
+      "isBlock": true
+    },
+    "version": "15w31a"
   }
-}
+]

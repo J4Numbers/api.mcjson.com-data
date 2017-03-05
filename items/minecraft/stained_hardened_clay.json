@@ -1,154 +1,155 @@
-{
-  "variants": [
-    {
-      "label": "White Stained Clay",
-      "value": 0
+[
+  {
+    "variants": [
+      {
+        "label": "White Stained Clay",
+        "value": 0
+      },
+      {
+        "label": "Orange Stained Clay",
+        "value": 1
+      },
+      {
+        "label": "Magenta Stained Clay",
+        "value": 2
+      },
+      {
+        "label": "Light Blue Stained Clay",
+        "value": 3
+      },
+      {
+        "label": "Yellow Stained Clay",
+        "value": 4
+      },
+      {
+        "label": "Lime Stained Clay",
+        "value": 5
+      },
+      {
+        "label": "Pink Stained Clay",
+        "value": 6
+      },
+      {
+        "label": "Gray Stained Clay",
+        "value": 7
+      },
+      {
+        "label": "Light Gray Stained Clay",
+        "value": 8
+      },
+      {
+        "label": "Cyan Stained Clay",
+        "value": 9
+      },
+      {
+        "label": "Purple Stained Clay",
+        "value": 10
+      },
+      {
+        "label": "Blue Stained Clay",
+        "value": 11
+      },
+      {
+        "label": "Brown Stained Clay",
+        "value": 12
+      },
+      {
+        "label": "Green Stained Clay",
+        "value": 13
+      },
+      {
+        "label": "Red Stained Clay",
+        "value": 14
+      },
+      {
+        "label": "Black Stained Clay",
+        "value": 15
+      }
+    ],
+    "meta": [
+      {
+        "key": "color",
+        "values": [
+          {
+            "value": "White",
+            "mask": 0
+          },
+          {
+            "value": "Orange",
+            "mask": 1
+          },
+          {
+            "value": "Magenta",
+            "mask": 2
+          },
+          {
+            "value": "Light Blue",
+            "mask": 3
+          },
+          {
+            "value": "Yellow",
+            "mask": 4
+          },
+          {
+            "value": "Lime",
+            "mask": 5
+          },
+          {
+            "value": "Pink",
+            "mask": 6
+          },
+          {
+            "value": "Gray",
+            "mask": 7
+          },
+          {
+            "value": "Light Gray",
+            "mask": 8
+          },
+          {
+            "value": "Cyan",
+            "mask": 9
+          },
+          {
+            "value": "Purple",
+            "mask": 10
+          },
+          {
+            "value": "Blue",
+            "mask": 11
+          },
+          {
+            "value": "Brown",
+            "mask": 12
+          },
+          {
+            "value": "Green",
+            "mask": 13
+          },
+          {
+            "value": "Red",
+            "mask": 14
+          },
+          {
+            "value": "Black",
+            "mask": 15
+          }
+        ],
+        "technical": null
+      }
+    ],
+    "flags": {
+      "isBlock": true,
+      "durability": null,
+      "dyeable": null,
+      "repairable": null,
+      "enchantments": null,
+      "editors": null
     },
-    {
-      "label": "Orange Stained Clay",
-      "value": 1
-    },
-    {
-      "label": "Magenta Stained Clay",
-      "value": 2
-    },
-    {
-      "label": "Light Blue Stained Clay",
-      "value": 3
-    },
-    {
-      "label": "Yellow Stained Clay",
-      "value": 4
-    },
-    {
-      "label": "Lime Stained Clay",
-      "value": 5
-    },
-    {
-      "label": "Pink Stained Clay",
-      "value": 6
-    },
-    {
-      "label": "Gray Stained Clay",
-      "value": 7
-    },
-    {
-      "label": "Light Gray Stained Clay",
-      "value": 8
-    },
-    {
-      "label": "Cyan Stained Clay",
-      "value": 9
-    },
-    {
-      "label": "Purple Stained Clay",
-      "value": 10
-    },
-    {
-      "label": "Blue Stained Clay",
-      "value": 11
-    },
-    {
-      "label": "Brown Stained Clay",
-      "value": 12
-    },
-    {
-      "label": "Green Stained Clay",
-      "value": 13
-    },
-    {
-      "label": "Red Stained Clay",
-      "value": 14
-    },
-    {
-      "label": "Black Stained Clay",
-      "value": 15
-    }
-  ],
-  "meta": [
-    {
-      "key": "color",
-      "values": [
-        {
-          "value": "White",
-          "mask": 0
-        },
-        {
-          "value": "Orange",
-          "mask": 1
-        },
-        {
-          "value": "Magenta",
-          "mask": 2
-        },
-        {
-          "value": "Light Blue",
-          "mask": 3
-        },
-        {
-          "value": "Yellow",
-          "mask": 4
-        },
-        {
-          "value": "Lime",
-          "mask": 5
-        },
-        {
-          "value": "Pink",
-          "mask": 6
-        },
-        {
-          "value": "Gray",
-          "mask": 7
-        },
-        {
-          "value": "Light Gray",
-          "mask": 8
-        },
-        {
-          "value": "Cyan",
-          "mask": 9
-        },
-        {
-          "value": "Purple",
-          "mask": 10
-        },
-        {
-          "value": "Blue",
-          "mask": 11
-        },
-        {
-          "value": "Brown",
-          "mask": 12
-        },
-        {
-          "value": "Green",
-          "mask": 13
-        },
-        {
-          "value": "Red",
-          "mask": 14
-        },
-        {
-          "value": "Black",
-          "mask": 15
-        }
-      ],
-      "technical": null
-    }
-  ],
-  "flags": {
-    "isBlock": true,
-    "durability": null,
-    "dyeable": null,
-    "repairable": null,
-    "enchantments": null,
-    "editors": null
-  },
-  "mod": "minecraft",
-  "id": "stained_hardened_clay",
-  "name": "Stained Clay",
-  "introduced_at": "1.6.4",
-  "changed_at": "1.6.0",
-  "technical": false
-}
+    "mod": "minecraft",
+    "id": "stained_hardened_clay",
+    "name": "Stained Clay",
+    "technical": false,
+    "version": "1.6.0"
+  }
+]

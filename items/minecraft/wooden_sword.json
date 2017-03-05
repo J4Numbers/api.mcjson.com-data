@@ -1,11 +1,12 @@
-{
-  "mod": "minecraft",
-  "id": "wooden_sword",
-  "name": "Wooden Sword",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.0",
-  "flags": {
-    "durability": 59
+[
+  {
+    "mod": "minecraft",
+    "id": "wooden_sword",
+    "name": "Wooden Sword",
+    "technical": false,
+    "flags": {
+      "durability": 59
+    },
+    "version": "1.0"
   }
-}
+]

@@ -1,154 +1,155 @@
-{
-  "variants": [
-    {
-      "label": "White Concrete Powder",
-      "value": 0
+[
+  {
+    "variants": [
+      {
+        "label": "White Concrete Powder",
+        "value": 0
+      },
+      {
+        "label": "Orange Concrete Powder",
+        "value": 1
+      },
+      {
+        "label": "Magenta Concrete Powder",
+        "value": 2
+      },
+      {
+        "label": "Light Blue Concrete Powder",
+        "value": 3
+      },
+      {
+        "label": "Yellow Concrete Powder",
+        "value": 4
+      },
+      {
+        "label": "Lime Concrete Powder",
+        "value": 5
+      },
+      {
+        "label": "Pink Concrete Powder",
+        "value": 6
+      },
+      {
+        "label": "Gray Concrete Powder",
+        "value": 7
+      },
+      {
+        "label": "Light Gray Concrete Powder",
+        "value": 8
+      },
+      {
+        "label": "Cyan Concrete Powder",
+        "value": 9
+      },
+      {
+        "label": "Purple Concrete Powder",
+        "value": 10
+      },
+      {
+        "label": "Blue Concrete Powder",
+        "value": 11
+      },
+      {
+        "label": "Brown Concrete Powder",
+        "value": 12
+      },
+      {
+        "label": "Green Concrete Powder",
+        "value": 13
+      },
+      {
+        "label": "Red Concrete Powder",
+        "value": 14
+      },
+      {
+        "label": "Black Concrete Powder",
+        "value": 15
+      }
+    ],
+    "meta": [
+      {
+        "key": "color",
+        "values": [
+          {
+            "value": "White",
+            "mask": 0
+          },
+          {
+            "value": "Orange",
+            "mask": 1
+          },
+          {
+            "value": "Magenta",
+            "mask": 2
+          },
+          {
+            "value": "Light Blue",
+            "mask": 3
+          },
+          {
+            "value": "Yellow",
+            "mask": 4
+          },
+          {
+            "value": "Lime",
+            "mask": 5
+          },
+          {
+            "value": "Pink",
+            "mask": 6
+          },
+          {
+            "value": "Gray",
+            "mask": 7
+          },
+          {
+            "value": "Light Gray",
+            "mask": 8
+          },
+          {
+            "value": "Cyan",
+            "mask": 9
+          },
+          {
+            "value": "Purple",
+            "mask": 10
+          },
+          {
+            "value": "Blue",
+            "mask": 11
+          },
+          {
+            "value": "Brown",
+            "mask": 12
+          },
+          {
+            "value": "Green",
+            "mask": 13
+          },
+          {
+            "value": "Red",
+            "mask": 14
+          },
+          {
+            "value": "Black",
+            "mask": 15
+          }
+        ],
+        "technical": null
+      }
+    ],
+    "flags": {
+      "isBlock": true,
+      "durability": null,
+      "dyeable": null,
+      "repairable": null,
+      "enchantments": null,
+      "editors": []
     },
-    {
-      "label": "Orange Concrete Powder",
-      "value": 1
-    },
-    {
-      "label": "Magenta Concrete Powder",
-      "value": 2
-    },
-    {
-      "label": "Light Blue Concrete Powder",
-      "value": 3
-    },
-    {
-      "label": "Yellow Concrete Powder",
-      "value": 4
-    },
-    {
-      "label": "Lime Concrete Powder",
-      "value": 5
-    },
-    {
-      "label": "Pink Concrete Powder",
-      "value": 6
-    },
-    {
-      "label": "Gray Concrete Powder",
-      "value": 7
-    },
-    {
-      "label": "Light Gray Concrete Powder",
-      "value": 8
-    },
-    {
-      "label": "Cyan Concrete Powder",
-      "value": 9
-    },
-    {
-      "label": "Purple Concrete Powder",
-      "value": 10
-    },
-    {
-      "label": "Blue Concrete Powder",
-      "value": 11
-    },
-    {
-      "label": "Brown Concrete Powder",
-      "value": 12
-    },
-    {
-      "label": "Green Concrete Powder",
-      "value": 13
-    },
-    {
-      "label": "Red Concrete Powder",
-      "value": 14
-    },
-    {
-      "label": "Black Concrete Powder",
-      "value": 15
-    }
-  ],
-  "meta": [
-    {
-      "key": "color",
-      "values": [
-        {
-          "value": "White",
-          "mask": 0
-        },
-        {
-          "value": "Orange",
-          "mask": 1
-        },
-        {
-          "value": "Magenta",
-          "mask": 2
-        },
-        {
-          "value": "Light Blue",
-          "mask": 3
-        },
-        {
-          "value": "Yellow",
-          "mask": 4
-        },
-        {
-          "value": "Lime",
-          "mask": 5
-        },
-        {
-          "value": "Pink",
-          "mask": 6
-        },
-        {
-          "value": "Gray",
-          "mask": 7
-        },
-        {
-          "value": "Light Gray",
-          "mask": 8
-        },
-        {
-          "value": "Cyan",
-          "mask": 9
-        },
-        {
-          "value": "Purple",
-          "mask": 10
-        },
-        {
-          "value": "Blue",
-          "mask": 11
-        },
-        {
-          "value": "Brown",
-          "mask": 12
-        },
-        {
-          "value": "Green",
-          "mask": 13
-        },
-        {
-          "value": "Red",
-          "mask": 14
-        },
-        {
-          "value": "Black",
-          "mask": 15
-        }
-      ],
-      "technical": null
-    }
-  ],
-  "flags": {
-    "isBlock": true,
-    "durability": null,
-    "dyeable": null,
-    "repairable": null,
-    "enchantments": null,
-    "editors": []
-  },
-  "mod": "minecraft",
-  "id": "concrete_powder",
-  "name": "Concrete Powder",
-  "introduced_at": "17w06a",
-  "changed_at": "17w06a",
-  "technical": false
-}
+    "mod": "minecraft",
+    "id": "concrete_powder",
+    "name": "Concrete Powder",
+    "technical": false,
+    "version": "17w06a"
+  }
+]

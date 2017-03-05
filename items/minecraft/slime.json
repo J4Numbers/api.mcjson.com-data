@@ -1,11 +1,12 @@
-{
-  "mod": "minecraft",
-  "id": "slime",
-  "name": "Slime Block",
-  "introduced_at": "1.8",
-  "technical": false,
-  "changed_at": "1.8",
-  "flags": {
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "slime",
+    "name": "Slime Block",
+    "technical": false,
+    "flags": {
+      "isBlock": true
+    },
+    "version": "1.8"
   }
-}
+]

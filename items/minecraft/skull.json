@@ -1,42 +1,43 @@
-{
-  "mod": "minecraft",
-  "id": "skull",
-  "name": "Mob Head",
-  "technical": true,
-  "introduced_at": "1.0",
-  "changed_at": "15w31a",
-  "meta": [
-    {
-      "key": "variant",
-      "values": [
-        {
-          "value": "Skeleton",
-          "mask": 0
-        },
-        {
-          "value": "Wither Skeleton",
-          "mask": 1
-        },
-        {
-          "value": "Zombie",
-          "mask": 2
-        },
-        {
-          "value": "Head",
-          "mask": 3
-        },
-        {
-          "value": "Creeper",
-          "mask": 4
-        },
-        {
-          "value": "Dragon",
-          "mask": 5
-        }
-      ]
-    }
-  ],
-  "flags": {
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "skull",
+    "name": "Mob Head",
+    "technical": true,
+    "meta": [
+      {
+        "key": "variant",
+        "values": [
+          {
+            "value": "Skeleton",
+            "mask": 0
+          },
+          {
+            "value": "Wither Skeleton",
+            "mask": 1
+          },
+          {
+            "value": "Zombie",
+            "mask": 2
+          },
+          {
+            "value": "Head",
+            "mask": 3
+          },
+          {
+            "value": "Creeper",
+            "mask": 4
+          },
+          {
+            "value": "Dragon",
+            "mask": 5
+          }
+        ]
+      }
+    ],
+    "flags": {
+      "isBlock": true
+    },
+    "version": "15w31a"
   }
-}
+]

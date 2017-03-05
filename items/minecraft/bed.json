@@ -1,11 +1,12 @@
-{
-  "mod": "minecraft",
-  "id": "bed",
-  "name": "Bed",
-  "technical": true,
-  "introduced_at": "1.0",
-  "changed_at": "1.0",
-  "flags": {
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "bed",
+    "name": "Bed",
+    "technical": true,
+    "flags": {
+      "isBlock": true
+    },
+    "version": "1.0"
   }
-}
+]

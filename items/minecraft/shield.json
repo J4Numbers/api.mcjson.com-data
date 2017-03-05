@@ -1,9 +1,10 @@
-{
-  "mod": "minecraft",
-  "id": "shield",
-  "name": "Shield",
-  "technical": false,
-  "introduced_at": "15w33c",
-  "changed_at": "15w33c",
-  "flags": {}
-}
+[
+  {
+    "mod": "minecraft",
+    "id": "shield",
+    "name": "Shield",
+    "technical": false,
+    "flags": {},
+    "version": "15w33c"
+  }
+]

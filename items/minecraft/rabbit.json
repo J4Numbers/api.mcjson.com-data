@@ -1,9 +1,10 @@
-{
-  "mod": "minecraft",
-  "id": "rabbit",
-  "name": "Raw Rabbit",
-  "technical": false,
-  "introduced_at": "14w34d",
-  "changed_at": "1.8",
-  "flags": {}
-}
+[
+  {
+    "mod": "minecraft",
+    "id": "rabbit",
+    "name": "Raw Rabbit",
+    "technical": false,
+    "flags": {},
+    "version": "1.8"
+  }
+]

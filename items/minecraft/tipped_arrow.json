@@ -1,9 +1,10 @@
-{
-  "mod": "minecraft",
-  "id": "tipped_arrow",
-  "name": "Tipped Arrow",
-  "technical": false,
-  "introduced_at": "15w31a",
-  "changed_at": "15w31a",
-  "flags": {}
-}
+[
+  {
+    "mod": "minecraft",
+    "id": "tipped_arrow",
+    "name": "Tipped Arrow",
+    "technical": false,
+    "flags": {},
+    "version": "15w31a"
+  }
+]

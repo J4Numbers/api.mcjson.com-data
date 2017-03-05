@@ -1,9 +1,10 @@
-{
-  "mod": "minecraft",
-  "id": "flint_and_steel",
-  "name": "Flint and Steel",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.0",
-  "flags": {}
-}
+[
+  {
+    "mod": "minecraft",
+    "id": "flint_and_steel",
+    "name": "Flint and Steel",
+    "technical": false,
+    "flags": {},
+    "version": "1.0"
+  }
+]

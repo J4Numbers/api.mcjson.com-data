@@ -1,9 +1,10 @@
-{
-  "mod": "minecraft",
-  "id": "dragon_breath",
-  "name": "Dragon's Breath",
-  "technical": false,
-  "introduced_at": "15w33a",
-  "changed_at": "15w33a",
-  "flags": {}
-}
+[
+  {
+    "mod": "minecraft",
+    "id": "dragon_breath",
+    "name": "Dragon's Breath",
+    "technical": false,
+    "flags": {},
+    "version": "15w33a"
+  }
+]

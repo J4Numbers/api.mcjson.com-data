@@ -1,50 +1,51 @@
-{
-  "mod": "minecraft",
-  "id": "stone_slab",
-  "name": "Slab",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.0",
-  "meta": [
-    {
-      "key": "variant",
-      "values": [
-        {
-          "value": "Stone Slab",
-          "mask": 0
-        },
-        {
-          "value": "Sandstone Slab",
-          "mask": 1
-        },
-        {
-          "value": "Wooden Slab",
-          "mask": 2
-        },
-        {
-          "value": "Cobblestone Slab",
-          "mask": 3
-        },
-        {
-          "value": "Brick Slab",
-          "mask": 4
-        },
-        {
-          "value": "Stone Brick Slab",
-          "mask": 5
-        },
-        {
-          "value": "Nether Brick Slab",
-          "mask": 6
-        },
-        {
-          "value": "Quartz Slab",
-          "mask": 7
-        }
-      ]
-    }
-  ],
-  "flags": {
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "stone_slab",
+    "name": "Slab",
+    "technical": false,
+    "meta": [
+      {
+        "key": "variant",
+        "values": [
+          {
+            "value": "Stone Slab",
+            "mask": 0
+          },
+          {
+            "value": "Sandstone Slab",
+            "mask": 1
+          },
+          {
+            "value": "Wooden Slab",
+            "mask": 2
+          },
+          {
+            "value": "Cobblestone Slab",
+            "mask": 3
+          },
+          {
+            "value": "Brick Slab",
+            "mask": 4
+          },
+          {
+            "value": "Stone Brick Slab",
+            "mask": 5
+          },
+          {
+            "value": "Nether Brick Slab",
+            "mask": 6
+          },
+          {
+            "value": "Quartz Slab",
+            "mask": 7
+          }
+        ]
+      }
+    ],
+    "flags": {
+      "isBlock": true
+    },
+    "version": "1.0"
   }
-}
+]

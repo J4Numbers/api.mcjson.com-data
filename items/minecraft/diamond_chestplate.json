@@ -1,9 +1,10 @@
-{
-  "mod": "minecraft",
-  "id": "diamond_chestplate",
-  "name": "Diamond Chestplate",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.0",
-  "flags": {}
-}
+[
+  {
+    "mod": "minecraft",
+    "id": "diamond_chestplate",
+    "name": "Diamond Chestplate",
+    "technical": false,
+    "flags": {},
+    "version": "1.0"
+  }
+]

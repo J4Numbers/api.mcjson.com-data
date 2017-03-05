@@ -1,11 +1,12 @@
-{
-  "mod": "minecraft",
-  "id": "hay_block",
-  "name": "Hay Bale",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.6.0",
-  "flags": {
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "hay_block",
+    "name": "Hay Bale",
+    "technical": false,
+    "flags": {
+      "isBlock": true
+    },
+    "version": "1.6.0"
   }
-}
+]

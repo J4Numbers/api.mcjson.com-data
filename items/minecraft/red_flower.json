@@ -1,54 +1,55 @@
-{
-  "mod": "minecraft",
-  "id": "red_flower",
-  "name": "Poppy",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.7.0",
-  "meta": [
-    {
-      "key": "variant",
-      "values": [
-        {
-          "value": "Poppy",
-          "mask": 0
-        },
-        {
-          "value": "Blue Orchid",
-          "mask": 1
-        },
-        {
-          "value": "Allium",
-          "mask": 2
-        },
-        {
-          "value": "Azure Bluet",
-          "mask": 3
-        },
-        {
-          "value": "Red Tulip",
-          "mask": 4
-        },
-        {
-          "value": "Orange Tulip",
-          "mask": 5
-        },
-        {
-          "value": "White Tulip",
-          "mask": 6
-        },
-        {
-          "value": "Pink Tulip",
-          "mask": 7
-        },
-        {
-          "value": "Oxeye Daisy",
-          "mask": 8
-        }
-      ]
-    }
-  ],
-  "flags": {
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "red_flower",
+    "name": "Poppy",
+    "technical": false,
+    "meta": [
+      {
+        "key": "variant",
+        "values": [
+          {
+            "value": "Poppy",
+            "mask": 0
+          },
+          {
+            "value": "Blue Orchid",
+            "mask": 1
+          },
+          {
+            "value": "Allium",
+            "mask": 2
+          },
+          {
+            "value": "Azure Bluet",
+            "mask": 3
+          },
+          {
+            "value": "Red Tulip",
+            "mask": 4
+          },
+          {
+            "value": "Orange Tulip",
+            "mask": 5
+          },
+          {
+            "value": "White Tulip",
+            "mask": 6
+          },
+          {
+            "value": "Pink Tulip",
+            "mask": 7
+          },
+          {
+            "value": "Oxeye Daisy",
+            "mask": 8
+          }
+        ]
+      }
+    ],
+    "flags": {
+      "isBlock": true
+    },
+    "version": "1.7.0"
   }
-}
+]

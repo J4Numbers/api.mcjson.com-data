@@ -1,42 +1,43 @@
-{
-  "variants": [
-    {
-      "label": "Coal",
-      "value": 0
+[
+  {
+    "variants": [
+      {
+        "label": "Coal",
+        "value": 0
+      },
+      {
+        "label": "Charcoal",
+        "value": 1
+      }
+    ],
+    "meta": [
+      {
+        "key": "type",
+        "values": [
+          {
+            "value": "Coal",
+            "mask": 0
+          },
+          {
+            "value": "Charcoal",
+            "mask": 1
+          }
+        ],
+        "technical": null
+      }
+    ],
+    "flags": {
+      "isBlock": false,
+      "durability": null,
+      "dyeable": null,
+      "repairable": null,
+      "enchantments": null,
+      "editors": null
     },
-    {
-      "label": "Charcoal",
-      "value": 1
-    }
-  ],
-  "meta": [
-    {
-      "key": "type",
-      "values": [
-        {
-          "value": "Coal",
-          "mask": 0
-        },
-        {
-          "value": "Charcoal",
-          "mask": 1
-        }
-      ],
-      "technical": null
-    }
-  ],
-  "flags": {
-    "isBlock": false,
-    "durability": null,
-    "dyeable": null,
-    "repairable": null,
-    "enchantments": null,
-    "editors": null
-  },
-  "mod": "minecraft",
-  "id": "coal",
-  "name": "Coal",
-  "introduced_at": "1.0",
-  "changed_at": "1.0",
-  "technical": false
-}
+    "mod": "minecraft",
+    "id": "coal",
+    "name": "Coal",
+    "technical": false,
+    "version": "1.0"
+  }
+]

@@ -1,11 +1,12 @@
-{
-  "mod": "minecraft",
-  "id": "beetroots",
-  "name": "Beetroot Seeds",
-  "technical": false,
-  "introduced_at": "1.9",
-  "changed_at": "1.9",
-  "flags": {
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "beetroots",
+    "name": "Beetroot Seeds",
+    "technical": false,
+    "flags": {
+      "isBlock": true
+    },
+    "version": "1.9"
   }
-}
+]

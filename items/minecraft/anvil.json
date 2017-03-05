@@ -1,11 +1,12 @@
-{
-  "mod": "minecraft",
-  "id": "anvil",
-  "name": "Anvil",
-  "introduced_at": "1.0",
-  "changed_at": "1.0",
-  "flags": {
-    "physics": true,
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "anvil",
+    "name": "Anvil",
+    "flags": {
+      "physics": true,
+      "isBlock": true
+    },
+    "version": "1.0"
   }
-}
+]

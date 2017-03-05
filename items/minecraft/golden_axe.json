@@ -1,11 +1,12 @@
-{
-  "mod": "minecraft",
-  "id": "golden_axe",
-  "name": "Golden Axe",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.0",
-  "flags": {
-    "durability": 32
+[
+  {
+    "mod": "minecraft",
+    "id": "golden_axe",
+    "name": "Golden Axe",
+    "technical": false,
+    "flags": {
+      "durability": 32
+    },
+    "version": "1.0"
   }
-}
+]

@@ -1,11 +1,12 @@
-{
-  "mod": "minecraft",
-  "id": "gravel",
-  "name": "Gravel",
-  "introduced_at": "1.0",
-  "changed_at": "1.0",
-  "flags": {
-    "physics": true,
-    "isBlock": true
+[
+  {
+    "mod": "minecraft",
+    "id": "gravel",
+    "name": "Gravel",
+    "flags": {
+      "physics": true,
+      "isBlock": true
+    },
+    "version": "1.0"
   }
-}
+]

@@ -1,63 +1,64 @@
-{
-  "mod": "minecraft",
-  "id": "tripwire_hook",
-  "name": "Tripwire",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.0",
-  "meta": [
-    {
-      "key": "facing",
-      "technical": true,
-      "values": [
-        {
-          "value": "south",
-          "mask": 0
-        },
-        {
-          "value": "west",
-          "mask": 1
-        },
-        {
-          "value": "north",
-          "mask": 2
-        },
-        {
-          "value": "east",
-          "mask": 3
-        }
-      ]
+[
+  {
+    "mod": "minecraft",
+    "id": "tripwire_hook",
+    "name": "Tripwire",
+    "technical": false,
+    "meta": [
+      {
+        "key": "facing",
+        "technical": true,
+        "values": [
+          {
+            "value": "south",
+            "mask": 0
+          },
+          {
+            "value": "west",
+            "mask": 1
+          },
+          {
+            "value": "north",
+            "mask": 2
+          },
+          {
+            "value": "east",
+            "mask": 3
+          }
+        ]
+      },
+      {
+        "key": "attached",
+        "technical": true,
+        "values": [
+          {
+            "value": "false",
+            "mask": 0
+          },
+          {
+            "value": "true",
+            "mask": 4
+          }
+        ]
+      },
+      {
+        "key": "powered",
+        "technical": true,
+        "values": [
+          {
+            "value": "false",
+            "mask": 0
+          },
+          {
+            "value": "true",
+            "mask": 8
+          }
+        ]
+      }
+    ],
+    "flags": {
+      "isBlock": true
     },
-    {
-      "key": "attached",
-      "technical": true,
-      "values": [
-        {
-          "value": "false",
-          "mask": 0
-        },
-        {
-          "value": "true",
-          "mask": 4
-        }
-      ]
-    },
-    {
-      "key": "powered",
-      "technical": true,
-      "values": [
-        {
-          "value": "false",
-          "mask": 0
-        },
-        {
-          "value": "true",
-          "mask": 8
-        }
-      ]
-    }
-  ],
-  "flags": {
-    "isBlock": true
+    "version": "1.0"
   }
-}
+]

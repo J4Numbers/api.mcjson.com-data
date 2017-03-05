@@ -1,154 +1,155 @@
-{
-  "variants": [
-    {
-      "label": "White Wool",
-      "value": 0
+[
+  {
+    "variants": [
+      {
+        "label": "White Wool",
+        "value": 0
+      },
+      {
+        "label": "Orange Wool",
+        "value": 1
+      },
+      {
+        "label": "Magenta Wool",
+        "value": 2
+      },
+      {
+        "label": "Light Blue Wool",
+        "value": 3
+      },
+      {
+        "label": "Yellow Wool",
+        "value": 4
+      },
+      {
+        "label": "Lime Wool",
+        "value": 5
+      },
+      {
+        "label": "Pink Wool",
+        "value": 6
+      },
+      {
+        "label": "Gray Wool",
+        "value": 7
+      },
+      {
+        "label": "Light Gray Wool",
+        "value": 8
+      },
+      {
+        "label": "Cyan Wool",
+        "value": 9
+      },
+      {
+        "label": "Purple Wool",
+        "value": 10
+      },
+      {
+        "label": "Blue Wool",
+        "value": 11
+      },
+      {
+        "label": "Brown Wool",
+        "value": 12
+      },
+      {
+        "label": "Green Wool",
+        "value": 13
+      },
+      {
+        "label": "Red Wool",
+        "value": 14
+      },
+      {
+        "label": "Black Wool",
+        "value": 15
+      }
+    ],
+    "meta": [
+      {
+        "key": "color",
+        "values": [
+          {
+            "value": "White",
+            "mask": 0
+          },
+          {
+            "value": "Orange",
+            "mask": 1
+          },
+          {
+            "value": "Magenta",
+            "mask": 2
+          },
+          {
+            "value": "Light Blue",
+            "mask": 3
+          },
+          {
+            "value": "Yellow",
+            "mask": 4
+          },
+          {
+            "value": "Lime",
+            "mask": 5
+          },
+          {
+            "value": "Pink",
+            "mask": 6
+          },
+          {
+            "value": "Gray",
+            "mask": 7
+          },
+          {
+            "value": "Light Gray",
+            "mask": 8
+          },
+          {
+            "value": "Cyan",
+            "mask": 9
+          },
+          {
+            "value": "Purple",
+            "mask": 10
+          },
+          {
+            "value": "Blue",
+            "mask": 11
+          },
+          {
+            "value": "Brown",
+            "mask": 12
+          },
+          {
+            "value": "Green",
+            "mask": 13
+          },
+          {
+            "value": "Red",
+            "mask": 14
+          },
+          {
+            "value": "Black",
+            "mask": 15
+          }
+        ],
+        "technical": null
+      }
+    ],
+    "flags": {
+      "isBlock": true,
+      "durability": null,
+      "dyeable": null,
+      "repairable": null,
+      "enchantments": null,
+      "editors": null
     },
-    {
-      "label": "Orange Wool",
-      "value": 1
-    },
-    {
-      "label": "Magenta Wool",
-      "value": 2
-    },
-    {
-      "label": "Light Blue Wool",
-      "value": 3
-    },
-    {
-      "label": "Yellow Wool",
-      "value": 4
-    },
-    {
-      "label": "Lime Wool",
-      "value": 5
-    },
-    {
-      "label": "Pink Wool",
-      "value": 6
-    },
-    {
-      "label": "Gray Wool",
-      "value": 7
-    },
-    {
-      "label": "Light Gray Wool",
-      "value": 8
-    },
-    {
-      "label": "Cyan Wool",
-      "value": 9
-    },
-    {
-      "label": "Purple Wool",
-      "value": 10
-    },
-    {
-      "label": "Blue Wool",
-      "value": 11
-    },
-    {
-      "label": "Brown Wool",
-      "value": 12
-    },
-    {
-      "label": "Green Wool",
-      "value": 13
-    },
-    {
-      "label": "Red Wool",
-      "value": 14
-    },
-    {
-      "label": "Black Wool",
-      "value": 15
-    }
-  ],
-  "meta": [
-    {
-      "key": "color",
-      "values": [
-        {
-          "value": "White",
-          "mask": 0
-        },
-        {
-          "value": "Orange",
-          "mask": 1
-        },
-        {
-          "value": "Magenta",
-          "mask": 2
-        },
-        {
-          "value": "Light Blue",
-          "mask": 3
-        },
-        {
-          "value": "Yellow",
-          "mask": 4
-        },
-        {
-          "value": "Lime",
-          "mask": 5
-        },
-        {
-          "value": "Pink",
-          "mask": 6
-        },
-        {
-          "value": "Gray",
-          "mask": 7
-        },
-        {
-          "value": "Light Gray",
-          "mask": 8
-        },
-        {
-          "value": "Cyan",
-          "mask": 9
-        },
-        {
-          "value": "Purple",
-          "mask": 10
-        },
-        {
-          "value": "Blue",
-          "mask": 11
-        },
-        {
-          "value": "Brown",
-          "mask": 12
-        },
-        {
-          "value": "Green",
-          "mask": 13
-        },
-        {
-          "value": "Red",
-          "mask": 14
-        },
-        {
-          "value": "Black",
-          "mask": 15
-        }
-      ],
-      "technical": null
-    }
-  ],
-  "flags": {
-    "isBlock": true,
-    "durability": null,
-    "dyeable": null,
-    "repairable": null,
-    "enchantments": null,
-    "editors": null
-  },
-  "mod": "minecraft",
-  "id": "wool",
-  "name": "Wool",
-  "introduced_at": "1.0",
-  "changed_at": "1.0",
-  "technical": false
-}
+    "mod": "minecraft",
+    "id": "wool",
+    "name": "Wool",
+    "technical": false,
+    "version": "1.0"
+  }
+]

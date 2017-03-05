@@ -1,9 +1,10 @@
-{
-  "mod": "minecraft",
-  "id": "milk_bucket",
-  "name": "Milk Bucket",
-  "technical": false,
-  "introduced_at": "1.0",
-  "changed_at": "1.0",
-  "flags": {}
-}
+[
+  {
+    "mod": "minecraft",
+    "id": "milk_bucket",
+    "name": "Milk Bucket",
+    "technical": false,
+    "flags": {},
+    "version": "1.0"
+  }
+]
