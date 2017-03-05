@@ -1,9 +1,10 @@
-{
-  "num_id": 71,
-  "introduced_at": "1.11.0-16w39a",
-  "changed_at": "1.11.0-16w39a",
-  "id": "vanishing_curse",
-  "name": "Curse of Vanishing",
-  "mod": "minecraft",
-  "level": 1
-}
+[
+  {
+    "num_id": 71,
+    "id": "vanishing_curse",
+    "name": "Curse of Vanishing",
+    "mod": "minecraft",
+    "level": 1,
+    "version": "1.11.0-16w39a"
+  }
+]

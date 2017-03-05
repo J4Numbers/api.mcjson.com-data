@@ -1,9 +1,10 @@
-{
-  "num_id": 10,
-  "level": 1,
-  "mod": "minecraft",
-  "id": "binding_curse",
-  "name": "Curse of Binding",
-  "introduced_at": "1.11.0-16w39a",
-  "changed_at": "1.11.0-16w39a"
-}
+[
+  {
+    "num_id": 10,
+    "level": 1,
+    "mod": "minecraft",
+    "id": "binding_curse",
+    "name": "Curse of Binding",
+    "version": "1.11.0-16w39a"
+  }
+]

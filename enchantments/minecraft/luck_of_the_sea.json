@@ -1,9 +1,10 @@
-{
-  "num_id": 61,
-  "introduced_at": "1.8.0",
-  "changed_at": "1.8.0",
-  "id": "luck_of_the_sea",
-  "name": "luck of the sea",
-  "mod": "minecraft",
-  "level": 3
-}
+[
+  {
+    "num_id": 61,
+    "id": "luck_of_the_sea",
+    "name": "luck of the sea",
+    "mod": "minecraft",
+    "level": 3,
+    "version": "1.8.0"
+  }
+]

@@ -1,9 +1,10 @@
-{
-  "num_id":7,
-  "introduced_at": "1.0.0",
-  "changed_at": "1.0.0",
-  "id": "thorns",
-  "name": "Thorns",
-  "mod": "minecraft",
-  "level": 3
-}
+[
+  {
+    "num_id": 7,
+    "id": "thorns",
+    "name": "Thorns",
+    "mod": "minecraft",
+    "level": 3,
+    "version": "1.0.0"
+  }
+]

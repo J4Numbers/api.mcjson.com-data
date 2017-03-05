@@ -1,9 +1,10 @@
-{
-  "num_id": 16,
-  "introduced_at": "1.0.0",
-  "changed_at": "1.0.0",
-  "id": "sharpness",
-  "name": "Sharpness",
-  "mod": "minecraft",
-  "level": 5
-}
+[
+  {
+    "num_id": 16,
+    "id": "sharpness",
+    "name": "Sharpness",
+    "mod": "minecraft",
+    "level": 5,
+    "version": "1.0.0"
+  }
+]

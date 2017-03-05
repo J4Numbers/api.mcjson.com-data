@@ -1,9 +1,10 @@
-{
-  "num_id": 34,
-  "introduced_at": "1.0.0",
-  "changed_at": "1.0.0",
-  "id": "unbreaking",
-  "name": "Unbreaking",
-  "mod": "minecraft",
-  "level": 3
-}
+[
+  {
+    "num_id": 34,
+    "id": "unbreaking",
+    "name": "Unbreaking",
+    "mod": "minecraft",
+    "level": 3,
+    "version": "1.0.0"
+  }
+]

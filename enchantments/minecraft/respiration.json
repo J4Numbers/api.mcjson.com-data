@@ -1,9 +1,10 @@
-{
-  "num_id":5,
-  "introduced_at": "1.0.0",
-  "changed_at": "1.0.0",
-  "id": "respiration",
-  "name": "Respiration",
-  "mod": "minecraft",
-  "level": 3
-}
+[
+  {
+    "num_id": 5,
+    "id": "respiration",
+    "name": "Respiration",
+    "mod": "minecraft",
+    "level": 3,
+    "version": "1.0.0"
+  }
+]

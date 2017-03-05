@@ -1,9 +1,10 @@
-{
-  "num_id": 21,
-  "level": 3,
-  "mod": "minecraft",
-  "id": "looting",
-  "name": "Looting",
-  "introduced_at": "1.0.0",
-  "changed_at": "1.0.0"
-}
+[
+  {
+    "num_id": 21,
+    "level": 3,
+    "mod": "minecraft",
+    "id": "looting",
+    "name": "Looting",
+    "version": "1.0.0"
+  }
+]

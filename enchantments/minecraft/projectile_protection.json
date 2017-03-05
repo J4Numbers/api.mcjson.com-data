@@ -1,9 +1,10 @@
-{
-  "num_id":4,
-  "introduced_at": "1.0.0",
-  "changed_at": "1.0.0",
-  "id": "projectile_protection",
-  "name": "Projectile Protection",
-  "mod": "minecraft",
-  "level": 4
-}
+[
+  {
+    "num_id": 4,
+    "id": "projectile_protection",
+    "name": "Projectile Protection",
+    "mod": "minecraft",
+    "level": 4,
+    "version": "1.0.0"
+  }
+]

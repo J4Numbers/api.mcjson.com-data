@@ -1,9 +1,10 @@
-{
-  "num_id": 49,
-  "introduced_at": "1.0.0",
-  "changed_at": "1.0.0",
-  "id": "punch",
-  "name": "Punch",
-  "mod": "minecraft",
-  "level": 2
-}
+[
+  {
+    "num_id": 49,
+    "id": "punch",
+    "name": "Punch",
+    "mod": "minecraft",
+    "level": 2,
+    "version": "1.0.0"
+  }
+]

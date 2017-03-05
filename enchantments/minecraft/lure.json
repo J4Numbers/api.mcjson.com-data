@@ -1,9 +1,10 @@
-{
-  "num_id": 62,
-  "introduced_at": "1.8.0",
-  "changed_at": "1.8.0",
-  "id": "lure",
-  "name": "Lure",
-  "mod": "minecraft",
-  "level": 3
-}
+[
+  {
+    "num_id": 62,
+    "id": "lure",
+    "name": "Lure",
+    "mod": "minecraft",
+    "level": 3,
+    "version": "1.8.0"
+  }
+]
