@@ -6,5 +6,27 @@
     "technical": false,
     "flags": {},
     "version": "1.0"
+  },
+  {
+    "mod": "minecraft",
+    "id": "boat",
+    "name": "Oak Boat",
+    "version": "1.9",
+    "technical": false,
+    "variants": [],
+    "meta": [],
+    "flags": {
+      "isBlock": false,
+      "durability": null,
+      "dyeable": null,
+      "repairable": null,
+      "enchantments": null,
+      "inventory": null,
+      "physics": null,
+      "hardness": null,
+      "unpushable": null,
+      "transparent": null,
+      "editors": null
+    }
   }
 ]
