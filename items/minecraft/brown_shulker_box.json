@@ -38,9 +38,6 @@
     ],
     "flags": {
       "inventory_slots": 27,
-      "editors": [
-        "SHULKER_BOX"
-      ],
       "isBlock": true
     },
     "version": "1.11.0"

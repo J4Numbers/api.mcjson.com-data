@@ -37,10 +37,10 @@
       }
     ],
     "flags": {
-      "inventory_slots": 27,
-      "editors": [
-        "SHULKER_BOX"
-      ],
+      "inventory": {
+        "slots": 27,
+        "type": "CHEST"
+      },
       "isBlock": true
     },
     "version": "1.11.0"
